@@ -1,0 +1,1099 @@
+//Index   Message
+0	"Lvl: {} | R: {}"
+1	""
+2	""
+3	""
+4	""
+//------------------------------------------
+// VIP Buy
+//------------------------------------------
+5  "VIP Buy Ingame"
+6  "Welcome, {}!"
+7  "Decide appropriately traveler."
+8  "Your fate could dependf on it!"
+9  "Buy VIP"
+10 "Cost:"
+11 "WC: {} "
+12 "WP: {} "
+13 "GP: {} "
+14 "To consult the benefitsre select:"
+15 "This is your current VIP level."
+16 "Your VIP level is already higher."
+17	"{} day(s)"
+18	"{} week(s)"
+19	"{} month(s)"
+20	"{} day(s)"
+21	""
+22	""
+23	""
+24	""
+25	""
+26	""
+27	""
+28	""
+//------------------------------------------
+// Simple Interface Text
+//------------------------------------------
+30	"Event List Info"
+31	"Page ({}/{})"
+32	"Event Name"
+33	"Time Left"
+34	"Online"
+35	"Disabled"
+36	"Prev Page"
+37	"Next Page"
+38	"Ranking List"
+39	"List"
+40	"GM List"
+41	"VIP List"
+42	"Command List"
+43	"Close"
+44	""
+//------------------------------------------
+// Item Value.
+//------------------------------------------
+45	"{} Zen"
+46	"{} WC"
+47	"{} WP"
+48	"{} GP"
+49	"{} Zen"
+50	"Buy Value: "
+51	"Sell Value: "
+52	""
+53	""
+54	""
+55	"{} WC"
+56	"{} WP"
+57	"{} GP"
+//------------------------------------------
+// OffStore.
+//------------------------------------------
+58	"WC"
+59	"WP"
+60	"GP"
+61	"Sell Value: {} Jewel of Bless"
+62	"Sell Value: {} Jewel of Soul"
+63	"Sell Value: {} Jewel of Chaos"
+64	"Value: {}"
+65	""
+//------------------------------------------
+// Item Buy Confirm.
+//------------------------------------------
+66	"Confirm"
+67	"Would you really like to buy this item?"
+68	""
+//------------------------------------------
+// Ping
+//------------------------------------------
+69	"Latency: {} ms"
+70	"Tiempo de Respuesta Servidor->Cliente"
+71	"Ping: {} ms"
+72	"Tiempo de Respuesta Cliente->Servidor"
+73	"Latency:"
+74	"Ping:"
+
+//------------------------------------------
+// Jewel Store
+//------------------------------------------
+75	"Banker - Nicolas"
+76	"I have been heard about you warrior"
+77	"The Oracle says you will come to me..."
+78	"The MU Continent is a dangerous place, "
+79	"walk by there with those precious items"
+80	"may cost your Life..."
+81	"I can save the Items for you"
+82	"Will be our secret!"
+83	"Please, tell me what to do."
+84	"Attention!"
+85	"Jewels are stored by Account" 
+86	"but remember, they are cursed"
+87	"and their adversities are unpredictable."
+88	"Deposit"
+89	"Withdraw"
+90	"Confirm Changes!"
+91	"Back to Main"
+92	"Deposit Jewels"
+93	"Withdraw Jewels"
+94	"Enable Auto Jewel Save"
+95 "{} sended to JewelBank"
+96	"RESERVADO 96"
+97	"RESERVADO 97"
+98	"RESERVADO 98"
+99	"RESERVADO 99"
+//------------------------------------------
+// XTR Register System
+//------------------------------------------
+100 "Register"
+101 "Account:"
+102 "Password:"
+103 "Email:"
+104 "Personal ID:"
+105 "Account Registration"
+106 "Register"
+107 "RESERVED 107"
+108 "RESERVED 108"
+109 "RESERVED 109"
+110 "RESERVED 110"
+111 "RESERVED 111"
+112 "RESERVED 110"
+113 "RESERVED 111"
+114 "RESERVED 112"
+115 "RESERVED 113"
+116 "RESERVED 114"
+117 "The length of the account must be greater than 4 letters"
+118 "Your email must have at least 4 letters"
+119 "Your PersonalID must have 10 numbers!"
+120 "The account has been created"
+121 "That account already exists"
+122 "You have created too many accounts. Please try again later!"
+123 "RESERVED 123"
+124 "Email format is invalid!"
+125 "RESERVED 125"
+126 "RESERVED 126"
+127 "RESERVED 127"
+128 "RESERVED 128"
+129 "RESERVED 129"
+130 "RESERVED 130"
+131 "RESERVED 131"
+132 "RESERVED 132"
+
+//------------------------------------------
+// Reconnect
+//------------------------------------------
+133	"Reconnecting to Server"
+134	"Loading Character Info"
+135	"Connection is almost done!"
+136	"Attempt {}/10, trying again in {} s"
+137	"Info"
+138	"You have been disconected from the Server"
+139	"RESERVADO 139"
+140	"RESERVADO 140"
+141	"RESERVADO 141"
+142	"RESERVADO 142"
+143	"RESERVADO 143"
+144	"RESERVADO 144"
+
+//------------------------------------------
+// Sky Event Interfaces Messages
+//------------------------------------------
+145	"Stage {}"
+146	"Monsters: {}"
+147	"Monsters {}/{}"
+148	"Minutes Left"
+149	"Event Finished!"
+150	"SkyEvent Enter"
+151	"You don't meet the requirements to enter SkyEvent"
+//------------------------------------------
+// SkyEvent Ranking
+//------------------------------------------
+152	"Monster Killer"
+153	"Boss Killer"
+154	"PvP Master"
+155	"SkyEvent Ranking"
+156 "Rank"
+157	"Name"
+158	"Points"
+
+//------------------------------------------
+// Chaos Machine
+//------------------------------------------
+159	"Success Rate: {}%"
+160	"RESERVADO 160"
+
+//------------------------------------------
+// Reset & Master System
+//------------------------------------------
+175	"Reset"
+176	"Master Reset"
+177	"Reset Panel"
+178	" "
+179	" "
+180	"Resets: {}"
+181	"Master Resets: {}"
+182	"Hello Warrior, i will help you to upgrade your power!"
+183	"Please check all requirements to Reset"
+184	"Please check all requirements to Master Reset"
+185	"- Reset Information"
+186	"Remove Stats & Command (DL Only)"
+187	"Remove Stats"
+188	"Remove Inventory"
+189	"Remove Skills"
+190	"Remove Quests"
+191	"Remove Skill Tree"
+192	"Remove Goblin Points"
+193	"Reward LevelUP Points: {}"
+194	"Total Reward LevelUP Points: {} ({} * Resets)"
+195	"Total Reward LevelUP Points: {} ({} * Master Resets)"
+196	"Reward Master Points: {}"
+197	"Total Master Points: {} ({} * Master Resets)"
+198 "Back to Start Map"
+199 "- Rewards"
+200	"- Requirements"
+201	"Zen: {}"
+202	"WC-Coins: {}"
+203	"WP-Coins: {}"
+204	"Goblin Points: {}"
+205	"Level: {}"
+206	"Resets: {}"
+207	"RESERVADO 207"
+208	"RESERVADO 208"
+209	"There is no Resets for you Now!"
+210	"Reset Now!"
+211	"M.Reset Now!"
+212	"Close Reset Interface"
+213 "Settings"
+214 "Reset System Settings"
+215 "Enable Auto-Reset"
+216 "Save Settings"
+217 "Have reached the limit of {} Resets"
+218 "Have reached the limit of {} M.Resets"
+219 "you can do for now..."
+220 "Must wait "
+221 "{} days, "
+222 "{} min, {} sec..."
+223 "{} hours, {} min..."
+224	"ItemBag Reward!" //V16
+225 "Reset Inventory + Equiped Items"
+226 "Reset Stats and Re Add Base"
+
+//------------------------------------------
+// Select Server Info
+//------------------------------------------
+245	"{} (Users {} / {}) "
+246	"GM: {} "
+247	"VIP: {}"
+
+//------------------------------------------
+// Ruud System
+//------------------------------------------
+250	"Ruud Shop - Priest James"
+251	"You can use Ruud to purchase Sealed Mastery"
+252	"Set Items."
+253	"You can unseal Sealed Sets by Combining."
+254	"Buy"
+255	"Would you like to purchase?"
+256	"OK"
+257	"CANCEL"
+258	"Would you like to use this item?"
+259	"OK"
+260	"CANCEL"
+
+261	"Mastery"
+//ruud Box
+262 " "
+263 " "
+264 " "
+//
+265 "Great"
+266 "Expensive"
+267 "Super"
+268 "Super Pro"
+269 "Super Great"
+270 "Ultra Pro"
+
+//------------------------------------------
+// MSPro Quest System
+//------------------------------------------
+271 "Quest NPC"
+272 "Questlist"
+273 "I have no challenges for you now..."
+274 "Come back later and maybe you'll be lucky."
+275 "Requirements"
+276 "Rewards"
+277 "Finish Quest!"
+278 "Accept Quest"
+279 "Quest Panel"
+280 "Requirements >"
+281 "Rewards >"
+282 "Description >"
+283 "Delete"
+284 "Finish!"
+285 "Not"
+286 "Confirm"
+288 "Main Quest"
+289 "NPC Quests"
+290 "Quest Panel"
+
+//Quest Systems - V12
+291 	"You can't accept this Quest!"
+292 	"Min Level: {}"
+293 	"Max Level: {}"
+294 	"Min Resets: {}"
+295 	"Max Resets: {}"
+296 	"Min Master Resets: {}"
+297 	"Max Master Resets: {}"
+298 	"Account {}"
+299 	"Account bellow {}"
+
+//------------------------------------------
+// Interfaces Messages
+//------------------------------------------
+300	"[AVISO]"
+301	"Close All Windows and Try Again"
+302	"RESERVADO 302"
+303	"RESERVADO 303"
+304	"RESERVADO 304"
+
+//------------------------------------------
+// Event Alarm.
+//------------------------------------------
+310 "The BC has already opened. Click to Enter!"
+311 "You already opened the DS. Click to Enter!"
+312 "The CC has already opened. Click to Enter!"
+313 "IT has already opened. Click to Enter!"
+314 "DG has already opened. Click to Enter!"
+315 "The SkyEvent has already opened. Click to Enter!"
+317	"Show/Hide Active Invasions List"
+
+
+//------------------------------------------
+// Menu Text
+//------------------------------------------
+400	"Common"
+401	"Anti-Lag"
+402	"Options"
+403	"Game Settings"
+404	"RESERVADO 404"
+405	"RESERVADO 405"
+406	"RESERVADO 406"
+407	"Activate 3D Camera"
+408	"Enable Mini Map"
+409	"Enable Server Time"
+410	"Enable Fog"
+411	"Enable Anisotropy Filter"
+412	"Enable Linear Filter"
+413	"RESERVADO 413"
+414	"RESERVADO 414"
+415	"RESERVADO 415"
+416	"RESERVADO 416"
+417	"Disable Static Effects"
+418	"Disable Dynamic Effects"
+419	"Disable Skills Effects"
+420	"Disable Glow Effects"
+421	"Disable Monsters / NPCs View"
+422	"Disable Characters Viewport"
+423	"Disable Map Objects"
+424	"Disable Character Items Preview"
+425	"Disable Shadows"
+426	"Disable Wings"
+427	"Auto-Accept Party"
+428	"Auto-Accept Guild Member"
+429	"Disable Player HP Bars"
+430	"Disable Rank Player Info"
+431	"Disable Global Messages"
+432	"Reduce Zen in Floor"
+433	"Languaje"
+434	"Resolution"
+435	"Show Monster Level on HP Bar"
+436	"Disable Monsters HP Bars"
+437	"Mini Map Enabled"
+438	"Mini Map Disabled"
+439	"Time Enabled"
+440	"Time Disabled"
+441	"Fog Enabled"
+442	"Fog Disabled"
+443	"Anisotropy Filter Enabled"
+444	"Anisotropy Filter Disabled"
+445	"Linear Filter Enabled"
+446	"Linear Filter Disabled"
+447	"Show Monster Name in HP Bar"
+448	"Show Guild Emblem in Name"
+449	"Monster Name in HP Bar OFF"
+450	"Monster Name in HP Bar ON"
+451	"Guild Emblem in Name OFF"
+452	"Guild Emblem in Name ON"
+453	"Always Show Character Name"
+454	"Always Show Name OFF"
+455	"Always Show Name ON"
+456	"FPS"
+457	"Static Effects Enabled"
+458	"Static Effects Disabled"
+459	"Dynamic Effects Enabled"
+460	"Dynamic Effects Disabled"
+461	"Skill Effects Enabled" 
+462	"Skill Effects Disabled"
+463	"Glow Effects Enabled"
+464	"Glow Effects Disabled"
+465	"Monsters / NPCs View Enabled"
+466	"Monsters / NPCs View Disabled"
+467	"Characters View Enabled"
+468	"Characters View Disabled"
+469	"Map Objects Enabled"
+470	"Map Objects Disabled"
+471	"Character ItemPreview Enabled"
+472	"Character ItemPreview Disabled"
+473 "Show Ping Bar"
+474 "Monster Level in HP Bar OFF"
+475 "Monster Level in HP Bar ON"
+476 "View Players Buff Icons"
+477	"Auto-Accept Party Active"
+478	"Auto-Accept Party Disable"
+479	"Auto-Guild Member Active"
+480	"Auto-Guild Member Disable"
+481	"Player HP Bar View Enabled"
+482	"Player HP Bar View Disabled"
+483	"Rank Info View Enabled"
+484	"Rank Info View Disabled"
+485	"Monsters HP Bar View Enabled"
+486	"Monsters HP Bar View Disabled"
+487	"RESERVADO 487"
+488	"RESERVADO 488"
+489	"RESERVADO 489"
+490	"RESERVADO 490"
+491	"RESERVADO 491"
+492	"RESERVADO 492"
+493	"RESERVADO 493"
+494 "English"
+495 "Español"
+496 "Português"
+
+//------------------------------------------
+// WareHouse Interface(V9)
+//------------------------------------------
+520	"Warehouse Selector"
+521	"Please select the Warehouse Number you want to open."
+522	"Close"
+523	"RESERVADO 523"
+524	"RESERVADO 524"
+525	"RESERVADO 525"
+526	"RESERVADO 526"
+527	"RESERVADO 527"
+528	"RESERVADO 528"
+529	"RESERVADO 529"
+530	"RESERVADO 530"
+
+//------------------------------------------
+// New Option Menus.
+//------------------------------------------
+531	"Configuraciones (F7)"
+532	"Please Update Client to Version {}.{}{}"
+533 "This Main.dll is not compatible with this GameServer Version. Please update the Game or contact with an Administrator..."
+534 "This Main.dll is not compatible with this Encoder Version. Please update the Game or contact with an Administrator..."
+535	"RESERVADO 535"
+536	"RESERVADO 536"
+537	"RESERVADO 537"
+538	"RESERVADO 538"
+539	"RESERVADO 539"
+540	"RESERVADO 540"
+
+//------------------------------------------
+// Pet Inventory(V9)
+//------------------------------------------
+541	"Pet Inventory"
+542	"Level: {}"
+543	"Life: {}%"
+544	"No Pet Equipped"
+545	"Information"
+546	"You can evolve Pets using an Evolution Stone"
+547	"to make more stronger Pets."
+548	"Evolved Pets adquire new special effects"
+549	"and incredible powers."
+550	"RESERVADO 550"
+
+//------------------------------------------
+// Add Stats Panel - V11
+//------------------------------------------
+600 "Add Stats Panel"
+601 "Add Stats"
+602 "Auto Add"
+603 "Full"
+604 "NOTICE! you have only {} points available."
+605 "Available Points: {}"
+606 "Add Points"
+607 "Enable Auto Add"
+608 "each"
+609 "levels"
+610 "NOTICE! Can't add more than 100%"
+611 "Save Changes"
+612 "Right click to open Add Stats Panel"
+
+//------------------------------------------
+// Flags System - V11
+//------------------------------------------
+650 "Flags System"
+651 "Available to purchase"
+652 "My Flags List"
+653 "- Using now!"
+654 "Buy Flag!"
+655 "Buy Flag"
+656 "Are you sure to buy this Flag?"
+657 "Acc Level: {}"
+658 "Req. Level: {}"
+659 "Req. Resets: {}"
+660 "Req. Zen: {}"
+661 "Req. WC: {}"
+662 "Req. WP: {}"
+663 "Req. GP: {}"
+664 "Req. Ruud: {}"
+665 "Use Time:"
+666 "Time Left:"
+667 " {} day(s)"
+668 " {} hour(s)"
+669 " {:02} min"
+670 " {:02} sec"
+671 "Click to Use"
+672 "Click to Preview"
+673 "Do not use Any Flag"
+674 "An error was produced trying to buy the Flag"
+
+//------------------------------------------
+// Party Matching - V12
+//------------------------------------------
+700 	"Party Matching"
+
+//Party Search
+701		"Find Party"
+702		"Enter in Party with random players"
+703		"and meet new friends to fight!"
+704		"Join Random Party!"
+705		"- Available Partys -"
+706		"Select Party from list to start Leveling"
+707		"Map is showed by Party Leader current Map"
+708		"Join"
+709		"Refresh"
+
+//Party Settings
+710		"Party Config"
+711		"- Main Settings"
+712		"Private"
+713		"(Don't show in List and Randoms)"
+714		"Use Password"
+715		"Auto Accept Party"
+716		"- Class Filter"
+717		"- Level / Resets Filter"
+718		"Min"
+719		"Max"
+720		"Check Level"
+721		"Check Resets"
+722		"Save Changes"
+723		"Enter party Password"
+724		"Party Requests"
+725		"Select a Character to Reject the Request"
+726		"or Accept it to allow to join into your Party"
+727		"Character Name"
+728		"Accept"
+729		"Reject"
+
+//------------------------------------------
+// Gremory Case - V12
+//------------------------------------------
+750		"Gremory Case"
+751		"If you exceed the max number of items you can carry"
+752		"in your inventory, items will be deleted starting from the first obtained item."
+753		"Character Inventory [ {} / {} ]"
+754		"Account Inventory [ {} / {} ]"
+755		"Expired..."
+756		"Time Left:"
+//Gremory Dialog
+757		"Confirm"
+758		"¿Are you sure to use this Item?"
+759		"You can use this Item only once"
+760		"OK"
+761		"CANCEL"
+762		"FAIL"
+763		"Selected Item is invalid."
+764		"Do not have Inventory space to get this item."
+765		"This item is already Expired and can not be claimed."
+766		"SUCCESS"
+767		"Item sended to your Inventory!"
+
+//------------------------------------------
+// Notification Messages - V12
+//------------------------------------------
+//Quest System
+800		"Quest Accepted"
+801		"Quest Finished!"
+//VIP System
+802		"Your VIP level has been upgraded"
+//Marry System
+803		"You are Married now... Congratulations!"
+//Reset System
+804		"A new Reset is available!"
+805		"You have made a Reset successfully"
+806		"You have made a Master Reset successfully"
+//Flags
+807		"Flag buyed successfully"
+//Exchangers
+808		"You have made an Exchange successfully"
+//Party Matching
+809		"Party Joined successfully"
+810		"There is no available Party for you right now"
+811		"Party Password is invalid"
+//Auto PvP
+812		"Auto PvP Enabled"                   
+813		"Auto PvP Disabled" 
+
+//Reset System Add-on
+814        "Please remove equipped Items!"
+
+//------------------------------------------
+// Daily Bonus - V13
+//------------------------------------------
+815		"Bonus was already claimed!"
+816		"To claim Sunday Bonus must have All days completed"
+817		"Bonus claimed... Thanks for playing!"
+818		"This Bonus can't be claimed right now."
+819		"Restart the Game to apply the change to this Resolution"
+
+//------------------------------------------
+// PersonalStore Add ons - V12
+//------------------------------------------
+900        "If you activate Off-Store your character"
+901        "will stay connected and Personal Store open."
+902        "Make sure you have selected"
+903        "the right currency before open Store"
+904        "Start Off-Store!"
+905        "Selling by {}"
+906        "This Store accepts only {}!"
+907        "NOTICE!"
+
+//------------------------------------------
+// Daily Bonus - V13
+//------------------------------------------
+950		"Daily Bonus"
+951		"Come every day to get NEW rewards for FREE!"
+952		"GET NOW!!!"
+953		"POSSIBLE REWARDS!"
+954		"Sorry but it looks like there are no rewards available"
+955		"Please come back later..."
+
+
+//------------------------------------------
+// Account Selector - V13
+//------------------------------------------
+980		"Saved Account List"
+981		"Clicking on an account on list"
+982		"will enter the game directly"
+983		"Save Account in List!"
+984		"Show list when Open Login"
+
+//------------------------------------------
+// Active Invasions - V13
+//------------------------------------------
+1000	"left"
+1001	"Time left: "
+
+//------------------------------------------
+// Wheel of Fortune - V14
+//------------------------------------------
+1100	"Wheel of Fortune"
+1101	"¡Congratulations!"
+1102	"Oh sorry but you did not win any Item! :("
+1103	"OK"
+1104	"NO MORE SPINS AVAILABLE"
+1105	"YOU CAN BUY AN EXTRA SPIN"
+1106	"IF YOU WANT TO TRY YOUR LUCK"
+1107	"EXTRA SPIN PAYMENT:"
+1108	"<< BACK"
+1109	"BUY SPIN"
+1110	"SPINS LEFT: {}"
+1111	"USE REQUIRED PAYMENT:"
+1112	"SPIN NOW!"
+1113	"YOU DON'T MEET THE REQUIREMENTS"
+1114	"TO USE THIS WHEEL..."
+1115	"{} Levels"
+1116	"VIP Level: {}"
+1117	"Min Level: {}"
+1118	"Max Level: {}"
+1119	"Min Resets: {}"
+1120	"Max Resets: {}"
+1121	"Min M.Resets: {}"
+1122	"Max M.Resets: {}"
+1123	"{} Levels"
+1124	"{} Resets"
+1125	"{} M.Resets"
+1126	"{} Zen"
+1127	"{} WCoinC"
+1128	"{} WCoinP"
+1129	"{} GoblinPoints"
+1130	"{} Ruuds"
+1131	"REQUIREMENTS:"
+1132	"You don not have enough space to Run the Wheel!"
+1133	"- NEXT RESET: {} -"
+1134	"MONDAY"
+1135	"TUESDAY"
+1136	"WEDNESDAY"
+1137	"THURSDAY"
+1138	"FRIDAY"
+1139	"SATURDAY"
+1140	"SUNDAY"
+1141	"{} LevelPoints"
+
+//------------------------------------------
+// Kill Log - V14
+//------------------------------------------
+1200	"Kill Log"
+1201	"Name"
+1202	"Class"
+1203	"Level"
+1204	"Resets"
+1205	"M.Resets"
+1206	"Kills"
+1207	"Deaths"
+1208	"Guild"
+1209	"Date"
+1210	"{}-{:02}-{:02}  {:02}:{:02}:{:02}"
+
+//------------------------------------------
+// Lock Manager - V14
+//------------------------------------------
+1250	"Lock Manager"
+1251	"Lock Options"
+1252	"Select the options you want to Lock"
+1253	"LOCKED"
+1254	"UNLOCKED"
+1255	"Save Options!"
+1256	"Change Lock Key"
+1257	"Confirm with your Key Number!"
+1258	"Key Number"
+1259	"10 numbers max"
+1260	"Change your Lock Key"
+1261	"Current Key"
+1262	"New Key"
+1263	"Move Items"
+1264	"Personal Store Use"
+1265	"Shop / CashShop Buy"
+1266	"Shop Sell"
+1267	"Jewel Bank Use"
+1268	"Stats Change"
+1269	"Commands Use"
+1270	"Guild Changes"
+1271	"Delete Characters"
+
+
+
+//------------------------------------------
+// AntiWarp Zone - V14
+//------------------------------------------
+1300	"< BANNED >"
+
+//------------------------------------------
+// Character Extra Info - V15
+//------------------------------------------
+1350	"Character Extra Info"
+1351	"Waiting data..."
+1352	"Base Info"
+1353	"- Level:"
+1354	"- Master Level:"
+1355	"- Resets:"
+1356	"- Master Resets:"
+1357	"- Experience:"
+1358	"- Item Drop:"
+1359	"Damage Info"
+1360	"- Total Damage Reflect:"
+1361	"- Full Damage Reflect Rate:"
+1362	"- Critical Damage Rate:"
+1363	"- Critical Damage Power:"
+1364	"- Excellent Damage Rate:"
+1365	"- Excellent Damage Power:"
+1366	"- Double Damage Rate:"
+1367	"- Triple Damage Rate:"
+1368	"- Damage Reduction Rate:"
+1369	"- Increase Damage PvP:"
+1370	"- Shield Damage Reduction Rate:"
+1371	"- SD Decrease Damage Rate:"
+1372	"Defense Info"
+1373	"- Ignore Defense Rate:"
+1374	"- Ignore SD Rate:"
+1375	"- Increase Defense PvP:"
+1376	"- Double Damage Resistance Rate:"
+1377	"- Ignore Defense Resistance Rate:"
+1378	"- Ignore SD Resistance Rate:"
+1379	"- Critical Damage Resistance Rate:"
+1380	"- Excellent Damage Resistance Rate:"
+1381	"- Stun Resist Rate:"
+1382	"Elements Info"
+1383	"- Ice Resistance:"
+1384	"- Poison Resistance:"
+1385	"- Lightning Resistance:"
+1386	"- Fire Resistance:"
+1387	"- Earth Resistance:"
+1388	"- Wind Resistance:"
+1389	"- Water Resistance:"
+1390	"Recovery Info"
+1391	"- Full HP Restore Rate:"
+1392	"- Full MP Restore Rate:"
+1393	"- Full SD Restore Rate:"
+1394	"- Full BP Restore Rate:"
+1395	"- HP Recovery Rate:"
+1396	"- SD Recovery Rate:"
+1397	"- Add HP Recovery:"
+1398	"- Add SD Recovery:"
+
+//------------------------------------------
+// MSPro Item Market - V15
+//------------------------------------------
+1450	"My Item Market"
+1451	"{} Item Market"
+1452	"My Market Name"
+1453	"Search Items!"
+1454	"Use Right-Click to send Items into your Market"
+1455	"There is no Items to Sell"
+1456	"[SOLD] "
+1457	"MODIFY"
+1458	"REMOVE"
+1459	"GET PAYMENT"
+1460	"BUY!"
+1461	"{}-{:02}-{:02} {:02}:{:02}"
+1462	"Sell New Item" 
+1463	"Edit Selling Item"
+1464	"Please enter the Item Value..."
+1465	"Item Market"
+1466	"Please enter Market Name before Open"
+1467	"Please close Market before Add Items"
+1468	"¿Are you sure to remove this item from Market?"
+1469	"¿Do you want to buy this Item?"
+1470	"Please enter Item Value to add into your Market"
+1471	"Your Market is Full and can't add more Items"
+1472	"Items Marketplace"
+1473	"[ Active Markets ]"
+1474	"Market Name"
+1475	"Character"
+1476	"Search by Item"
+
+//V15.3
+1477	"Zen:"
+1478	"WC:"
+1479	"WP:"
+1480	"GP:"
+1481	"Ruuds:"
+1482	"Jewel of Chaos:"
+1483	"Jewel of Bless:"
+1484	"Jewel of Soul:"
+1485	"Jewel of Life:"
+1486	"Jewel of Creation:"
+
+//------------------------------------------
+// Post Item Log - V15
+//------------------------------------------
+1500	"PostItem Log"
+1501	"No Items Available..."
+1502	"{}-{:02}-{:02} {:02}:{:02}"
+
+//------------------------------------------
+// MSPro New EventLevel - V16
+//------------------------------------------
+1550	"Castle {}"
+1551	" (Level {}-{})"
+1552	" (Resets {}-{})"
+1553	" (M.Resets {}-{})"
+1554	" (Master)"
+1555	"Square {}"
+1556	"Level"
+1557	"Resets"
+1558	"M.Resets"
+
+//------------------------------------------
+// MSPro Item Stack - V16
+//------------------------------------------
+1600	"Divide Item"
+1601	"You can divide an item by a desire number."
+1602	"Auto-Stack Item"
+
+//------------------------------------------
+// Confirm Buy VIP - V16
+//------------------------------------------
+1610	"Confirm Buy VIP"
+1611	"¿Are you sure you want to buy VIP?"
+
+//------------------------------------------
+// King of MU - V16
+//------------------------------------------
+1650	"King of MU"
+1651	"{} second(s) left to conquer position."
+1652	"Event Rankings"
+1653	"Rank"
+1654	"Name"
+1655	"Conquests"
+1656	"Kill Points"
+1657	"Winner Guild"
+1658	"Conquests"
+1659	"Killers"
+1660	"Kill Points"
+1661	"Conquests"
+
+//------------------------------------------
+// Guild Battle Event - V16
+//------------------------------------------
+1680	"Guild Battle Ranking"
+1681	"Players"
+1682	"Guilds"
+1683	"Rank"
+1684	"Name"
+1685	"Points"
+
+//------------------------------------------
+// EventTimeLeft - V16
+//------------------------------------------
+1700	"Devil Square {}"
+1701	"Event Map"
+1702	"Guild Battle"
+
+//------------------------------------------
+// New MoveList - V17
+//------------------------------------------
+1800	"Map Name"
+1801	"Battle"
+1802	"Level"
+1803	"Zen"
+1804	"Resets"
+1805	"M.Resets"
+1806	"VIP"
+1807	"Min."
+1808	"Max."
+1809	"[!]"
+1810	"Right Click to Pin/Unpin"
+
+//------------------------------------------
+// Web Browser - V17
+//------------------------------------------
+1850	"Do not open automatically"
+1851	"Loading"
+1852	"(Press ESC to Cancel)"
+
+//------------------------------------------
+// Battle Pass - V17
+//------------------------------------------
+1860	"Battle Pass"
+1861	"Close"
+1862	"No Battle Pass data available"
+1863	"Level {}"
+1864	"Premium Only!"
+1865	"Click to Claim"
+1866	"{} / {} Points"
+1867	"Premium Active"
+1868	"Level: {} / {}"
+1869	"Coins Reward"
+1870	"WC {}"
+1871	"WP {}"
+1872	"GP {}"
+1873	"Ruud Reward"
+1874	"Ruud {}"
+1875	"Zen Reward"
+1876	"Zen {}"
+1877	"Buff Reward"
+1878 	"BATTLE PASS LEVELUP TO {}!"
+1879	"REWARD CLAIMED SUCCESSFULLY"
+1880	"ERROR CLAIMING REWARD!"
+1881	"REWARD ALREADY CLAIMED!"
+1882	"LEVEL NOT UNLOCKED YET!"
+1883	"PREMIUM PASS REQUIRED!"
+1884	"PREMIUM PASS ACTIVATED!"
+1885	"ERROR ACTIVATING PREMIUM PASS!"
+1886	"YOU ALREADY HAVE PREMIUM PASS!"
+1887	"REQUIREMENTS NOT MET!"
+1888	"INSUFFICIENT FUNDS!"
+1889	"Buy Premium!"
+1890	"Premium Buy"
+1891	"Requirements"
+1892	"Ready to Activate!"
+1893	"Requirements not Met"
+1894	"Expires:"
+
+
+//------------------------------------------
+// Item Combination - V17
+//------------------------------------------
+1900	"Item Combination"
+1901	"OK"
+1902	"Cancel"
+1903	"Requesting Combination Information"
+1904	"It looks like these items can be combined"
+1905	"to become more powerful."
+1906	"Combination Info"
+1907	"Success Rate"
+1908	"¡Failed attempts are irreversible!"
+1909	"Items may be lost or permanently altered."
+1910	"Zen"
+1911	"WCoinC"
+1912	"WCoinP"
+1913	"Goblin Points"
+1914	"Ruud"
+1915	"Min. Account Level"
+1916	"Required Resets"
+1917	"Required Master Resets"
+1918	"ITEM COMBINATION FAILED"
+1919	"ITEM COMBINATION SUCCESS!"
+
+1920	"ITEM COMBINATION ERROR"
+1921	"YOU DON'T HAVE ENOUGH INVENTORY SPACE"
+1923	"Inventory Free Space"
+
+1924 	"Possible Results"
+1925 	"Result"
+1926 	"Merge Limits"
+1927 	"Maximum {}: {}"
+1928 	"Disabled: {}"
+1929 	" ({:.1f}%)"
+
+
+//------------------------------------------
+// Boss Damage Ranking - V17
+//------------------------------------------
+1930	"Boss Damage Ranking"
+1931	"Party"
+
+//------------------------------------------
+// Party Settings - V17
+//------------------------------------------
+1940	"Show Party Buffs"
+1941	"Block DarkLord Summon"
+1942	"Party List"
+1943	"Settings"
+
+//------------------------------------------
+// MSPro Quest Addons - V17
+//------------------------------------------
+1950	"Blood Castle"
+1951	"Devil Square"
+1952	"Chaos Castle"
+1953	"Illusion Temple"
+1954	"Doppelganger"
+1955	"Imperial Fortress"
+1956	"Crywolf"
+1957	"Kanturu"
+1958	"Zen: {}"
+1959	"WC: {}"
+1960	"WP: {}"
+1961	"GP: {}"
+1962	"Item: {} x {}"
+1963	"Finish {} {}: {} / {}"
+1964	"Finish {}: {} / {}"
+1965	"Talk to {} "
+1966	"Level Points: {}"
+1967	"Master Points: {}"
+1968	"Exp: {}"
+1969	"Buff: {}  x  {}"
+1970	"Ruuds: {}"
+1971	"Random Item x {}"
+1972	"VIP: {} x {} days"
+1973	"{} x {} min"
+1974	"Battle Points: {}"
+
+//------------------------------------------
+// New Jewel Bank - V17
+//------------------------------------------
+1980	"Inventory"
+1981	"In Bank"
+1982	"x1"
+1983	"x10"
+1984	"ALL"
+1985	"Jewel Bank"
+
+//------------------------------------------
+// Guild Warehouse Settings - V17
+//------------------------------------------
+2000	"Guild Warehouse Settings"
+2001	"Manage Settings"
+2002	"Default Values"
+2003	"Allow Battle Master"
+2004	"Deposit"
+2005	"Allow Assistant"
+2006	"Withdraw"
+2007	"Save Config"
+2008	"Member"
+2009	"In"
+2010	"Out"
+2011	"Warehouse"
+
+end

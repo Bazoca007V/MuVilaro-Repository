@@ -1,0 +1,113 @@
+14:44:40 [SocketManager] Server started at port [55968]
+14:44:41 SELECT * FROM Guild
+14:44:41 SELECT * FROM GuildMember
+14:45:10 [ServerManager][0] AddServer (127.0.0.1)
+14:45:10 SELECT ItemCount FROM GameServerInfo WHERE Number=0
+14:45:10 [ServerManager][0] ServerInfo (MsPro-GS) (55901) (1)
+14:45:10 UPDATE WarehouseGuild Set State = '0' WHERE ServerCode = '1'
+14:48:09 SELECT Id FROM AccountCharacter WHERE Id='mspromu'
+14:48:09 SELECT * FROM AccountCharacter WHERE Id='mspromu'
+14:48:09 SELECT cLevel,Class,Inventory,CtlCode,ResetCount,MasterResetCount,Flag FROM Character WHERE AccountID='mspromu' AND Name='MSPromubk'
+14:48:09 SELECT G_Status FROM GuildMember WHERE Name='MSPromubk'
+14:48:09 SELECT PetInventory FROM XTR_PetInventory WHERE Name='MSPromubk'
+14:48:09 SELECT cLevel,Class,Inventory,CtlCode,ResetCount,MasterResetCount,Flag FROM Character WHERE AccountID='mspromu' AND Name='MSPromudw'
+14:48:09 SELECT G_Status FROM GuildMember WHERE Name='MSPromudw'
+14:48:09 SELECT PetInventory FROM XTR_PetInventory WHERE Name='MSPromudw'
+14:48:09 SELECT cLevel,Class,Inventory,CtlCode,ResetCount,MasterResetCount,Flag FROM Character WHERE AccountID='mspromu' AND Name='MSPromuelf'
+14:48:09 SELECT G_Status FROM GuildMember WHERE Name='MSPromuelf'
+14:48:09 SELECT PetInventory FROM XTR_PetInventory WHERE Name='MSPromuelf'
+14:48:09 SELECT cLevel,Class,Inventory,CtlCode,ResetCount,MasterResetCount,Flag FROM Character WHERE AccountID='mspromu' AND Name='MSPromumg'
+14:48:09 SELECT G_Status FROM GuildMember WHERE Name='MSPromumg'
+14:48:09 SELECT PetInventory FROM XTR_PetInventory WHERE Name='MSPromumg'
+14:48:09 SELECT cLevel,Class,Inventory,CtlCode,ResetCount,MasterResetCount,Flag FROM Character WHERE AccountID='mspromu' AND Name='MSPromudl'
+14:48:09 SELECT G_Status FROM GuildMember WHERE Name='MSPromudl'
+14:48:09 SELECT PetInventory FROM XTR_PetInventory WHERE Name='MSPromudl'
+14:48:09 SELECT cLevel,Class,Inventory,CtlCode,ResetCount,MasterResetCount,Flag FROM Character WHERE AccountID='mspromu' AND Name='MSPromusum'
+14:48:09 SELECT G_Status FROM GuildMember WHERE Name='MSPromusum'
+14:48:09 SELECT PetInventory FROM XTR_PetInventory WHERE Name='MSPromusum'
+14:48:09 SELECT cLevel,Class,Inventory,CtlCode,ResetCount,MasterResetCount,Flag FROM Character WHERE AccountID='mspromu' AND Name='MSPromurf'
+14:48:09 SELECT G_Status FROM GuildMember WHERE Name='MSPromurf'
+14:48:09 SELECT PetInventory FROM XTR_PetInventory WHERE Name='MSPromurf'
+14:48:09 SELECT cLevel,Class,Inventory,CtlCode,ResetCount,MasterResetCount,Flag FROM Character WHERE AccountID='mspromu' AND Name='testmago'
+14:48:09 SELECT G_Status FROM GuildMember WHERE Name='testmago'
+14:48:09 SELECT PetInventory FROM XTR_PetInventory WHERE Name='testmago'
+14:48:09 SELECT cLevel,Class,Inventory,CtlCode,ResetCount,MasterResetCount,Flag FROM Character WHERE AccountID='mspromu' AND Name='dltest'
+14:48:09 SELECT G_Status FROM GuildMember WHERE Name='dltest'
+14:48:09 SELECT PetInventory FROM XTR_PetInventory WHERE Name='dltest'
+14:48:20 SELECT Id FROM AccountCharacter WHERE Id='mspro'
+14:48:20 SELECT * FROM AccountCharacter WHERE Id='mspro'
+14:48:20 SELECT cLevel,Class,Inventory,CtlCode,ResetCount,MasterResetCount,Flag FROM Character WHERE AccountID='mspro' AND Name='MSProbk'
+14:48:20 SELECT G_Status FROM GuildMember WHERE Name='MSProbk'
+14:48:20 SELECT PetInventory FROM XTR_PetInventory WHERE Name='MSProbk'
+14:48:20 SELECT cLevel,Class,Inventory,CtlCode,ResetCount,MasterResetCount,Flag FROM Character WHERE AccountID='mspro' AND Name='MSProdw'
+14:48:20 SELECT G_Status FROM GuildMember WHERE Name='MSProdw'
+14:48:20 SELECT PetInventory FROM XTR_PetInventory WHERE Name='MSProdw'
+14:48:20 SELECT cLevel,Class,Inventory,CtlCode,ResetCount,MasterResetCount,Flag FROM Character WHERE AccountID='mspro' AND Name='MSProelf'
+14:48:20 SELECT G_Status FROM GuildMember WHERE Name='MSProelf'
+14:48:20 SELECT PetInventory FROM XTR_PetInventory WHERE Name='MSProelf'
+14:48:20 SELECT cLevel,Class,Inventory,CtlCode,ResetCount,MasterResetCount,Flag FROM Character WHERE AccountID='mspro' AND Name='MSPromg'
+14:48:20 SELECT G_Status FROM GuildMember WHERE Name='MSPromg'
+14:48:20 SELECT PetInventory FROM XTR_PetInventory WHERE Name='MSPromg'
+14:48:20 SELECT cLevel,Class,Inventory,CtlCode,ResetCount,MasterResetCount,Flag FROM Character WHERE AccountID='mspro' AND Name='MSProdl'
+14:48:20 SELECT G_Status FROM GuildMember WHERE Name='MSProdl'
+14:48:20 SELECT PetInventory FROM XTR_PetInventory WHERE Name='MSProdl'
+14:48:20 SELECT cLevel,Class,Inventory,CtlCode,ResetCount,MasterResetCount,Flag FROM Character WHERE AccountID='mspro' AND Name='MSProsum'
+14:48:20 SELECT G_Status FROM GuildMember WHERE Name='MSProsum'
+14:48:20 SELECT PetInventory FROM XTR_PetInventory WHERE Name='MSProsum'
+14:48:20 SELECT cLevel,Class,Inventory,CtlCode,ResetCount,MasterResetCount,Flag FROM Character WHERE AccountID='mspro' AND Name='MSProrf'
+14:48:20 SELECT G_Status FROM GuildMember WHERE Name='MSProrf'
+14:48:20 SELECT PetInventory FROM XTR_PetInventory WHERE Name='MSProrf'
+14:48:23 SELECT * FROM Character WHERE AccountID='mspro' AND Name='MSProdw'
+14:48:23 SELECT ExtWarehouse FROM AccountCharacter WHERE Id='mspro'
+14:48:23 EXEC WZ_GetResetInfo 'mspro','MSProdw'
+14:48:23 EXEC WZ_GetMasterResetInfo 'mspro','MSProdw'
+14:48:23 UPDATE AccountCharacter SET GameIDC='MSProdw' WHERE Id='mspro'
+14:48:23 SELECT GiftCount FROM dbo.MEMB_INFO WHERE memb___id='mspro'
+14:48:23 SELECT Name1, Name2, DATEDIFF(DD, MarryDate ,GETDATE()) AS Days FROM dbo.Marry WHERE (Name1 = 'MSProdw') OR (Name2 = 'MSProdw')
+14:48:23 SELECT LastDivorceStyle, DATEDIFF(DD, LastDivorceDate ,GETDATE()) AS Days FROM dbo.Character WHERE Name = 'MSProdw'
+14:48:23 SELECT * FROM CustomAttack WHERE Name='MSProdw'
+14:48:23 SELECT GUID FROM T_FriendMain WHERE Name='MSProdw'
+14:48:23 SELECT FriendName,Del FROM T_FriendList WHERE GUID=129
+14:48:23 SELECT * FROM OptionData WHERE Name='MSProdw'
+14:48:23 WZ_UserGuidCreate 'MSProdw'
+14:48:23 SELECT GUID,MemoTotal FROM T_FriendMain WHERE Name='MSProdw'
+14:48:23 SELECT FriendName,Del FROM T_FriendList WHERE GUID=129
+14:48:23 SELECT FriendName FROM T_WaitFriend WHERE GUID=129
+14:48:23 SELECT MemoIndex,FriendName,wDate,Subject,bRead FROM T_FriendMail WHERE GUID=129
+14:48:23 SELECT * FROM QuestKillCount WHERE Name='MSProdw'
+14:48:23 SELECT * FROM MasterSkillTree WHERE Name='MSProdw'
+14:48:23 SELECT QuestWorldList FROM QuestWorld WHERE Name='MSProdw'
+14:48:23 SELECT Family FROM Gens_Rank WHERE Name='MSProdw'
+14:48:23 SELECT Data FROM HelperData WHERE Name='MSProdw'
+14:48:23 SELECT TOP 5 * FROM XTR_QuestInfo WHERE Name = 'MSProdw' AND State = 0 AND Type = 0 ORDER BY ID DESC
+14:48:23 SELECT TOP 1 * FROM XTR_QuestInfo WHERE Name = 'MSProdw' AND Type = 1 ORDER BY ID DESC
+14:48:23 SELECT QuestIndex, Count, Date FROM XTR_QuestInfo WHERE Name = 'MSProdw' AND Date > 0 ORDER BY ID DESC
+14:48:23 SELECT * FROM DailyBonus WHERE Name = 'mspro'
+14:48:23 EXEC MSP_GetFortuneWheel 'mspro'
+14:48:23 EXEC MSPro_BattlePass_Load ?
+14:48:23 [BattlePass] Loaded main data for MSProdw - Level: 0, Exp: 0, Premium: 0
+14:48:23 EXEC MSPro_BattlePass_LoadRewards ?
+14:48:23 [BattlePass] Loaded 0 rewards for MSProdw
+14:48:23 SELECT * FROM CashShopData WHERE AccountID=?
+14:48:23 SELECT Item, Level, Count FROM MSPro_JewelBank WHERE Account='mspro'
+14:48:23 SELECT AutoSave, AutoSaveResetTime, AutoSaveCount FROM MSPro_JewelBank_Config WHERE Account='mspro'
+14:48:23 SELECT ResetLimit, MasterResetLimit FROM Character WHERE Name='MSProdw'
+14:48:23 SELECT * FROM ResetSystem WHERE Name='MSProdw'
+14:48:23 EXEC MSP_GetKillLog ?
+14:48:23 SELECT * FROM ItemMarket WHERE Name='MSProdw' ORDER BY Status, ID DESC
+14:49:00 UPDATE Character SET cLevel=400,Class=2,LevelUpPoint=226419,Experience=2147483647,NewExperience=18446744073236732400,Strength=518,Dexterity=518,Vitality=32015,Energy=530,Leadership=0,Inventory=?,MagicList=?,Money=1999941000,Life=67037.000000,MaxLife=64459.000000,Mana=1858.000000,MaxMana=1858.000000,BP=10021.000000,MaxBP=10021.000000,Shield=51129.000000,MaxShield=51129.000000,MapNumber=0,MapPosX=140,MapPosY=134,MapDir=4,PkCount=0,PkLevel=3,PkTime=0,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProdw'
+14:49:00 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+14:49:00 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProdw'
+14:49:00 SELECT Name FROM QuestKillCount WHERE Name='MSProdw'
+14:49:00 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProdw'
+14:49:00 SELECT Name FROM MasterSkillTree WHERE Name='MSProdw'
+14:49:00 UPDATE MasterSkillTree SET MasterLevel=0,MasterPoint=0,MasterExperience=26004000,MasterSkill=? WHERE Name='MSProdw'
+14:49:00 SELECT Name FROM QuestWorld WHERE Name='MSProdw'
+14:49:00 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProdw'
+14:49:00 UPDATE ResetSystem SET AutoReset=0, Strength=65000, Dexterity=65000, Vitality=65000, Energy=65000, Leadership=0, PointsLeft=0 WHERE Name='MSProdw'
+14:49:00 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProdw'
+14:49:00 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProdw' AND QuestIndex = 1 AND Type = 1
+14:49:00 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+14:49:00 [BattlePass] Saved data for MSProdw - Level: 0, Exp: 0, Premium: 0
+14:49:00 SELECT GUID FROM T_FriendMain WHERE Name='MSProdw'
+14:49:00 SELECT FriendName,Del FROM T_FriendList WHERE GUID=129

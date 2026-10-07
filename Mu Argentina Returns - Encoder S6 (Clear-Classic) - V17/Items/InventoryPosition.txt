@@ -1,0 +1,31 @@
+//---------------------------------------------------------------------------------------
+// MSPro Team
+//---------------------------------------------------------------------------------------
+/////////////////////////////////////////////////////////
+// Custom Item Position on Inventory
+//-------------------------------------------------------
+// ItemID: 
+// - Ejemplo - 5 * 512 + 50 (Igual que agregar items, en customitem)
+//-------------------------------------------------------
+// RotX, RotY, RotZ:
+// - Ubicación de los Ejes del Item (Rotacion del Item en su Ubicación Ej: se puede dar Vuelta o Rotar sobre si mismo)
+// PosX, PosY:
+// - Desplazamiento del Item desde el Eje en pantalla (+- Arriba / Abajo, +- Izquierda / Derecha)
+//-------------------------------------------------------
+// EJEMPLOS DE POSICIONES DE ALGUNOS ITEMS TESTEADOS
+//       			RotY | RotX |  RotZ | PosY |  PosX |  Size	
+//CLAWS   			270.0	0.0		0.0		0.06	0.04   A GUSTO
+//PETS    			260.0	0.0		0.0	   -0.08	0.00   A GUSTO
+//HORN OF FENRIL    250.0	0.0		0.0		0.05	0.00   A GUSTO
+//HORSE				250.0	-100.0	0.0		0.02	0.00   A GUSTO
+//CLOACK CUSTOM		270.0	0.0		0.0		0.14	0.00   A GUSTO
+//----------------- --------------------------------------
+//Type | ItemID |RotY    |  RotX |  RotZ |   PosY    |  PosX      |  Size
+//-------------------------------------------------------
+//Custom Claws
+//0		100		270.0		0.0		0.0		0.06		0.04		0.003       //Item - 0,100 Pantera Claws     
+//0		101		270.0		0.0		0.0		0.05		0.04		0.003       //Item - 0,101 Devast Claws	     
+//0		102		270.0		0.0		0.0		0.06		0.04		0.004       //Item - 0,102 BloodAngel Claws	 
+//0		103		270.0		0.0		0.0		0.05		0.04		0.0045      //Item - 0,103 DarkAngel Claws	      
+//0		104		270.0		0.0		0.0		0.06		0.04		0.0035      //Item - 0,104 HolyAngel Claws	      
+end

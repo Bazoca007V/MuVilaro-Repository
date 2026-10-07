@@ -1,0 +1,357 @@
+//-------------------------------------------------------------------------
+// MSPro - MapManager
+// File Version: 1.0
+//-------------------------------------------------------------------------
+[Maps]
+Max = 113					//Cantidad máxima de Mapas a Leer (Máximo del cliente: 113)
+
+//-------------------------------------------------------------------------
+// Name						Nombre del Mapa
+// NonPK					Permite PK 									- Default: -1	(-1: Toma config de Common / 0: NO / 1: SI / 2: SI - No suma PK Level)
+// PKItemDrop				Drop de Items al morir siendo PK 			- Default: 0 	(0: NO / 1: SI)
+// ViewRange				Rango de Vision de Monsters 				- Default: 15
+// DeathGate				Gate al que te lleva al Morir 				- Default: -1 	(Renace en el Lugar)
+// LoginGate				Gate al que te lleva al Ingresar al Juego 	- Default: -1 	(No te mueve al ingresar)
+//-----
+// ExpRate					% de Experiencia 							- Default: 100%
+// MasterExpRate			% de Experiencia Master 					- Default: 100% (0: Desactiva EXP Master en el Mapa)
+// DropRate					% de Item Drop 								- Default: 100%
+// ExeDropRate				% de Excellent Drop 						- Default: 1000 (Max: 100000)
+// SetItemDropRate			% de Set Item Drop 							- Default: 0 	(Max: 100000)
+// SocketItemDropRate		% de Socket Item Drop 						- Default: 0	(Max: 100000)
+// HelperEnable				Activa o Desactiva Helper 					- Default: 1 	(0: NO / 1: SI)
+// PartyEnable				Activa o Desactiva Party 					- Default: 1 	(0: NO / 1: SI)
+// TradeEnable				Activa o Desactiva Trade 					- Default: 1 	(0: NO / 1: SI)
+//-----
+// GensBattle				Activa o Desactiva Gens Map 				- Default: 0 	(0: NO / 1: SI)
+//-----
+// CustomStore				Activa o Desactiva Custom Store				- Default: 0 	(0: NO / 1: SI)
+// CustomAttack				Activa o Desactiva Custom Attack  			- Default: 1 	(0: NO / 1: SI)
+// CustomPick				Activa o Desactiva Custom Pick  			- Default: 1 	(0: NO / 1: SI)
+//-----
+// ZenType					
+// 	0: Drop Normal			Todo el Zen va directo al Suelo
+// 	1: Auto Pick Zen 		Todo el Zen va directamente al PJ
+// 	2: Auto Pick Rate 		El Zen se recolecta segun el % de ZenRate (Ej: ZenRate = 50 - Tengo 50% de posibilidad de que recolecte el Zen)
+// 	3: Auto Pick Part 		El Zen se recolecta segun el % de ZenRate (Ej: ZenRate = 50 - recolecta 50% y Dropea 50% al Suelo)
+// ZenRate					Porcentajes segun el ZenType				- Default: 100%	(Max: 100%)
+//---------
+// [V17]
+// MoneyDropRate			Zen Drop Rate per Map									- Default: 100%	(Use Common.dat Settings)
+// MoneyDropAmount			Zen Amount per Map										- Default: 100%	(Total) - 200 = x2
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[0]
+Name = "Lorencia"
+DeathGate = 17
+CustomStore = 0
+
+[1]
+Name = "Dungeon"
+DeathGate = 17
+CustomAttack = 0
+
+[2]
+Name = "Devias"
+DeathGate = 22
+CustomStore = 1
+
+[3]
+Name = "Noria"
+DeathGate = 27
+CustomStore = 1
+
+[4]
+Name = "LostTower"
+DeathGate = 42
+
+[5]
+Name = "Exile"
+DeathGate = -1
+
+[6]
+Name = "Arena"
+DeathGate = 115
+
+[7]
+Name = "Atlans"
+DeathGate = 49
+GensBattle = 1
+
+[8]
+Name = "Tarkan"
+DeathGate = 57
+
+[10]
+Name = "Icarus"
+DeathGate = 42
+
+[33]
+Name = "Aida"
+DeathGate = 119
+
+[40]
+Name = "Silent"
+DeathGate = 402
+
+[51]
+Name = "Elbeland"
+DeathGate = 267
+CustomStore = 1
+
+[56]
+Name = "Swamp of Calmness"
+DeathGate = 273
+
+[57]
+Name = "Raklion 1"
+DeathGate = 286
+SocketItemDropRate = 10000
+
+[58]
+Name = "Raklion 2"
+DeathGate = 286
+
+[62]
+Name = "Santa Town"
+DeathGate = 22
+
+[63]
+Name = "Vulcanus"
+DeathGate = 294
+LoginGate = 50
+
+[64]
+Name = "Duel Arena"
+DeathGate = 294
+
+[79]
+Name = "Loren Market"
+DeathGate = 333
+
+[80]
+Name = "Karutan 1"
+DeathGate = 335
+
+[81]
+Name = "Karutan 2"
+DeathGate = 335
+MasterExpRate = 50
+
+//------------------
+// Devil Square
+//------------------
+[9]
+Name = "Devil Square 1"
+DeathGate = 27
+
+[32]
+Name = "Devil Square 2"
+DeathGate = 27
+
+//------------------
+// Blood Castle
+//------------------
+[11]
+Name = "Blood Castle 1"
+DeathGate = 22
+
+[12]
+Name = "Blood Castle 2"
+DeathGate = 22
+
+[13]
+Name = "Blood Castle 3"
+DeathGate = 22
+
+[14]
+Name = "Blood Castle 4"
+DeathGate = 22
+
+[15]
+Name = "Blood Castle 5"
+DeathGate = 22
+
+[16]
+Name = "Blood Castle 6"
+DeathGate = 22
+
+[17]
+Name = "Blood Castle 7"
+DeathGate = 22
+
+[52]
+Name = "Blood Castle 8"
+DeathGate = 22
+
+//------------------
+// Chaos Castle
+//------------------
+[18]
+Name = "Chaos Castle 1"
+DeathGate = 17
+
+[19]
+Name = "Chaos Castle 2"
+DeathGate = 17
+
+[20]
+Name = "Chaos Castle 3"
+DeathGate = 17
+
+[21]
+Name = "Chaos Castle 4"
+DeathGate = 17
+
+[22]
+Name = "Chaos Castle 5"
+DeathGate = 17
+
+[23]
+Name = "Chaos Castle 6"
+DeathGate = 17
+
+[53]
+Name = "Chaos Castle 7"
+DeathGate = 17
+
+//------------------
+// Illusion Temple
+//------------------
+[45]
+Name = "Illusion Temple 1"
+DeathGate = 17
+
+[46]
+Name = "Illusion Temple 2"
+DeathGate = 17
+
+[47]
+Name = "Illusion Temple 3"
+DeathGate = 17
+
+[48]
+Name = "Illusion Temple 4"
+DeathGate = 17
+
+[49]
+Name = "Illusion Temple 5"
+DeathGate = 17
+
+[50]
+Name = "Illusion Temple 6"
+DeathGate = 17
+
+//------------------
+// Kalima
+//------------------
+[24]
+Name = "Kalima 1"
+DeathGate = 17
+
+[25]
+Name = "Kalima 2"
+DeathGate = 17
+
+[26]
+Name = "Kalima 3"
+DeathGate = 17
+
+[27]
+Name = "Kalima 4"
+DeathGate = 17
+
+[28]
+Name = "Kalima 5"
+DeathGate = 17
+
+[29]
+Name = "Kalima 6"
+DeathGate = 17
+
+[36]
+Name = "Kalima 7"
+DeathGate = 17
+
+//------------------
+// Castle Siege
+//------------------
+[30]
+Name = "Castle Siege"
+DeathGate = 100
+
+[31]
+Name = "Land of Trials"
+DeathGate = 106
+SetItemDropRate = 5000
+
+//------------------
+// Crywolf
+//------------------
+[34]
+Name = "Crywolf"
+DeathGate = 118
+
+//------------------
+// Kanturu
+//------------------
+[37]
+Name = "Kanturu 1"
+DeathGate = 138
+
+[38]
+Name = "Kanturu 2"
+DeathGate = 139
+
+[39]
+Name = "Kanturu 3"
+DeathGate = 137
+
+//------------------
+// 3rd Quest
+//------------------
+[41]
+Name = "Barracks"
+DeathGate = 256
+
+[42]
+Name = "Refuge"
+DeathGate = 256
+
+//------------------
+// Doppelganger
+//------------------
+[65]
+Name = "Doppelganger 1"
+DeathGate = 267
+
+[66]
+Name = "Doppelganger 2"
+DeathGate = 267
+
+[67]
+Name = "Doppelganger 3"
+DeathGate = 267
+
+[68]
+Name = "Doppelganger 4"
+DeathGate = 267
+
+//------------------
+// Imperial Guardian
+//------------------
+[69]
+Name = "Imperial Guardian 1"
+DeathGate = 22
+
+[70]
+Name = "Imperial Guardian 2"
+DeathGate = 22
+
+[71]
+Name = "Imperial Guardian 3"
+DeathGate = 22
+
+[72]
+Name = "Imperial Guardian 4"
+DeathGate = 22

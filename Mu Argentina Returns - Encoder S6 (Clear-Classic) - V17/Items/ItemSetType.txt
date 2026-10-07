@@ -1,0 +1,285 @@
+//-----------------------------------------------------------------------------------------------------------------
+//->>  MSPro - MuServerPro Team - Desarrollos de MUOnline
+//->>  Web: wwww.muserverpro.com 
+//->>  FB: mspromu
+//->>  2020 - 2023 MuServerPro Team
+//-----------------------------------------------------------------------------------------------------------------
+
+//======
+//Swords 
+//======
+0
+//-----------------------------------------------------------------------------------------------------
+// [Item.txt]                                     -- [Comment]				-            -            -
+// Index      Ancient1  Ancient2   NONE	    NONE  -- Item Name				-  Ancient1  -  Ancient2  -
+//-----------------------------------------------------------------------------------------------------
+   2		  21	    0			0		0     // Short Sword   			-  Ceto      -            -
+   14		  11	    0			0		0     // Lighting Sword			-  Hyon      -            -
+   32		  37	    38			0		0     // Sacred Glove  			-  Vega      -  Chamer    -
+end                                               
+
+//================
+//Scepters & Maces  
+//================
+2
+//-----------------------------------------------------------------------------------------------------
+// [Item.txt]                                     -- [Comment]				-            -            -
+// Index      Ancient1  Ancient2   NONE	    NONE  -- Item Name				-  Ancient1  -  Ancient2  -
+//-----------------------------------------------------------------------------------------------------
+   1		  1			0		   0		0     // Morning Star 			-  Warrior   -            -
+end
+
+//================
+//Bows & Crossbows    
+//================
+4
+//-----------------------------------------------------------------------------------------------------
+// [Item.txt]                                     -- [Comment]				-            -            -
+// Index      Ancient1  Ancient2   NONE	    NONE  -- Item Name				-  Ancient1  -  Ancient2  -
+//-----------------------------------------------------------------------------------------------------
+   5		  29		0		   0		0     // Silver Bow             -  Gywen     -            -
+   9		  23		0		   0		0     // Golden Crossbow        -  Gaia      -            -
+end
+
+//===============
+//Staffs & Sticks
+//===============
+5
+//-----------------------------------------------------------------------------------------------------
+// [Item.txt]                                     -- [Comment]				-            -            -
+// Index      Ancient1  Ancient2   NONE	    NONE  -- Item Name				-  Ancient1  -  Ancient2  -
+//-----------------------------------------------------------------------------------------------------
+   0		  13		0		   0		0     // Skull Staff            -  Apollo    -            -
+end
+
+//===============
+//Staffs & Sticks
+//===============
+6
+//-----------------------------------------------------------------------------------------------------
+// [Item.txt]                                     -- [Comment]				-            -            -
+// Index      Ancient1  Ancient2   NONE	    NONE  -- Item Name				-  Ancient1  -  Ancient2  -
+//-----------------------------------------------------------------------------------------------------
+   0		  0			2		   0		0     // Small Shield           - 		     -  Anonymous -
+   6		  17		0		   0		0     // Skull Shield           - Heras      -            -
+   9		  5			0		   0		0     // Plate Shield           - Eplete     -            -
+end
+
+//===============
+//Helms & Masks 
+//===============
+7
+//-----------------------------------------------------------------------------------------------------
+// [Item.txt]                                     -- [Comment]				-            -            -
+// Index      Ancient1  Ancient2   NONE	    NONE  -- Item Name				-  Ancient1  -  Ancient2  -
+//-----------------------------------------------------------------------------------------------------
+   0	      0	    	4		   0	    0     // Bronze Helm            -            -  Mist      -
+   1	      11	    12		   0	    0     // Dragon Helm            -  Hyon      -  Vicious   -
+   2	      13	    14		   0	    0     // Pad Helm               -  Apollo    -  Barnake   -
+   3	      19	    20		   0	    0     // Legendary Helm         -  Anubis    -  Isis      -
+   4	      0	    	16		   0	    0     // Bone Helm              -            -  Sylion    -
+   5	      1	    	2		   0	    0     // Leather Helm           -  Warrior   -  Anonymous -
+   6	      5	    	6		   0	    0     // Scale Helm             -  Eplete    -  Berserker -
+   7	      17	    0		   0	    0     // Sphinx Mask            -  Heras     -            -
+   8	      0	    	8		   0	    0     // Brass Helm             -            -  Cloud     -
+   9	      0	    	10		   0	    0     // Plate Helm             -            -  Rave      -
+   10	      21	    22		   0	    0     // Vine Helm              -  Ceto      -  Drake     -
+   11	      23	    0		   0	    0     // Silk Helm              -  Gaia      -            -
+   12	      25	    0		   0	    0     // Wind Helm              -  Odin      -            -
+   13	      0	    	28		   0	    0     // Spirit Helm            -            -  Karis     -
+   14	      0	    	30		   0	    0     // Guardian Helm          -            -  Aruan     -
+   26	      33	    0		   0	    0     // Adamantine Mask        -  Agnis     -            -
+   40	      35	    36		   0	    0     // Red Wing Helm          -  Chrono    -  Sedemen   -
+   59	      37	    0		   0	    0     // Sacred Fire Helm       -  Vega      -            -
+   62	      39	    0		   0	    0     // Scale Helm             -  Moros     -            -
+   63	      40	    0		   0	    0     // Silk Helm              -  Dione     -            -
+   64	      41	    0		   0	    0     // Sphinx Helm            -  Hades     -            -
+   65	      42	    0		   0	    0     // Violent Wind Helm      -  Ophion    -            -
+   66	      43	    0		   0	    0     // Adamantine Helm        -  Meter     -            -
+   67	      44	    0		   0	    0     // Dragon Helm            -  Hegaton   -            -
+   68	      45	    0		   0	    0     // Guardian Helm          -  Castol    -            -
+   69	      46	    0		   0	    0     // Legendary Helm         -  Taros     -            -
+   70	      47	    0		   0	    0     // Red Wing Helm          -  Nemesis   -            -
+   72	      49	    0		   0	    0     // Storm Jahad Helm       -  Trite     -            -
+end
+
+//======
+//Armors
+//======
+8
+//-----------------------------------------------------------------------------------------------------
+// [Item.txt]                                     -- [Comment]				-            -            -
+// Index      Ancient1  Ancient2   NONE	    NONE  -- Item Name				-  Ancient1  -  Ancient2  -
+//-----------------------------------------------------------------------------------------------------
+   0		  3		    0	       0        0     // Bronze Armor           -  Hyperion  -            - 
+   1		  0		    12	       0        0     // Dragon Armor           -            -  Vicious   - 
+   2		  13	    0	       0        0     // Pad Armor              -  Apollo    -            - 
+   3		  19	    20	       0        0     // Legendary Armor        -  Anubis    -  Isis      - 
+   4		  15	    16	       0        0     // Bone Armor             -  Evis      -  Sylion    - 
+   5		  1		    0	       0        0     // Leather Armor          -  Warrior   -            - 
+   6		  5		    6	       0        0     // Scale Armor            -  Eplete    -  Berserker - 
+   7		  17	    18	       0        0     // Sphinx Armor           -  Heras     -  Minet     - 
+   8		  7		    0	       0        0     // Brass Armor            -  Garuda    -            - 
+   9		  9		    10	       0        0     // Plate Armor            -  Kantata   -  Rave      - 
+   10		  0		    22	       0        0     // Vine Armor             -            -  Drake     - 
+   11		  23	    0	       0        0     // Silk Armor             -  Gaia      -            - 
+   12		  25	    0	       0        0     // Wind Armor             -  Odin      -            - 
+   13		  27	    0	       0        0     // Spirit Armor           -  Argo      -            - 
+   14		  29	    30	       0        0     // Guardian Armor         -  Gywen     -  Aruan     - 
+   15		  31	    32	       0        0     // Storm Crow Armor       -  Gaion     -  Muren     - 
+   26		  33	    0	       0        0     // Adamantine Armor       -  Agnis     -            - 
+   40		  0		    36	       0        0     // Red Wing Armor         -            -  Sedemen   - 
+   59		  37	    38	       0        0     // Sacred Fire Armor      -  Vega      -  Chamer    - 
+   62		  39	    0	       0        0     // Scale Armor            -  Moros     -            - 
+   63		  40	    0	       0        0     // Silk Armor             -  Dione     -            - 
+   64		  41	    0	       0        0     // Sphinx Armor           -  Hades     -            - 
+   65		  42	    0	       0        0     // Violent Wind Armor     -  Ophion    -            - 
+   66		  43	    0	       0        0     // Adamantine Armor       -  Meter     -            - 
+   67		  44	    0	       0        0     // Dragon Armor           -  Hegaton   -            - 
+   68		  45	    0	       0        0     // Guardian Armor         -  Castol    -            - 
+   69		  46	    0	       0        0     // Legendary Armor        -  Taros     -            - 
+   70		  47	    0	       0        0     // Red Wing Armor         -  Nemesis   -            - 
+   71		  48	    0	       0        0     // Storm Crow Armor       -  Amis      -            - 
+   72		  49	    0          0        0     // Storm Jahad Armor      -  Trite     -            - 
+end
+
+//=====
+//Pants
+//=====
+9
+//-----------------------------------------------------------------------------------------------------
+// [Item.txt]                                     -- [Comment]				-            -            -
+// Index      Ancient1  Ancient2   NONE	    NONE  -- Item Name				-  Ancient1  -  Ancient2  -
+//-----------------------------------------------------------------------------------------------------
+   0	      3		    4		   0		0     // Bronze Pants           -  Hyperion  -  Mist      -
+   1	      0		    12		   0		0     // Dragon Pants           -            -  Vicious   -
+   2	      13	    14		   0		0     // Pad Pants              -  Apollo    -  Barnake   -
+   3	      0		    20		   0		0     // Legendary Pants        -            -  Isis      -
+   4	      15	    0		   0		0     // Bone Pants             -  Evis      -            -
+   5	      1		    2		   0		0     // Leather Pants          -  Warrior   -  Anonymous -
+   6	      5		    6		   0		0     // Scale Pants            -  Eplete    -  Berserker -
+   7	      17	    18		   0		0     // Sphinx Pants           -  Heras     -  Minet     -
+   8	      7		    8		   0		0     // Brass Pants            -  Garuda    -  Cloud     -
+   9	      0		    10		   0		0     // Plate Pants            -            -  Rave      -
+   10	      21	    22		   0		0     // Vine Pants             -  Ceto      -  Drake     -
+   11	      23	    24		   0		0     // Silk Pants             -  Gaia      -  Fase      -
+   12	      25	    26		   0		0     // Wind Pants             -  Odin      -  Elvian    -
+   13	      27	    28		   0		0     // Spirit Pants           -  Argo      -  Karis     -
+   14	      0		    30		   0		0     // Guardian Pants         -            -  Aruan     -
+   15	      31	    32		   0		0     // Storm Crow Pants       -  Gaion     -  Muren     -
+   26	      33	    34		   0		0     // Adamantine Pants       -  Agnis     -  Broy      -
+   40		  35        0		   0		0     // Red Wing Pants         -  Chrono    -            -
+   59	      37	    38		   0		0     // Sacred Fire Pants      -  Vega      -  Chamer    -
+   62	      39	    0		   0		0     // Scale Pants            -  Moros     -            -
+   63	      40	    0		   0		0     // Silk Pants             -  Dione     -            -
+   64	      41	    0		   0		0     // Sphinx Pants           -  Hades     -            -
+   65	      42	    0		   0		0     // Violent Wind Pants     -  Ophion    -            -
+   66	      43	    0		   0		0     // Adamantine Pants       -  Meter     -            -
+   67	      44	    0		   0		0     // Dragon Pants           -  Hegaton   -            -
+   68	      45	    0		   0		0     // Guardian Pants         -  Castol    -            -
+   69	      46	    0		   0		0     // Legendary Pants        -  Taros     -            -
+   70	      47	    0		   0		0     // Red Wing Pants         -  Nemesis   -            -
+   71	      48	    0		   0		0     // Storm Crow Pants       -  Amis      -            -
+   72	      49	    0		   0		0     // Storm Jahad Pants      -  Trite     -            -
+end
+
+//======
+//Gloves
+//======
+10
+//-----------------------------------------------------------------------------------------------------
+// [Item.txt]                                     -- [Comment]				-            -            -
+// Index      Ancient1  Ancient2   NONE	    NONE  -- Item Name				-  Ancient1  -  Ancient2  -
+//-----------------------------------------------------------------------------------------------------
+   0		  0			4		   0		0     // Bronze Gloves          -            -  Mist      - 
+   1		  11		0		   0		0     // Dragon Gloves          -  Hyon      -            - 
+   2		  13		0		   0		0     // Pad Gloves             -  Apollo    -            - 
+   3		  19		0		   0		0     // Legendary Gloves       -  Anubis    -            - 
+   4		  0			16		   0		0     // Bone Gloves            -            -  Sylion    - 
+   5		  1			0		   0		0     // Leather Gloves         -  Warrior   -            - 
+   6		  0			6		   0		0     // Scale Gloves           -            -  Berserker - 
+   7		  17		0		   0		0     // Sphinx Gloves          -  Heras     -            - 
+   8		  7			0		   0		0     // Brass Gloves           -  Garuda    -            - 
+   9		  9			0		   0		0     // Plate Gloves           -  Kantata   -            - 
+   10		  21		0		   0		0     // Vine Gloves            -  Ceto      -            - 
+   11		  23		24		   0		0     // Silk Gloves            -  Gaia      -  Fase      - 
+   12		  25		0		   0		0     // Wind Gloves            -  Odin      -            - 
+   13		  27		0		   0		0     // Spirit Gloves          -  Argo      -            - 
+   14		  29		0		   0		0     // Guardian Gloves        -  Gywen     -            - 
+   15		  0			32		   0		0     // Storm Crow Gloves      -            -  Muren     - 
+   26		  0			34		   0		0     // Adamantine Gloves      -            -  Broy      - 
+   40		  35		36		   0		0     // Red Wing Gloves        -  Chrono    -  Sedemen   - 
+   62		  39		0		   0		0     // Scale Gloves           -  Moros     -            - 
+   63		  40		0		   0		0     // Silk Gloves            -  Dione     -            - 
+   64		  41		0		   0		0     // Sphinx Gloves          -  Hades     -            - 
+   65		  42		0		   0		0     // Violent Wind Glove     -  Ophion    -            - 
+   66		  43		0		   0		0     // Adamantine Gloves      -  Meter     -            - 
+   67		  44		0		   0		0     // Dragon Gloves          -  Hegaton   -            - 
+   68		  45		0		   0		0     // Guardian Gloves        -  Castol    -            - 
+   69		  46		0		   0		0     // Legendary Gloves       -  Taros     -            - 
+   70		  47		0		   0		0     // Red Wing Gloves        -  Nemesis   -            - 
+   71		  48		0		   0		0     // Storm Crow Gloves      -  Amis      -            - 
+end
+
+//=====
+//Boots 
+//=====
+11
+//-----------------------------------------------------------------------------------------------------
+// [Item.txt]                                     -- [Comment]				-            -            -
+// Index      Ancient1  Ancient2   NONE	    NONE  -- Item Name				-  Ancient1  -  Ancient2  -
+//-----------------------------------------------------------------------------------------------------
+   0		  3		    0		   0		0     // Bronze Boots           -  Hyperion  -            - 
+   1		  11	    0		   0		0     // Dragon Boots           -  Hyon      -            - 
+   2		  0		    14		   0		0     // Pad Boots              -            -  Barnake   - 
+   3		  0		    20		   0		0     // Legendary Boots        -            -  Isis      - 
+   4		  15	    16		   0		0     // Bone Boots             -  Evis      -  Sylion    - 
+   5		  1		    2		   0		0     // Leather Boots          -  Warrior   -  Anonymous - 
+   6		  0		    6		   0		0     // Scale Boots            -            -  Berserker - 
+   7		  17	    18		   0		0     // Sphinx Boots           -  Heras     -  Minet     - 
+   8		  7		    0		   0		0     // Brass Boots            -  Garuda    -            - 
+   9		  9		    0		   0		0     // Plate Boots            -  Kantata   -            - 
+   10		  21	    22		   0		0     // Vine Boots             -  Ceto      -  Drake     - 
+   11		  0		    24		   0		0     // Silk Boots             -            -  Fase      - 
+   12		  25	    26		   0		0     // Wind Boots             -  Odin      -  Elvian    - 
+   13		  0		    28		   0		0     // Spirit Boots           -            -  Karis     - 
+   14		  29	    30		   0		0     // Guardian Boots         -  Gywen     -  Aruan     - 
+   15		  31	    0		   0		0     // Storm Crow Boots       -  Gaion     -            - 
+   26		  0		    34		   0		0     // Adamantine Boots       -            -  Broy      - 
+   40		  0		    36		   0		0     // Red Wing Boots         -            -  Sedemen   - 
+   59		  38	    0		   0		0     // Sacred Fire Boots      -  Chamer    -            - 
+   62		  39	    0		   0		0     // Scale Boots            -  Moros     -            - 
+   63		  40	    0		   0		0     // Silk Boots             -  Dione     -            - 
+   64		  41	    0		   0		0     // Sphinx Boots           -  Hades     -            - 
+   65		  42	    0		   0		0     // Violent Wind Boots     -  Ophion    -            - 
+   66		  43	    0		   0		0     // Adamantine Boots       -  Meter     -            - 
+   67		  44	    0		   0		0     // Dragon Boots           -  Hegaton   -            - 
+   68		  45	    0		   0		0     // Guardian Boots         -  Castol    -            - 
+   69		  46	    0		   0		0     // Legendary Boots        -  Taros     -            - 
+   70		  47	    0		   0		0     // Red Wing Boots         -  Nemesis   -            - 
+   71		  48	    0		   0		0     // Storm Crow Boots       -  Amis      -            - 
+   72		  49	    0		   0		0     // Storm Jahad Boots      -  Trite     -            - 
+end
+
+//================
+//Rings & Pendants    
+//================
+13
+//-----------------------------------------------------------------------------------------------------
+// [Item.txt]                                     -- [Comment]				-            -            -
+// Index      Ancient1  Ancient2   NONE	    NONE  -- Item Name				-  Ancient1  -  Ancient2  -
+//-----------------------------------------------------------------------------------------------------
+   8		  1			62		   0	    0     // Ring of Ice            -  Warrior   -  Elune     -
+   9		  9			33		   0	    0     // Ring of Poison         -  Kantata   -  Agnis     -
+   12		  5			60		   0	    0     // Pendant of Lighting    -  Eplete    -  Tyr       -
+   13		  7			53		   0	    0     // Pendant of Fire        -  Garuda    -  Apis      -
+   21		  19		32		   0	    0     // Ring of Fire           -  Anubis    -  Muren     -
+   22		  21		12		   0	    0     // Ring of Earth          -  Ceto      -  Vicious   -
+   23		  9			63		   0	    0     // Ring of Wind           -  Kantata   -  Magni     -
+   24		  13		35		   0	    0     // Ring of Magic          -  Apollo    -  Chrono    -
+   25		  13		34		   0	    0     // Pendant of Ice         -  Apollo    -  Broy      -
+   26		  15		59		   0	    0     // Pendant of Wind        -  Evis      -  Frigg     -
+   27		  31		58		   0	    0     // Pendant of Water       -  Gaion     -  Alvis     -
+   28		  29		56		   0	    0     // Pendant of Ability     -  Gywen     -  Horus     -
+end
+

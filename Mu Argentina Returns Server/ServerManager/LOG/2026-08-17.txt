@@ -1,0 +1,12 @@
+14:44:56 [SocketManager] Server started at port [54300]
+14:45:10 [ServerManager][Index: 0] Connected (127.0.0.1)
+14:45:10 [ServerManager][Index: 0] Name MsPro-GS - Port: 55901 ServerCode: 1
+14:45:11 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+14:45:11 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 20 (0)
+14:45:11 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+14:45:11 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+14:45:11 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+14:45:11 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+14:45:11 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+14:50:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (0)
+14:50:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (3599)

@@ -1,0 +1,10 @@
+//----------------------------------------------------------------------------------------------------------------
+//->>  MSPro - MuServerPro Team - Desarrollos de MUOnline
+//->>  Web: wwww.muserverpro.com
+//->>  FB: @mspromu
+//->>  © 2020 - 2022 MuServerPro Team
+//----------------------------------------------------------------------------------------------------------------
+
+Para habilitar 380 en shop o cashshop (OPCION Oexe)
+0 a 127 es desactivado
+128 a 255 es activado

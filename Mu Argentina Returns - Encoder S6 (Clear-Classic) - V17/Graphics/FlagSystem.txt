@@ -1,0 +1,62 @@
+//-------------------------------------------
+// MSPro V11
+// Flag System
+// Version: 1.0
+//-------------------------------------------
+0
+//-------------------------------------------
+// Buy Settings
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+// 0~254	[BMD Name]		[Flag Name]		0~400/1000		   0 / ~		  -1 / 0 ~ 3																
+//[Index] 	Max 25 Char		Max 25 Char		[MinLevel]		[MinResets]		[AccountLevel]		[Zen]		[WC]		[WP]		[GP]		[Ruuds]	
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	0		"MSProFlag"		"MSPro Flag!"		0				0				-1				1000000		500			0			0			500				//MSPro Flag
+    1		"dragonred"	    "Test Flag 1"		0				0				-1				1000000		0			0			0			0				//Test Flag
+    2		"FlagDragon"	"Test Flag 2"		0				0				-1				1000000		0			0			0			0				//Test Flag
+    3		"ManyFlag"		"Test Flag 3"		0				0				-1				1000000		0			0			0			0				//Test Flag
+    4		"ManyFlag"		"Test Flag 4"		0				0				-1				1000000		0			0			0			0				//Test Flag
+    5		"ManyFlag"		"Test Flag 5"		0				0				-1				1000000		0			0			0			0				//Test Flag
+    6		"ManyFlag"		"Test Flag 6"		0				0				-1				1000000		0			0			0			0				//Test Flag
+    7		"ManyFlag"		"Test Flag 7"		0				0				-1				1000000		0			0			0			0				//Test Flag
+    8		"ManyFlag"		"Test Flag 8"		0				0				-1				1000000		0			0			0			0				//Test Flag
+    9		"ManyFlag"		"Test Flag 9"		0				0				-1				1000000		0			0			0			0				//Test Flag
+    10		"ManyFlag"		"Test Flag 10"		0				0				-1				1000000		0			0			0			0				//Test Flag
+    11		"ManyFlag"		"Siege Flag"		0				0				-1				1000000		0			0			0			0				//Test Flag
+    12		"ManyFlag"		"GameMaster Flag"	0				0				-1				1000000		0			0			0			0				//Test Flag
+end 
+
+1
+//----------------------------------------------
+// English Description
+//----------------------------------------------
+//[Index] 	[Text] - Max: 200
+//----------------------------------------------
+	0		"MuServerPro Flag#Increase Exp: +30%%#Increase Drop: +10%%#-------------------#Flag de uso por tiempo jugado#Use de forma moderada#Flag se elimina al terminar su tiempo"
+	1		"Flag de uso por tiempo jugado"
+	11		"Use de forma moderada"
+	12		"Flag se elimina al terminar su tiempo"
+end
+
+2
+//----------------------------------------------
+// Descripción en Español
+//----------------------------------------------
+//[Index] 	[Text] - Max: 200
+//----------------------------------------------
+	0		"MuServerPro Flag#Incrementa Exp: +30%%#---------------------------------"
+	1		"Default Flag"
+	11		"Exclusive Flag#for Castle Siege Winners!"
+	12		"GameMaster Level Flag"
+end
+
+3
+//----------------------------------------------
+// Descrição em Português
+//----------------------------------------------
+//[Index] 	[Text] - Max: 200
+//----------------------------------------------
+	0		"MuServerPro Flag#Aumentar Exp: +30%%#---------------------------------"
+	1		"Default Flag"
+	11		"Exclusive Flag#for Castle Siege Winners!"
+	12		"GameMaster Level Flag"
+end

@@ -1,0 +1,17 @@
+//-----------------------------------------------------------------------------------------------------------------
+//->>  MSPro - MuServerPro Team - Desarrollos de MUOnline
+//->>  Web: wwww.muserverpro.com 
+//->>  FB: mspromu
+//->>  2020 - 2026 MuServerPro Team
+//-----------------------------------------------------------------------------------------------------------------
+
+//---------------------------------------------------------
+// [ Identical in the game]     [0~10] Level in Command.txt 
+// Account    NameCharacter     Level
+//---------------------------------------------------------
+  "mspromu"	  "MSPromubk"         2
+  "test"	  "msprodw"         2
+  "test"	  "msproelf"        2
+  "test"	  "msprosum"        2
+  "test"	  "msprorf"         2
+end

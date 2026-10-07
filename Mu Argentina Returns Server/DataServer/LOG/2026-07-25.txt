@@ -1,0 +1,954 @@
+00:00:12 EXEC MSP_ResetFortuneWheel '0,1'
+00:00:55 EXEC MSP_ResetFortuneWheel '0,1'
+00:06:01 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+00:06:01 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+00:06:01 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+00:06:01 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+00:06:01 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+00:06:01 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+00:06:01 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+00:06:01 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+00:06:01 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+00:06:01 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+00:06:01 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+00:06:01 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+00:06:01 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+00:06:01 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+00:16:02 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+00:16:02 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+00:16:02 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+00:16:02 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+00:16:02 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+00:16:02 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+00:16:02 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+00:16:02 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+00:16:02 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+00:16:02 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+00:16:02 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+00:16:02 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+00:16:02 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+00:16:02 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+00:26:03 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+00:26:03 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+00:26:03 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+00:26:03 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+00:26:03 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+00:26:03 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+00:26:03 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+00:26:03 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+00:26:03 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+00:26:03 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+00:26:03 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+00:26:03 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+00:26:03 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+00:26:03 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+00:36:04 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+00:36:04 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+00:36:04 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+00:36:04 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+00:36:04 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+00:36:04 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+00:36:04 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+00:36:04 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+00:36:04 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+00:36:04 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+00:36:04 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+00:36:04 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+00:36:04 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+00:36:04 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+00:46:05 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+00:46:05 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+00:46:05 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+00:46:05 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+00:46:05 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+00:46:05 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+00:46:05 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+00:46:05 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+00:46:05 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+00:46:05 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+00:46:05 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+00:46:05 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+00:46:05 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+00:46:05 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+00:56:05 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+00:56:05 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+00:56:05 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+00:56:05 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+00:56:05 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+00:56:05 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+00:56:05 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+00:56:05 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+00:56:05 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+00:56:05 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+00:56:05 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+00:56:05 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+00:56:05 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+00:56:05 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+01:06:06 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+01:06:06 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+01:06:06 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+01:06:06 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+01:06:06 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+01:06:06 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+01:06:06 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+01:06:06 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+01:06:06 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+01:06:06 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+01:06:06 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+01:06:06 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+01:06:06 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+01:06:06 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+01:16:07 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+01:16:07 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+01:16:07 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+01:16:07 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+01:16:07 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+01:16:07 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+01:16:07 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+01:16:07 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+01:16:07 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+01:16:07 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+01:16:07 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+01:16:07 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+01:16:07 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+01:16:07 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+01:26:08 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+01:26:08 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+01:26:08 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+01:26:08 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+01:26:08 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+01:26:08 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+01:26:08 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+01:26:08 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+01:26:08 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+01:26:08 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+01:26:08 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+01:26:08 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+01:26:08 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+01:26:08 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+01:36:09 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+01:36:09 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+01:36:09 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+01:36:09 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+01:36:09 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+01:36:09 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+01:36:09 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+01:36:09 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+01:36:09 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+01:36:09 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+01:36:09 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+01:36:09 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+01:36:09 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+01:36:09 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+01:46:10 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+01:46:10 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+01:46:10 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+01:46:10 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+01:46:10 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+01:46:10 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+01:46:10 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+01:46:10 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+01:46:10 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+01:46:10 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+01:46:10 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+01:46:10 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+01:46:10 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+01:46:10 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+01:56:11 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+01:56:11 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+01:56:11 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+01:56:11 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+01:56:11 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+01:56:11 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+01:56:11 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+01:56:11 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+01:56:11 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+01:56:11 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+01:56:11 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+01:56:11 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+01:56:11 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+01:56:11 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+02:06:12 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+02:06:12 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+02:06:12 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+02:06:12 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+02:06:12 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+02:06:12 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+02:06:12 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+02:06:12 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+02:06:12 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+02:06:12 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+02:06:12 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+02:06:12 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+02:06:12 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+02:06:12 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+02:16:13 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+02:16:13 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+02:16:13 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+02:16:13 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+02:16:13 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+02:16:13 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+02:16:13 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+02:16:13 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+02:16:13 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+02:16:13 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+02:16:13 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+02:16:13 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+02:16:13 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+02:16:13 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+02:26:14 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+02:26:14 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+02:26:14 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+02:26:14 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+02:26:14 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+02:26:14 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+02:26:14 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+02:26:14 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+02:26:14 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+02:26:14 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+02:26:14 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+02:26:14 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+02:26:14 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+02:26:14 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+02:36:15 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+02:36:15 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+02:36:15 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+02:36:15 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+02:36:15 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+02:36:15 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+02:36:15 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+02:36:15 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+02:36:15 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+02:36:15 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+02:36:15 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+02:36:15 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+02:36:15 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+02:36:15 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+02:46:16 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+02:46:16 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+02:46:16 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+02:46:16 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+02:46:16 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+02:46:16 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+02:46:16 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+02:46:16 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+02:46:16 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+02:46:16 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+02:46:16 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+02:46:16 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+02:46:16 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+02:46:16 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+02:56:16 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+02:56:16 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+02:56:16 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+02:56:16 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+02:56:16 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+02:56:16 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+02:56:16 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+02:56:16 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+02:56:16 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+02:56:16 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+02:56:16 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+02:56:16 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+02:56:16 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+02:56:16 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+03:06:17 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+03:06:17 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+03:06:17 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+03:06:17 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+03:06:17 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+03:06:17 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+03:06:17 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+03:06:17 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+03:06:17 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+03:06:17 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+03:06:17 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+03:06:17 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+03:06:17 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+03:06:17 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+03:16:17 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+03:16:17 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+03:16:17 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+03:16:17 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+03:16:17 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+03:16:17 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+03:16:17 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+03:16:17 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+03:16:17 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+03:16:17 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+03:16:17 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+03:16:17 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+03:16:17 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+03:16:17 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+03:26:18 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+03:26:18 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+03:26:18 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+03:26:18 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+03:26:18 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+03:26:18 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+03:26:18 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+03:26:18 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+03:26:18 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+03:26:18 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+03:26:18 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+03:26:18 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+03:26:18 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+03:26:18 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+03:36:19 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+03:36:19 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+03:36:19 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+03:36:19 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+03:36:19 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+03:36:19 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+03:36:19 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+03:36:19 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+03:36:19 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+03:36:19 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+03:36:19 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+03:36:19 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+03:36:19 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+03:36:19 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+03:46:20 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+03:46:20 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+03:46:20 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+03:46:20 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+03:46:20 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+03:46:20 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+03:46:20 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+03:46:20 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+03:46:20 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+03:46:20 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+03:46:20 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+03:46:20 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+03:46:20 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+03:46:20 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+03:56:20 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+03:56:20 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+03:56:20 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+03:56:20 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+03:56:20 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+03:56:20 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+03:56:20 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+03:56:20 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+03:56:20 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+03:56:20 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+03:56:20 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+03:56:20 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+03:56:20 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+03:56:20 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+04:06:21 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+04:06:21 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+04:06:21 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+04:06:21 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+04:06:21 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+04:06:21 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+04:06:21 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+04:06:21 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+04:06:21 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+04:06:21 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+04:06:21 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+04:06:21 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+04:06:21 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+04:06:21 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+04:16:22 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+04:16:22 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+04:16:22 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+04:16:22 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+04:16:22 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+04:16:22 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+04:16:22 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+04:16:22 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+04:16:22 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+04:16:22 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+04:16:22 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+04:16:22 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+04:16:22 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+04:16:22 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+04:26:23 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+04:26:23 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+04:26:23 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+04:26:23 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+04:26:23 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+04:26:23 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+04:26:23 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+04:26:23 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+04:26:23 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+04:26:23 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+04:26:23 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+04:26:23 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+04:26:23 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+04:26:23 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+04:36:24 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+04:36:24 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+04:36:24 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+04:36:24 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+04:36:24 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+04:36:24 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+04:36:24 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+04:36:24 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+04:36:24 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+04:36:24 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+04:36:24 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+04:36:24 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+04:36:24 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+04:36:24 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+04:46:25 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+04:46:25 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+04:46:25 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+04:46:25 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+04:46:25 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+04:46:25 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+04:46:25 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+04:46:25 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+04:46:25 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+04:46:25 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+04:46:25 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+04:46:25 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+04:46:25 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+04:46:25 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+04:56:26 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+04:56:26 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+04:56:26 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+04:56:26 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+04:56:26 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+04:56:26 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+04:56:26 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+04:56:26 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+04:56:26 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+04:56:26 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+04:56:26 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+04:56:26 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+04:56:26 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+04:56:26 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+05:06:27 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+05:06:27 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+05:06:27 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+05:06:27 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+05:06:27 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+05:06:27 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+05:06:27 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+05:06:27 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+05:06:27 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+05:06:27 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+05:06:27 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+05:06:27 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+05:06:27 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+05:06:27 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+05:16:28 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+05:16:28 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+05:16:28 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+05:16:28 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+05:16:28 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+05:16:28 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+05:16:28 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+05:16:28 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+05:16:28 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+05:16:28 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+05:16:28 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+05:16:28 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+05:16:28 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+05:16:28 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+05:26:29 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+05:26:29 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+05:26:29 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+05:26:29 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+05:26:29 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+05:26:29 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+05:26:29 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+05:26:29 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+05:26:29 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+05:26:29 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+05:26:29 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+05:26:29 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+05:26:29 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+05:26:29 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+05:36:30 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+05:36:30 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+05:36:30 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+05:36:30 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+05:36:30 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+05:36:30 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+05:36:30 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+05:36:30 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+05:36:30 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+05:36:30 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+05:36:30 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+05:36:30 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+05:36:30 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+05:36:30 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+05:46:31 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+05:46:31 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+05:46:31 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+05:46:31 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+05:46:31 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+05:46:31 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+05:46:31 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+05:46:31 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+05:46:31 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+05:46:31 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+05:46:31 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+05:46:31 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+05:46:31 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+05:46:31 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+05:56:31 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+05:56:31 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+05:56:31 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+05:56:31 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+05:56:31 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+05:56:31 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+05:56:31 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+05:56:31 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+05:56:31 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+05:56:31 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+05:56:31 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+05:56:31 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+05:56:31 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+05:56:31 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+06:06:32 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+06:06:32 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+06:06:32 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+06:06:32 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+06:06:32 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+06:06:32 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+06:06:32 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+06:06:32 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+06:06:32 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+06:06:32 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+06:06:32 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+06:06:32 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+06:06:32 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+06:06:32 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+06:16:33 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+06:16:33 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+06:16:33 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+06:16:33 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+06:16:33 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+06:16:33 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+06:16:33 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+06:16:33 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+06:16:33 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+06:16:33 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+06:16:33 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+06:16:33 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+06:16:33 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+06:16:33 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+06:26:34 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+06:26:34 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+06:26:34 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+06:26:34 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+06:26:34 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+06:26:34 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+06:26:34 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+06:26:34 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+06:26:34 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+06:26:34 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+06:26:34 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+06:26:34 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+06:26:34 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+06:26:34 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+06:36:35 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+06:36:35 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+06:36:35 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+06:36:35 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+06:36:35 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+06:36:35 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+06:36:35 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+06:36:35 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+06:36:35 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+06:36:35 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+06:36:35 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+06:36:35 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+06:36:35 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+06:36:35 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+06:46:35 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+06:46:35 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+06:46:35 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+06:46:35 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+06:46:35 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+06:46:35 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+06:46:35 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+06:46:35 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+06:46:35 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+06:46:35 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+06:46:35 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+06:46:35 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+06:46:35 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+06:46:35 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+06:56:36 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+06:56:36 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+06:56:36 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+06:56:36 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+06:56:36 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+06:56:36 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+06:56:36 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+06:56:36 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+06:56:36 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+06:56:36 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+06:56:36 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+06:56:36 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+06:56:36 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+06:56:36 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+07:06:37 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+07:06:37 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+07:06:37 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+07:06:37 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+07:06:37 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+07:06:37 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+07:06:37 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+07:06:37 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+07:06:37 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+07:06:37 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+07:06:37 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+07:06:37 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+07:06:37 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+07:06:37 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+07:16:37 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+07:16:37 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+07:16:37 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+07:16:37 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+07:16:37 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+07:16:37 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+07:16:37 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+07:16:37 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+07:16:37 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+07:16:37 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+07:16:37 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+07:16:37 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+07:16:37 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+07:16:37 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+07:26:38 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+07:26:38 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+07:26:38 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+07:26:38 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+07:26:38 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+07:26:38 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+07:26:38 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+07:26:38 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+07:26:38 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+07:26:38 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+07:26:38 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+07:26:38 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+07:26:38 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+07:26:38 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+07:36:39 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+07:36:39 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+07:36:39 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+07:36:39 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+07:36:39 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+07:36:39 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+07:36:39 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+07:36:39 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+07:36:39 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+07:36:39 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+07:36:39 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+07:36:39 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+07:36:39 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+07:36:39 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+07:46:40 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+07:46:40 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+07:46:40 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+07:46:40 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+07:46:40 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+07:46:40 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+07:46:40 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+07:46:40 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+07:46:40 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+07:46:40 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+07:46:40 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+07:46:40 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+07:46:40 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+07:46:40 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+07:56:41 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+07:56:41 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+07:56:41 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+07:56:41 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+07:56:41 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+07:56:41 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+07:56:41 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+07:56:41 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+07:56:41 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+07:56:41 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+07:56:41 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+07:56:41 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+07:56:41 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+07:56:41 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+08:06:42 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+08:06:42 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+08:06:42 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+08:06:42 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+08:06:42 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+08:06:42 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+08:06:42 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+08:06:42 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+08:06:42 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+08:06:42 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+08:06:42 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+08:06:42 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+08:06:42 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+08:06:42 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+08:16:42 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+08:16:42 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+08:16:42 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+08:16:42 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+08:16:42 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+08:16:42 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+08:16:42 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+08:16:42 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+08:16:42 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+08:16:42 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+08:16:42 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+08:16:42 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+08:16:42 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+08:16:42 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+08:26:43 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+08:26:43 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+08:26:43 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+08:26:43 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+08:26:43 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+08:26:43 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+08:26:43 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+08:26:43 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+08:26:43 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+08:26:43 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+08:26:43 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+08:26:43 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+08:26:43 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+08:26:43 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+08:36:43 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+08:36:43 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+08:36:43 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+08:36:43 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+08:36:43 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+08:36:43 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+08:36:43 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+08:36:43 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+08:36:43 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+08:36:43 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+08:36:43 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+08:36:43 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+08:36:43 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+08:36:43 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+08:46:44 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+08:46:44 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+08:46:44 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+08:46:44 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+08:46:44 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+08:46:44 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+08:46:44 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+08:46:44 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+08:46:44 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+08:46:44 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+08:46:44 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+08:46:44 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+08:46:44 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+08:46:44 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+08:56:45 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+08:56:45 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+08:56:45 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+08:56:45 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+08:56:45 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+08:56:45 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+08:56:45 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+08:56:45 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+08:56:45 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+08:56:45 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+08:56:45 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+08:56:45 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+08:56:45 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+08:56:45 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+09:06:46 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+09:06:46 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+09:06:46 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+09:06:46 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+09:06:46 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+09:06:46 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+09:06:46 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+09:06:46 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+09:06:46 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+09:06:46 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+09:06:46 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+09:06:46 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+09:06:46 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+09:06:46 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+09:16:47 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+09:16:47 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+09:16:47 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+09:16:47 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+09:16:47 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+09:16:47 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+09:16:47 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+09:16:47 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+09:16:47 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+09:16:47 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+09:16:47 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+09:16:47 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+09:16:47 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+09:16:47 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+09:26:47 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+09:26:47 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+09:26:47 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+09:26:47 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+09:26:47 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+09:26:47 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+09:26:47 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+09:26:47 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+09:26:47 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+09:26:47 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+09:26:47 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+09:26:47 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+09:26:47 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+09:26:47 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+09:36:48 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+09:36:48 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+09:36:48 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+09:36:48 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+09:36:48 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+09:36:48 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+09:36:48 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+09:36:48 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+09:36:48 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+09:36:48 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+09:36:48 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+09:36:48 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+09:36:48 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+09:36:48 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+09:46:49 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+09:46:49 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+09:46:49 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+09:46:49 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+09:46:49 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+09:46:49 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+09:46:49 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+09:46:49 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+09:46:49 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+09:46:49 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+09:46:49 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+09:46:49 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+09:46:49 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+09:46:49 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+09:56:50 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+09:56:50 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+09:56:50 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+09:56:50 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+09:56:50 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+09:56:50 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+09:56:50 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+09:56:50 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+09:56:50 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+09:56:50 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+09:56:50 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+09:56:50 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+09:56:50 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+09:56:50 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+10:06:51 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+10:06:51 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+10:06:51 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+10:06:51 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+10:06:51 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+10:06:51 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+10:06:51 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+10:06:51 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+10:06:51 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+10:06:51 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+10:06:51 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+10:06:51 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+10:06:51 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+10:06:51 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+10:16:52 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+10:16:52 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+10:16:52 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+10:16:52 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+10:16:52 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+10:16:52 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+10:16:52 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+10:16:52 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+10:16:52 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+10:16:52 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+10:16:52 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+10:16:52 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+10:16:52 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+10:16:52 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+10:26:52 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+10:26:52 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+10:26:52 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+10:26:52 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+10:26:52 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+10:26:52 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+10:26:52 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+10:26:52 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+10:26:52 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+10:26:52 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+10:26:52 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+10:26:52 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+10:26:52 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+10:26:52 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+10:36:53 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+10:36:53 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+10:36:53 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+10:36:53 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+10:36:53 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+10:36:53 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+10:36:53 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+10:36:53 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+10:36:53 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+10:36:53 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+10:36:53 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+10:36:53 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+10:36:53 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+10:36:53 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+10:46:53 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+10:46:53 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+10:46:53 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+10:46:53 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+10:46:53 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+10:46:53 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+10:46:53 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+10:46:53 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+10:46:53 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+10:46:53 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+10:46:53 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+10:46:53 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+10:46:53 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+10:46:53 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+10:56:54 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+10:56:54 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+10:56:54 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+10:56:54 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+10:56:54 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+10:56:54 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+10:56:54 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+10:56:54 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+10:56:54 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+10:56:54 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+10:56:54 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+10:56:54 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+10:56:54 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+10:56:54 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+11:06:55 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+11:06:55 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+11:06:55 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+11:06:55 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+11:06:55 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+11:06:55 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+11:06:55 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+11:06:55 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+11:06:55 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+11:06:55 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+11:06:55 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+11:06:55 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+11:06:55 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+11:06:55 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0
+11:16:56 UPDATE Character SET cLevel=400,Class=34,LevelUpPoint=0,Experience=2147483647,NewExperience=18446744073236732400,Strength=65000,Dexterity=65000,Vitality=65000,Energy=65000,Leadership=0,Inventory=?,MagicList=?,Money=30280200,Life=32.000000,MaxLife=130440.000000,Mana=117727.000000,MaxMana=98107.000000,BP=65000.000000,MaxBP=65000.000000,Shield=327544.000000,MaxShield=327544.000000,MapNumber=1,MapPosX=105,MapPosY=224,MapDir=3,PkCount=0,PkLevel=3,PkTime=1,Quest=?,EffectList=?,FruitAddPoint=0,FruitSubPoint=0,ExtInventory=0,RuudToken=0,Flag=255,BonusPoints=0,BlockSummonParty=0,BanChat=0 WHERE AccountID='mspro' AND Name='MSProelf'
+11:16:56 UPDATE AccountCharacter SET ExtWarehouse=0 WHERE Id='mspro'
+11:16:56 UPDATE Character SET Kills=0, Deads=0 WHERE Name='MSProelf'
+11:16:56 SELECT Name FROM QuestKillCount WHERE Name='MSProelf'
+11:16:56 UPDATE QuestKillCount SET QuestIndex=-1,MonsterClass1=-1,KillCount1=0,MonsterClass2=-1,KillCount2=0,MonsterClass3=-1,KillCount3=0,MonsterClass4=-1,KillCount4=0,MonsterClass5=-1,KillCount5=0 WHERE Name='MSProelf'
+11:16:56 SELECT Name FROM MasterSkillTree WHERE Name='MSProelf'
+11:16:56 UPDATE MasterSkillTree SET MasterLevel=1,MasterPoint=1,MasterExperience=67689400,MasterSkill=? WHERE Name='MSProelf'
+11:16:56 SELECT Name FROM QuestWorld WHERE Name='MSProelf'
+11:16:56 UPDATE QuestWorld SET QuestWorldList=? WHERE Name='MSProelf'
+11:16:56 UPDATE ResetSystem SET AutoReset=0, Strength=0, Dexterity=0, Vitality=0, Energy=0, Leadership=0, PointsLeft=0 WHERE Name='MSProelf'
+11:16:56 UPDATE dbo.Character SET ResetCount = '0', MasterResetCount = '0' WHERE Name = 'MSProelf'
+11:16:56 UPDATE XTR_QuestInfo SET Data = ? WHERE Name = 'MSProelf' AND QuestIndex = 1 AND Type = 1
+11:16:56 EXEC MSPro_BattlePass_Save ?, ?, ?, ?, ?
+11:16:56 [BattlePass] Saved data for MSProelf - Level: 0, Exp: 0, Premium: 0

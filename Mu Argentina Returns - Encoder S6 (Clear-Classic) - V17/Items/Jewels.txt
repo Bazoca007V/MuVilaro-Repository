@@ -1,0 +1,29 @@
+0
+//Index   ItemIndex   MinItemLevel   MaxItemLevel   MaxItemOption1   MaxItemOption2   MinItemOption3   MaxItemOption3   MinItemNewOption   MaxItemNewOption   MaxItemSetOption   MinItemSocketOption   MaxItemSocketOption   EnableSlotWeapon   EnableSlotArmor   EnableSlotWing   SuccessRate_AL0   SuccessRate_AL1   SuccessRate_AL2   SuccessRate_AL3   SalePrice Folder	 ModelName
+	0		14		244		0		12		*		*		*		*		*		*		*		*		*		*		*		*		100		100		100		100		20		0		"Jewel180"
+	1		14		245		0		15		0		*		*		*		*		*		*		*		*		*		*		*		100		100		100		100		20		0		"Jewel181"
+	2		14		246		0		15		*		0		*		*		*		*		*		*		*		*		*		*		100		100		100		100		20		0		"Jewel182"
+	3		14		247		0		15		*		*		0		6		*		*		*		*		*		*		*		*		100		100		100		100		20		0		"Jewel183"
+	4		14		248		0		15		*		*		*		*		0		5		*		*		*		*		*		*		100		100		100		100		20		0		"Jewel184"
+	5		14		249		0		15		*		*		*		*		*		*		*		0		5		*		*		*		100		100		100		100		20		0		"Jewel185"
+	6		14		250		0		15		*		*		*		*		*		*		1		*		*		*		*		*		100		100		100		100		20		0		"Jewel186"
+	7		14		251		0		15		*		*		*		*		*		*		2		*		*		*		*		*		100		100		100		100		20		0		"Jewel187"
+	8		14		252		0		15		*		*		*		*		*		*		*		*		*		*		*		*		100		100		100		100		20		0		"Jewel188"
+end
+
+1
+//Index   Level   Option1   Option2   Option3   NewOption   SetOption   SocketOption
+	0		15		0		0			0		0			0			0
+	1		0		1		0			0		0			0			0
+	2		0		0		1			0		0			0			0
+	3		0		0		0			7		0			0			0
+	4		0		0		0			0		1			0			0
+	5		0		0		0			0		0			0			1
+	6		0		0		0			0		0			5			0
+	7		0		0		0			0		0			6			0
+	8		15		1		1			7		6			0			0
+end
+
+2
+//Index   Level   Option1   Option2   Option3   NewOption   SetOption   SocketOption
+end

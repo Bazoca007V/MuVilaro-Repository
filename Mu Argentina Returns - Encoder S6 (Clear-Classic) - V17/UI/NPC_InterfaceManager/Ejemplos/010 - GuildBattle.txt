@@ -1,0 +1,52 @@
+//--------------------------------
+//	[*/0~3]		[32 Caracters Max]
+//	Lang		NPC Name
+//--------------------------------
+0
+	-1			"Guild Battle"
+end
+
+//--------------------------------
+// ENG
+// Index	Color	Text
+//--------------------------------
+1
+//Text
+	0		1		"Get ready for Battle!!!"
+	1		8		"Guild Battle is Closed"
+	2		19		"Guild Battle is Opened"
+	3		16		"Guild Battle has Stated"
+	4		16		"Time Left"
+	5		1		""							//Clock Color
+	6		1		"Registered Guilds"
+	7		1		"Guild {}"					//My Guild Color
+	8		16		"Required Item"	
+	9		1		"You have come to early, come back later..."
+	10		17		"Guild Members to Participate"
+//Button
+	11		17		"Join Battle"		
+end
+
+//--------------------------------
+// SPN
+// Index	Color	Text
+//--------------------------------
+2
+end
+
+//--------------------------------
+// POR
+// Index	Color	Text
+//--------------------------------
+3
+end
+
+//--------------------------
+// Box Color
+//--------------------------
+// Index	Color
+//--------------------------------
+4
+	1		3
+	2		3
+end

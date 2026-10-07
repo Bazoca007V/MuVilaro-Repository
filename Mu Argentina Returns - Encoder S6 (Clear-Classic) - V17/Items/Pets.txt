@@ -1,0 +1,7 @@
+//---------------------------------------------------------------------------------------
+// MSPro Team
+//---------------------------------------------------------------------------------------
+//Index	  Type	ID	Size	FSize	Ani	Index BasePet	BSize	IndexEvo-1	PetEvo1 Size1	IndexEvo-2	PetEvo2 Size2   NormalPet	    Evo1Name Evo2Name
+//Pet huevo(visual) a pet sin evos                                                          
+//	13	200	1.0		0.5		1	13		201		1.0		0			0	 	1.0		0			0	 	1.0		"DemonGG"     	   "0"   "0"
+end

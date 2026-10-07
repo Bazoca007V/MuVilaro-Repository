@@ -1,0 +1,163 @@
+22:02:09 [NewNPCManager][000 - Acceso por Zen.txt] EventID: 0 -> Data Loaded
+22:02:09 [NewNPCManager][001 - Acceso por Guild.txt] EventID: 1 -> Data Loaded
+22:02:09 [NewNPCManager][002 - Acceso por Items.txt] EventID: 2 -> Data Loaded
+22:02:09 [NewNPCManager][003 - Intercambio Items x Items.txt] EventID: 3 -> Data Loaded
+22:02:09 [NewNPCManager][004 - Intercambio Items x Cosas.txt] EventID: 4 -> Data Loaded
+22:02:09 [NewNPCManager][005 - Intercambio Cosas x Items.txt] EventID: 5 -> Data Loaded
+22:02:09 [NewNPCManager][006 - Intercambio Cosas x Cosas.txt] EventID: 6 -> Data Loaded
+22:02:09 [NewNPCManager][007 - Acceso Libre.txt] EventID: 7 -> Data Loaded
+22:02:09 [NewNPCManager][008 - Acceso Cerrado.txt] EventID: 8 -> Data Loaded
+22:02:09 [NewNPCManager][009 - SkyEvent.txt] EventID: 9 -> Data Loaded
+22:02:09 [ServerInfo] Common loaded successfully
+22:02:09 [ServerInfo] CashShop loaded successfully
+22:02:09 [CustomMixInfo] File loaded
+22:02:09 [CustomMixInfo] 61 mixes loaded successfully
+22:02:09 [ServerInfo] ChaosMix loaded successfully
+22:02:09 [ServerInfo] Duel loaded successfully
+22:02:09 [ServerInfo] Character loaded successfully
+22:02:09 [GuildBattle] Start Time. [1017] Min Remain
+22:02:09 [ResetSystem] ..\Data\ResetSystem.txt loaded successfully
+22:02:09 [ResetSystem][0] Reset Count Schedule Created -1/-1 (DoW: 1) 23:59
+22:02:09 [ResetSystem][1] Reset Count Schedule Created -1/-1 (DoW: 1) 23:59
+22:02:09 [AutoSystem] loaded successfully
+22:02:09 [CDailyBonus::UpdateDoW] Day Changed!
+22:02:09 [PKSystem] File loaded
+22:02:09 [GiftCodes] File loaded
+22:02:09 [ExperienceFormula] ..\Data\Util\ExperienceFormula.txt loaded successfully
+22:02:09 [BattlePass] Loaded: Season [2026-01-01 - 2026-03-30], Levels: 50, Rewards: 27
+22:02:09 [BossDamageRank] Loaded successfully
+22:02:09 [ServerInfo] Custom loaded successfully
+22:02:10 [Attack/Pick] Settings Loaded
+22:02:10 [PKClearSettings] File loaded
+22:02:10 [ServerInfo] Command loaded successfully
+22:02:10 [ Crywolf ] State (0) -> NONE
+22:02:10 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:02:10 [Invasion][Skeleton King] Index 0 Data Loaded
+22:02:10 [Invasion][Red Dragon] Index 1 Data Loaded
+22:02:10 [Invasion][Golden Invasion] Index 2 Data Loaded
+22:02:10 [Invasion][White Wizard] Index 3 Data Loaded
+22:02:10 [Invasion][Pouch - NewYear] Index 4 Data Loaded
+22:02:10 [Invasion][White Rabbits] Index 5 Data Loaded
+22:02:10 [Invasion][Summer] Index 6 Data Loaded
+22:02:10 [Invasion][Navidad-Christmas] Index 7 Data Loaded
+22:02:10 [Invasion][Medusa] Index 8 Data Loaded
+22:02:10 [Invasion][Skeleton King](0) Sync Start. Min Remain [122]
+22:02:10 [Invasion][Skeleton King](0) State changed to WAITING
+22:02:10 [Invasion][Red Dragon](1) Sync Start. Min Remain [372]
+22:02:10 [Invasion][Red Dragon](1) State changed to WAITING
+22:02:10 [Invasion][Golden Invasion](2) Sync Start. Min Remain [382]
+22:02:10 [Invasion][Golden Invasion](2) State changed to WAITING
+22:02:10 [Invasion][White Wizard](3) Sync Start. Min Remain [167]
+22:02:10 [Invasion][White Wizard](3) State changed to WAITING
+22:02:10 [Invasion][Pouch - NewYear](4) Sync Start. Min Remain [2]
+22:02:10 [Invasion][Pouch - NewYear](4) State changed to WAITING
+22:02:10 [Invasion][White Rabbits](5) Sync Start. Min Remain [12]
+22:02:10 [Invasion][White Rabbits](5) State changed to WAITING
+22:02:10 [Invasion][Summer](6) Sync Start. Min Remain [12]
+22:02:10 [Invasion][Summer](6) State changed to WAITING
+22:02:10 [Invasion][Navidad-Christmas](7) Sync Start. Min Remain [12]
+22:02:10 [Invasion][Navidad-Christmas](7) State changed to WAITING
+22:02:10 [Invasion][Medusa](8) Sync Start. Min Remain [177]
+22:02:10 [Invasion][Medusa](8) State changed to WAITING
+22:02:10 [ServerInfo] Golden Archer Info loaded successfully
+22:02:10 [ServerInfo] Event loaded successfully
+22:02:10 [ServerInfo] EventItemBag loaded successfully
+22:02:10 [ServerInfo] Hack loaded successfully
+22:02:10 [ServerInfo] Item loaded successfully
+22:02:10 [ServerInfo] Monster loaded successfully
+22:02:10 [ServerInfo] Move loaded successfully
+22:02:10 [ServerInfo] Quest loaded successfully
+22:02:10 [ServerInfo] Shop loaded successfully
+22:02:10 [EventMapBuffManager] File Loaded
+22:02:10 [PvPAttackDamage] File Loaded
+22:02:10 [MvPAttackDamage] File Loaded
+22:02:10 [ServerInfo] Skill loaded successfully
+22:02:10 [ServerInfo] Util loaded successfully
+22:02:10 [ReadBotInfo] BotSystem loaded successfully
+22:02:10 [ServerInfo] Downgrade Settings loaded successfully
+22:02:10 [KeepMU] ..\Data\KeepMU\SpeedCheck.txt loaded successfully
+22:02:11 [KeepMU] Settings loaded successfully
+22:02:11 [KeepMU] ..\Data\KeepMU\HardwareIDList.xtr loaded successfully
+22:02:11 [KeepMU] ..\Data\KeepMU\WindowsHackList.xtr loaded successfully
+22:02:11 [OffHelper] Settings Loaded
+22:02:11 [OffHelper] AttackSpeed Loaded
+22:02:11 [ServerInfo] OffHelper loaded successfully
+22:02:11 [Lua] Script loaded [..\Data\Script\ScriptMain.lua]
+22:02:11 [Invasion][Skeleton King](0) Sync Start. Min Remain [122]
+22:02:11 [Invasion][Skeleton King](0) State changed to WAITING
+22:02:11 [Invasion][Red Dragon](1) Sync Start. Min Remain [372]
+22:02:11 [Invasion][Red Dragon](1) State changed to WAITING
+22:02:11 [Invasion][Golden Invasion](2) Sync Start. Min Remain [382]
+22:02:11 [Invasion][Golden Invasion](2) State changed to WAITING
+22:02:11 [Invasion][White Wizard](3) Sync Start. Min Remain [167]
+22:02:11 [Invasion][White Wizard](3) State changed to WAITING
+22:02:11 [Invasion][Pouch - NewYear](4) Sync Start. Min Remain [2]
+22:02:11 [Invasion][Pouch - NewYear](4) State changed to WAITING
+22:02:11 [Invasion][White Rabbits](5) Sync Start. Min Remain [12]
+22:02:11 [Invasion][White Rabbits](5) State changed to WAITING
+22:02:11 [Invasion][Summer](6) Sync Start. Min Remain [12]
+22:02:11 [Invasion][Summer](6) State changed to WAITING
+22:02:11 [Invasion][Navidad-Christmas](7) Sync Start. Min Remain [12]
+22:02:11 [Invasion][Navidad-Christmas](7) State changed to WAITING
+22:02:11 [Invasion][Medusa](8) Sync Start. Min Remain [177]
+22:02:11 [Invasion][Medusa](8) State changed to WAITING
+22:02:12 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+22:02:12 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+22:02:12 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2017-9-16)
+22:02:12 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+22:02:12 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2017-9-23(0:0:0))
+22:02:12 [CastleSiege] CCastleSiege::Init() - START
+22:02:12 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+22:02:13 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+22:05:00 [Invasion][Pouch - NewYear](4) State changed to RUNNING
+22:05:00 New Year Pounch Invasion!
+22:10:00 Mensaje de Lorencia
+22:12:12 [EventTimeSync] Sync Timers
+22:15:00 Mensaje de Lorencia
+22:15:00 Mensaje de Devias
+22:15:00 [Invasion][Pouch - NewYear](4) Sync Start. Min Remain [230]
+22:15:00 [Invasion][Pouch - NewYear](4) State changed to WAITING
+22:15:00 [Invasion][White Rabbits](5) State changed to RUNNING
+22:15:00 White Rabbit Invasion!
+22:15:00 [Invasion][Summer](6) State changed to RUNNING
+22:15:00 Summer Event Started!
+22:15:00 [Invasion][Navidad-Christmas](7) State changed to RUNNING
+22:15:00 Cursed Santa Event Started!
+22:20:00 Mensaje de Lorencia
+22:20:00 www.muserverpro.com
+22:22:12 [EventTimeSync] Sync Timers
+22:25:00 Mensaje de Lorencia
+22:25:00 [Invasion][White Rabbits](5) Sync Start. Min Remain [230]
+22:25:00 [Invasion][White Rabbits](5) State changed to WAITING
+22:25:00 [Invasion][Summer](6) Sync Start. Min Remain [230]
+22:25:00 [Invasion][Summer](6) State changed to WAITING
+22:25:00 Cursed Santa has retired
+22:25:00 [Invasion][Navidad-Christmas](7) Sync Start. Min Remain [230]
+22:25:00 [Invasion][Navidad-Christmas](7) State changed to WAITING
+22:30:00 Mensaje de Lorencia
+22:32:12 [EventTimeSync] Sync Timers
+22:35:00 Mensaje de Lorencia
+22:40:00 Mensaje de Lorencia
+22:42:12 [EventTimeSync] Sync Timers
+22:45:01 Mensaje de Lorencia
+22:50:00 Mensaje de Lorencia
+22:52:12 [EventTimeSync] Sync Timers
+22:55:00 Mensaje de Lorencia
+23:02:13 [EventTimeSync] Sync Timers
+23:10:00 Mensaje de Lorencia
+23:12:13 [EventTimeSync] Sync Timers
+23:15:00 Mensaje de Lorencia
+23:15:00 Mensaje de Devias
+23:20:00 Mensaje de Lorencia
+23:20:00 www.muserverpro.com
+23:22:13 [EventTimeSync] Sync Timers
+23:25:00 Mensaje de Lorencia
+23:30:00 Mensaje de Lorencia
+23:32:13 [EventTimeSync] Sync Timers
+23:35:00 Mensaje de Lorencia
+23:40:00 Mensaje de Lorencia
+23:42:13 [EventTimeSync] Sync Timers
+23:45:00 Mensaje de Lorencia
+23:50:01 Mensaje de Lorencia
+23:52:13 [EventTimeSync] Sync Timers
+23:55:00 Mensaje de Lorencia

@@ -1,0 +1,19 @@
+14:45:10 [SocketManager] Server started at port [55901]
+14:48:17 [SocketManager] Index: 13000, Recv IoSize == 0
+14:48:17 [SocketManager][DisconnectResult] Index: 13000, ConnectionId: 1, Account: mspromu, Name: , ConnectedBefore: 2, ConnectedAfter: 0, gObjDelCalled: 1, gObjDelResult: 13000, OffAttack: 0, OffHelper: 0, OffStore: 0, IsBot: 0
+14:49:00 [SocketManager] Index: 13001, Recv IoSize == 0
+14:49:00 [SocketManager][DisconnectResult] Index: 13001, ConnectionId: 2, Account: mspro, Name: MSProdw, ConnectedBefore: 3, ConnectedAfter: 0, gObjDelCalled: 1, gObjDelResult: 13001, OffAttack: 0, OffHelper: 0, OffStore: 0, IsBot: 0
+14:50:02 [Connection] connect() failed with error: 10061
+14:50:04 [Connection] connect() failed with error: 10061
+14:50:12 [Connection] connect() failed with error: 10061
+14:50:14 [Connection] connect() failed with error: 10061
+14:50:14 [Connection] send() failed with error: 10057
+14:50:14 [Connection] connect() failed with error: 10038
+14:50:22 [Connection] connect() failed with error: 10061
+14:50:24 [Connection] connect() failed with error: 10061
+14:50:24 [Connection] send() failed with error: 10057
+14:50:24 [Connection] connect() failed with error: 10038
+14:50:32 [Connection] connect() failed with error: 10061
+14:50:34 [Connection] connect() failed with error: 10061
+14:50:34 [Connection] send() failed with error: 10057
+14:50:34 [Connection] connect() failed with error: 10038

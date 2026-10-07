@@ -1,0 +1,5 @@
+11:18:07 [Connection] connect() failed with error: 10061
+11:18:08 [Connection] send() failed with error: 10057
+11:18:08 [Connection] connect() failed with error: 10038
+11:18:08 [Connection] send() failed with error: 10057
+11:18:08 [Connection] connect() failed with error: 10038

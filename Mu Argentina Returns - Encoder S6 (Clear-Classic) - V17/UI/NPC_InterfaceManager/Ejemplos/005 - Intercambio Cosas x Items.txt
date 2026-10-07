@@ -1,0 +1,32 @@
+//--------------------------
+//	Lang	Nombre del NPC
+//--------------------------
+0
+	-1		"Intercambio Resets"
+end
+
+//--------------------------
+//	English
+//	Index	Color	Texto
+//--------------------------
+1
+//History
+	0	1	"Hola Guerrero"
+	1	1	"Si Aceptas este importante sacrificio"
+	2	1	"recibiras una muy valiosa recompensa."
+	3	2	"¿Que dices?"
+//Requeriments
+	6	5	"- TE QUITARE -"
+	7	5	"- RECIBIRAS -"	
+//Buttons
+	10	1	"Acepto!"
+end
+
+//--------------------------
+// Colores de la UI
+//--------------------------
+4
+	1	3	//Background 1
+	2	3	//Background 2
+	3	3	//Background 3
+end

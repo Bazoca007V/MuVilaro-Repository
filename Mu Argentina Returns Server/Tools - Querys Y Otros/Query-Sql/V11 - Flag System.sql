@@ -1,0 +1,23 @@
+USE [MuOnline]
+GO
+
+/****** Object:  Table [dbo].[FlagSystem]    Script Date: 30/4/2022 13:35:26 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[FlagSystem](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[Name] [varchar](10) NOT NULL,
+	[Index] [tinyint] NOT NULL,
+	[Time] [int] NULL,
+ CONSTRAINT [PK_FlagSystem] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+

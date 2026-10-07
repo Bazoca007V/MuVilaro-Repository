@@ -1,0 +1,18 @@
+//---------------------------------------------------------------------------------------
+// MSPro Team
+//---------------------------------------------------------------------------------------
+/////////////////////////////////////////////////////////
+// Custom Glow para Items que NO son Custom (Items Originales del Juego)
+// Nota: Si quieres cambiar el Glow de un Item Custom debes hacerlo desde el archivo CustomItems.txt
+//-------------------------------------------------------
+// ItemID: 
+// ID: 
+//-------------------------------------------------------
+// Rojo, Verde, Azul:
+// Numero del 0 al 255 (Igual que en CustomItem)
+//Glow Type: Type of glow (most use 2 or 70).																		
+// Others: 2 4 18 66 68 70 72 576 4162 16450 65600 65602															
+//-------------------------------------------------------
+// Type  ItemID   Effect   | Rojo | Verde | Azul
+//-------------------------------------------------------
+end

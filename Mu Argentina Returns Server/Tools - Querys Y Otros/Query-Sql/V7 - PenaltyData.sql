@@ -1,0 +1,30 @@
+USE [muonline]
+GO
+
+/****** Object:  Table [dbo].[XTR_PenaltyData]    Script Date: 11/24/2020 18:00:25 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[XTR_PenaltyData](
+	[Name] [varchar](50) NOT NULL,
+	[NameType] [int] NOT NULL,
+	[Type] [int] NOT NULL,
+	[Time] [int] NOT NULL,
+ CONSTRAINT [PK_XTR_PenaltyData] PRIMARY KEY CLUSTERED 
+(
+	[Name] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+

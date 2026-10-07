@@ -1,0 +1,2065 @@
+00:00:00 Blood Castle has closed
+00:00:00 Blood Castle 1 will start in 1 minute(s)
+00:00:00 Blood Castle 2 will start in 1 minute(s)
+00:00:00 Blood Castle 3 will start in 1 minute(s)
+00:00:00 Blood Castle 4 will start in 1 minute(s)
+00:00:00 Blood Castle 5 will start in 1 minute(s)
+00:00:00 Blood Castle 6 will start in 1 minute(s)
+00:00:00 Blood Castle 7 will start in 1 minute(s)
+00:00:00 Blood Castle 8 will start in 1 minute(s)
+00:00:00 Skeleton King will invade us in 5 minutes
+00:00:55 [CDailyBonus::UpdateDoW] Day Changed!
+00:00:56 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+00:01:00 Skeleton King will invade us in 4 minutes
+00:01:56 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+00:01:56 [EventTimeSync] Sync Timers
+00:02:00 Skeleton King will invade us in 3 minutes
+00:02:56 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+00:03:00 Skeleton King will invade us in 2 minutes
+00:03:56 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+00:04:00 Skeleton King will invade us in 1 minutes
+00:04:56 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+00:05:00 [Invasion][Skeleton King](0) Add Boss Position (55 - Map: 3 X: 131 Y: 202)
+00:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 3 X: 131 Y: 200)
+00:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 3 X: 126 Y: 202)
+00:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 3 X: 139 Y: 196)
+00:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 3 X: 138 Y: 192)
+00:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 3 X: 134 Y: 201)
+00:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 3 X: 127 Y: 199)
+00:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 3 X: 134 Y: 197)
+00:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 3 X: 125 Y: 198)
+00:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 3 X: 128 Y: 195)
+00:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 3 X: 127 Y: 201)
+00:05:00 [Invasion][Skeleton King](0) State changed to RUNNING
+00:05:00 Skeleton King invade us!
+00:05:56 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+00:06:01 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+00:06:49 Kanturu's Gate will open in 1 minute(s)
+00:06:56 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+00:07:56 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+00:08:56 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+00:09:56 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+00:10:01 Mensaje de Lorencia
+00:10:56 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+00:11:56 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+00:11:56 [EventTimeSync] Sync Timers
+00:12:56 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+00:13:56 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+00:14:49 Kanturu's Gate will open in 1 minute(s)
+00:14:56 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+00:15:00 Skeleton King withdraw his forces
+00:15:00 [Invasion][Skeleton King](0) Clearing 11 Monsters
+00:15:00 [Invasion][Skeleton King](0) Sync Start. Min Remain [230]
+00:15:00 [Invasion][Skeleton King](0) State changed to WAITING
+00:15:01 Mensaje de Lorencia
+00:15:01 Mensaje de Devias
+00:15:56 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+00:16:02 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+00:16:56 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+00:17:56 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+00:18:56 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+00:19:56 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+00:20:00 Mensaje de Lorencia
+00:20:00 www.muserverpro.com
+00:20:56 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+00:21:56 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+00:21:57 [EventTimeSync] Sync Timers
+00:22:48 Kanturu's Gate will open in 1 minute(s)
+00:22:56 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+00:23:56 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+00:24:56 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+00:25:00 Mensaje de Lorencia
+00:25:56 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+00:26:03 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+00:26:56 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+00:27:56 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+00:28:56 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+00:29:56 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+00:30:01 Mensaje de Lorencia
+00:30:48 Kanturu's Gate will open in 1 minute(s)
+00:30:56 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+00:31:56 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+00:31:57 [EventTimeSync] Sync Timers
+00:32:56 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+00:33:56 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+00:34:56 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+00:35:00 Mensaje de Lorencia
+00:35:56 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+00:36:04 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+00:36:56 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+00:37:56 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+00:38:47 Kanturu's Gate will open in 1 minute(s)
+00:38:56 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+00:39:56 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+00:40:00 Mensaje de Lorencia
+00:40:56 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+00:41:56 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+00:41:57 [EventTimeSync] Sync Timers
+00:42:56 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+00:43:56 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+00:44:56 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+00:45:00 Mensaje de Lorencia
+00:45:56 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+00:46:05 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+00:46:47 Kanturu's Gate will open in 1 minute(s)
+00:46:56 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+00:47:56 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+00:48:56 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+00:49:56 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+00:50:00 [TvTEvent] Closed!
+00:50:00 [Invasion][White Wizard](3) Add Boss Position (135 - Map: 2 X: 159 Y: 13)
+00:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 2 X: 160 Y: 20)
+00:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 2 X: 160 Y: 14)
+00:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 2 X: 162 Y: 23)
+00:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 2 X: 163 Y: 15)
+00:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 2 X: 158 Y: 19)
+00:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 2 X: 165 Y: 12)
+00:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 2 X: 159 Y: 15)
+00:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 2 X: 159 Y: 18)
+00:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 2 X: 160 Y: 19)
+00:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 2 X: 163 Y: 21)
+00:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 2 X: 163 Y: 13)
+00:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 2 X: 165 Y: 21)
+00:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 2 X: 165 Y: 15)
+00:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 2 X: 164 Y: 23)
+00:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 2 X: 165 Y: 13)
+00:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 2 X: 166 Y: 19)
+00:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 2 X: 166 Y: 16)
+00:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 2 X: 164 Y: 12)
+00:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 2 X: 164 Y: 23)
+00:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 2 X: 158 Y: 18)
+00:50:00 [Invasion][White Wizard](3) State changed to RUNNING
+00:50:00 White Wizard invade us!
+00:50:01 [TvTEvent] Ended
+00:50:01 Mensaje de Lorencia
+00:50:56 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+00:51:56 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+00:51:57 [EventTimeSync] Sync Timers
+00:52:56 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+00:53:56 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+00:54:47 Kanturu's Gate will open in 1 minute(s)
+00:54:56 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+00:55:00 [FREE] Blood Castle will close in 5 minute(s)
+00:55:00 Mensaje de Lorencia
+00:55:56 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+00:56:00 [FREE] Blood Castle will close in 4 minute(s)
+00:56:05 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+00:56:56 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+00:57:00 [FREE] Blood Castle will close in 3 minute(s)
+00:57:56 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+00:58:00 [FREE] Blood Castle will close in 2 minute(s)
+00:58:56 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+00:59:00 [FREE] Blood Castle will close in 1 minute(s)
+00:59:56 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+01:00:00 Blood Castle has closed
+01:00:00 Blood Castle 1 will start in 1 minute(s)
+01:00:00 Blood Castle 2 will start in 1 minute(s)
+01:00:00 Blood Castle 3 will start in 1 minute(s)
+01:00:00 Blood Castle 4 will start in 1 minute(s)
+01:00:00 Blood Castle 5 will start in 1 minute(s)
+01:00:00 Blood Castle 6 will start in 1 minute(s)
+01:00:00 Blood Castle 7 will start in 1 minute(s)
+01:00:00 Blood Castle 8 will start in 1 minute(s)
+01:00:00 White Wizard withdraw his forces
+01:00:00 [Invasion][White Wizard](3) Clearing 21 Monsters
+01:00:00 [Invasion][White Wizard](3) Sync Start. Min Remain [230]
+01:00:00 [Invasion][White Wizard](3) State changed to WAITING
+01:00:00 [Invasion][Medusa](8) Add Monster Position (560 - Map: 56 X: 183 Y: 123)
+01:00:00 [Invasion][Medusa](8) Add Monster Position (560 - Map: 56 X: 181 Y: 119)
+01:00:00 [Invasion][Medusa](8) Add Monster Position (560 - Map: 56 X: 180 Y: 115)
+01:00:00 [Invasion][Medusa](8) Add Monster Position (560 - Map: 56 X: 183 Y: 118)
+01:00:00 [Invasion][Medusa](8) Add Monster Position (560 - Map: 56 X: 182 Y: 116)
+01:00:00 [Invasion][Medusa](8) Add Monster Position (560 - Map: 56 X: 183 Y: 116)
+01:00:00 [Invasion][Medusa](8) Add Monster Position (560 - Map: 56 X: 181 Y: 115)
+01:00:00 [Invasion][Medusa](8) Add Boss Position (561 - Map: 56 X: 179 Y: 115)
+01:00:00 [Invasion][Medusa](8) State changed to RUNNING
+01:00:00 Medusa Invasion!
+01:00:00 Mensaje de Lorencia
+01:00:00 Mensaje de Devias
+01:00:00 www.muserverpro.com
+01:00:56 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+01:01:56 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+01:01:57 [EventTimeSync] Sync Timers
+01:02:46 Kanturu's Gate will open in 1 minute(s)
+01:02:56 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+01:03:56 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+01:04:56 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+01:05:00 Mensaje de Noria
+01:05:00 Mensaje de Elbeland
+01:05:00 www.muserverpro.com
+01:05:56 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+01:06:06 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+01:06:56 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+01:07:56 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+01:08:56 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+01:09:56 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+01:10:00 Medusa retired
+01:10:00 [Invasion][Medusa](8) Clearing 8 Monsters
+01:10:00 [Invasion][Medusa](8) Sync Start. Min Remain [230]
+01:10:00 [Invasion][Medusa](8) State changed to WAITING
+01:10:00 Mensaje de Lorencia
+01:10:46 Kanturu's Gate will open in 1 minute(s)
+01:10:56 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+01:11:56 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+01:11:57 [EventTimeSync] Sync Timers
+01:12:56 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+01:13:56 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+01:14:56 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+01:15:00 Mensaje de Lorencia
+01:15:00 Mensaje de Devias
+01:15:56 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+01:16:07 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+01:16:56 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+01:17:56 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+01:18:46 Kanturu's Gate will open in 1 minute(s)
+01:18:56 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+01:19:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+01:20:01 Mensaje de Lorencia
+01:20:01 www.muserverpro.com
+01:20:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+01:21:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+01:21:57 [EventTimeSync] Sync Timers
+01:22:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+01:23:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+01:24:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+01:25:00 Illusion Temple will close in 5 minute(s)
+01:25:01 Mensaje de Lorencia
+01:25:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+01:26:00 Illusion Temple will close in 4 minute(s)
+01:26:08 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+01:26:45 Kanturu's Gate will open in 1 minute(s)
+01:26:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+01:27:00 Illusion Temple will close in 3 minute(s)
+01:27:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+01:28:00 Illusion Temple will close in 2 minute(s)
+01:28:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+01:29:00 Illusion Temple will close in 1 minute(s)
+01:29:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+01:30:00 Illusion Temple closed
+01:30:00 Illusion Temple 1 will start in 1 minute(s)
+01:30:00 Illusion Temple 2 will start in 1 minute(s)
+01:30:00 Illusion Temple 3 will start in 1 minute(s)
+01:30:00 Illusion Temple 4 will start in 1 minute(s)
+01:30:00 Illusion Temple 5 will start in 1 minute(s)
+01:30:00 Illusion Temple 6 will start in 1 minute(s)
+01:30:01 Mensaje de Lorencia
+01:30:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+01:31:00 Illusion Temple began
+01:31:00 Illusion Temple began
+01:31:00 Illusion Temple began
+01:31:00 Illusion Temple began
+01:31:00 Illusion Temple began
+01:31:00 Illusion Temple began
+01:31:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+01:31:57 [EventTimeSync] Sync Timers
+01:32:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+01:33:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+01:34:45 Kanturu's Gate will open in 1 minute(s)
+01:34:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+01:35:00 Mensaje de Lorencia
+01:35:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+01:36:09 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+01:36:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+01:37:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+01:38:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+01:39:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+01:40:00 Mensaje de Lorencia
+01:40:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+01:41:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+01:41:57 [EventTimeSync] Sync Timers
+01:42:44 Kanturu's Gate will open in 1 minute(s)
+01:42:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+01:43:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+01:44:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+01:45:00 Mensaje de Lorencia
+01:45:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+01:46:10 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+01:46:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+01:47:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+01:48:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+01:49:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+01:50:00 [TvTEvent] Closed!
+01:50:00 Mensaje de Lorencia
+01:50:01 [TvTEvent] Ended
+01:50:44 Kanturu's Gate will open in 1 minute(s)
+01:50:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+01:51:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+01:51:57 [EventTimeSync] Sync Timers
+01:52:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+01:53:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+01:54:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+01:55:00 [FREE] Blood Castle will close in 5 minute(s)
+01:55:00 Mensaje de Lorencia
+01:55:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+01:56:00 [FREE] Blood Castle will close in 4 minute(s)
+01:56:11 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+01:56:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+01:57:00 [FREE] Blood Castle will close in 3 minute(s)
+01:57:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+01:58:00 [FREE] Blood Castle will close in 2 minute(s)
+01:58:44 Kanturu's Gate will open in 1 minute(s)
+01:58:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+01:59:00 [FREE] Blood Castle will close in 1 minute(s)
+01:59:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+02:00:00 Blood Castle has closed
+02:00:00 Blood Castle 1 will start in 1 minute(s)
+02:00:00 Blood Castle 2 will start in 1 minute(s)
+02:00:00 Blood Castle 3 will start in 1 minute(s)
+02:00:00 Blood Castle 4 will start in 1 minute(s)
+02:00:00 Blood Castle 5 will start in 1 minute(s)
+02:00:00 Blood Castle 6 will start in 1 minute(s)
+02:00:00 Blood Castle 7 will start in 1 minute(s)
+02:00:00 Blood Castle 8 will start in 1 minute(s)
+02:00:00 Moss Merchant is back!
+02:00:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+02:01:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+02:01:57 [EventTimeSync] Sync Timers
+02:02:00 Moss Merchant has departed!
+02:02:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+02:03:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+02:04:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+02:05:00 [Invasion][Pouch - NewYear](4) Add Monster Position (365 - Map: 57 X: 121 Y: 171)
+02:05:00 [Invasion][Pouch - NewYear](4) Add Monster Position (365 - Map: 57 X: 55 Y: 148)
+02:05:00 [Invasion][Pouch - NewYear](4) Add Monster Position (365 - Map: 57 X: 161 Y: 211)
+02:05:00 [Invasion][Pouch - NewYear](4) Add Monster Position (365 - Map: 57 X: 140 Y: 222)
+02:05:00 [Invasion][Pouch - NewYear](4) Add Monster Position (365 - Map: 57 X: 116 Y: 142)
+02:05:00 [Invasion][Pouch - NewYear](4) State changed to RUNNING
+02:05:00 New Year Pounch Invasion!
+02:05:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+02:06:12 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+02:06:43 Kanturu's Gate will open in 1 minute(s)
+02:06:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+02:07:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+02:08:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+02:09:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+02:10:01 Mensaje de Lorencia
+02:10:01 Mensaje de Lorencia
+02:10:01 Mensaje de Devias
+02:10:01 www.muserverpro.com
+02:10:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+02:11:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+02:11:58 [EventTimeSync] Sync Timers
+02:12:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+02:13:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+02:14:43 Kanturu's Gate will open in 1 minute(s)
+02:14:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+02:15:00 [Invasion][Pouch - NewYear](4) Clearing 5 Monsters
+02:15:00 [Invasion][Pouch - NewYear](4) Sync Start. Min Remain [230]
+02:15:00 [Invasion][Pouch - NewYear](4) State changed to WAITING
+02:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 4 X: 81 Y: 193)
+02:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 4 X: 84 Y: 112)
+02:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 4 X: 18 Y: 126)
+02:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 4 X: 211 Y: 90)
+02:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 4 X: 114 Y: 176)
+02:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 4 X: 29 Y: 25)
+02:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 4 X: 229 Y: 223)
+02:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 4 X: 100 Y: 57)
+02:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 4 X: 199 Y: 221)
+02:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 4 X: 103 Y: 200)
+02:15:00 [Invasion][White Rabbits](5) State changed to RUNNING
+02:15:00 White Rabbit Invasion!
+02:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 57 X: 122 Y: 98)
+02:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 57 X: 57 Y: 212)
+02:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 57 X: 233 Y: 129)
+02:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 57 X: 100 Y: 113)
+02:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 57 X: 111 Y: 173)
+02:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 57 X: 104 Y: 214)
+02:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 57 X: 95 Y: 195)
+02:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 57 X: 207 Y: 101)
+02:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 57 X: 102 Y: 189)
+02:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 57 X: 178 Y: 223)
+02:15:00 [Invasion][Summer](6) State changed to RUNNING
+02:15:00 Summer Event Started!
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 163 Y: 63)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 155 Y: 63)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 158 Y: 54)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 157 Y: 59)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 163 Y: 61)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 162 Y: 64)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 158 Y: 49)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 158 Y: 63)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 151 Y: 59)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 154 Y: 62)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Boss Position (476 - Map: 0 X: 152 Y: 59)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 166 Y: 19)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 164 Y: 17)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 159 Y: 14)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 165 Y: 22)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 158 Y: 22)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 159 Y: 13)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 163 Y: 13)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 158 Y: 12)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 159 Y: 20)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 160 Y: 20)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Boss Position (476 - Map: 2 X: 160 Y: 14)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 197 Y: 71)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 200 Y: 84)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 196 Y: 84)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 195 Y: 77)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 195 Y: 74)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 195 Y: 75)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 200 Y: 72)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 203 Y: 81)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 194 Y: 78)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 195 Y: 76)
+02:15:00 [Invasion][Navidad-Christmas](7) Add Boss Position (476 - Map: 3 X: 199 Y: 81)
+02:15:00 [Invasion][Navidad-Christmas](7) State changed to RUNNING
+02:15:00 Cursed Santa Event Started!
+02:15:00 Mensaje de Lorencia
+02:15:00 Mensaje de Devias
+02:15:00 Mensaje de Noria
+02:15:00 Mensaje de Elbeland
+02:15:00 www.muserverpro.com
+02:15:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+02:16:13 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+02:16:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+02:17:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+02:18:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+02:19:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+02:20:01 Mensaje de Lorencia
+02:20:01 www.muserverpro.com
+02:20:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+02:21:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+02:21:58 [EventTimeSync] Sync Timers
+02:22:43 Kanturu's Gate will open in 1 minute(s)
+02:22:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+02:23:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+02:24:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+02:25:00 [FREE] Devil Square will close in 5 minute(s)
+02:25:00 [Invasion][White Rabbits](5) Clearing 10 Monsters
+02:25:00 [Invasion][White Rabbits](5) Sync Start. Min Remain [230]
+02:25:00 [Invasion][White Rabbits](5) State changed to WAITING
+02:25:00 [Invasion][Summer](6) Clearing 10 Monsters
+02:25:00 [Invasion][Summer](6) Sync Start. Min Remain [230]
+02:25:00 [Invasion][Summer](6) State changed to WAITING
+02:25:00 Cursed Santa has retired
+02:25:00 [Invasion][Navidad-Christmas](7) Clearing 33 Monsters
+02:25:00 [Invasion][Navidad-Christmas](7) Sync Start. Min Remain [230]
+02:25:00 [Invasion][Navidad-Christmas](7) State changed to WAITING
+02:25:01 Mensaje de Lorencia
+02:25:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+02:26:00 [FREE] Devil Square will close in 4 minute(s)
+02:26:14 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+02:26:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+02:27:00 [FREE] Devil Square will close in 3 minute(s)
+02:27:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+02:28:00 [FREE] Devil Square will close in 2 minute(s)
+02:28:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+02:29:00 [FREE] Devil Square will close in 1 minute(s)
+02:29:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+02:30:00 Devil Square has closed
+02:30:00 Devil Square 1 will start in 1 minute(s)
+02:30:00 Devil Square 2 will start in 1 minute(s)
+02:30:00 Devil Square 3 will start in 1 minute(s)
+02:30:00 Devil Square 4 will start in 1 minute(s)
+02:30:00 Devil Square 5 will start in 1 minute(s)
+02:30:00 Devil Square 6 will start in 1 minute(s)
+02:30:00 Devil Square 7 will start in 1 minute(s)
+02:30:00 Mensaje de Lorencia
+02:30:42 Kanturu's Gate will open in 1 minute(s)
+02:30:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+02:31:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+02:31:58 [EventTimeSync] Sync Timers
+02:32:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+02:33:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+02:34:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+02:35:00 Mensaje de Lorencia
+02:35:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+02:36:15 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+02:36:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+02:37:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+02:38:42 Kanturu's Gate will open in 1 minute(s)
+02:38:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+02:39:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+02:40:01 Mensaje de Lorencia
+02:40:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+02:41:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+02:41:58 [EventTimeSync] Sync Timers
+02:42:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+02:43:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+02:44:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+02:45:00 Mensaje de Lorencia
+02:45:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+02:46:16 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+02:46:42 Kanturu's Gate will open in 1 minute(s)
+02:46:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+02:47:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+02:48:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+02:49:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+02:50:00 [TvTEvent] Closed!
+02:50:01 [TvTEvent] Ended
+02:50:01 Mensaje de Lorencia
+02:50:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+02:51:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+02:51:58 [EventTimeSync] Sync Timers
+02:52:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+02:53:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+02:54:41 Kanturu's Gate will open in 1 minute(s)
+02:54:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+02:55:00 [FREE] Blood Castle will close in 5 minute(s)
+02:55:00 [FREE] Chaos Castle will close in 5 minute(s)
+02:55:01 Mensaje de Lorencia
+02:55:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+02:56:00 [FREE] Blood Castle will close in 4 minute(s)
+02:56:00 [FREE] Chaos Castle will close in 4 minute(s)
+02:56:16 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+02:56:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+02:57:00 [FREE] Blood Castle will close in 3 minute(s)
+02:57:00 [FREE] Chaos Castle will close in 3 minute(s)
+02:57:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+02:58:00 [FREE] Blood Castle will close in 2 minute(s)
+02:58:00 [FREE] Chaos Castle will close in 2 minute(s)
+02:58:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+02:59:00 [FREE] Blood Castle will close in 1 minute(s)
+02:59:00 [FREE] Chaos Castle will close in 1 minute(s)
+02:59:58 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+03:00:00 Blood Castle has closed
+03:00:00 Blood Castle 1 will start in 1 minute(s)
+03:00:00 Blood Castle 2 will start in 1 minute(s)
+03:00:00 Blood Castle 3 will start in 1 minute(s)
+03:00:00 Blood Castle 4 will start in 1 minute(s)
+03:00:00 Blood Castle 5 will start in 1 minute(s)
+03:00:00 Blood Castle 6 will start in 1 minute(s)
+03:00:00 Blood Castle 7 will start in 1 minute(s)
+03:00:00 Blood Castle 8 will start in 1 minute(s)
+03:00:00 Chaos Castle has closed
+03:00:00 Chaos Castle 1 will start in 1 minute(s)
+03:00:00 Chaos Castle 2 will start in 1 minute(s)
+03:00:00 Chaos Castle 3 will start in 1 minute(s)
+03:00:00 Chaos Castle 4 will start in 1 minute(s)
+03:00:00 Chaos Castle 5 will start in 1 minute(s)
+03:00:00 Chaos Castle 6 will start in 1 minute(s)
+03:00:00 Chaos Castle 7 will start in 1 minute(s)
+03:00:58 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+03:01:58 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+03:01:58 [EventTimeSync] Sync Timers
+03:02:41 Kanturu's Gate will open in 1 minute(s)
+03:02:58 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+03:03:58 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+03:04:58 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+03:05:58 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+03:06:17 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+03:06:58 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+03:07:58 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+03:08:58 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+03:09:58 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+03:10:01 Mensaje de Lorencia
+03:10:41 Kanturu's Gate will open in 1 minute(s)
+03:10:58 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+03:11:58 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+03:11:58 [EventTimeSync] Sync Timers
+03:12:58 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+03:13:58 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+03:14:58 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+03:15:00 Mensaje de Lorencia
+03:15:00 Mensaje de Devias
+03:15:56 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+03:16:17 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+03:16:56 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+03:17:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+03:18:39 Kanturu's Gate will open in 1 minute(s)
+03:18:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+03:19:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+03:20:00 Mensaje de Lorencia
+03:20:00 www.muserverpro.com
+03:20:00 Mensaje de Lorencia
+03:20:00 Mensaje de Devias
+03:20:00 www.muserverpro.com
+03:20:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+03:21:57 [EventTimeSync] Sync Timers
+03:21:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+03:22:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+03:23:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+03:24:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+03:25:01 Mensaje de Lorencia
+03:25:01 Mensaje de Noria
+03:25:01 Mensaje de Elbeland
+03:25:01 www.muserverpro.com
+03:25:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+03:26:18 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+03:26:38 Kanturu's Gate will open in 1 minute(s)
+03:26:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+03:27:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+03:28:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+03:29:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+03:30:01 Mensaje de Lorencia
+03:30:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+03:31:57 [EventTimeSync] Sync Timers
+03:31:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+03:32:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+03:33:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+03:34:38 Kanturu's Gate will open in 1 minute(s)
+03:34:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+03:35:01 Mensaje de Lorencia
+03:35:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+03:36:19 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+03:36:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+03:37:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+03:38:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+03:39:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+03:40:00 Mensaje de Lorencia
+03:40:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+03:41:57 [EventTimeSync] Sync Timers
+03:41:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+03:42:38 Kanturu's Gate will open in 1 minute(s)
+03:42:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+03:43:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+03:44:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+03:45:01 Mensaje de Lorencia
+03:45:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+03:46:20 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+03:46:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+03:47:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+03:48:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+03:49:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+03:50:00 [TvTEvent] Closed!
+03:50:00 Mensaje de Lorencia
+03:50:01 [TvTEvent] Ended
+03:50:37 Kanturu's Gate will open in 1 minute(s)
+03:50:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+03:51:57 [EventTimeSync] Sync Timers
+03:51:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+03:52:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+03:53:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+03:54:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+03:55:00 [FREE] Blood Castle will close in 5 minute(s)
+03:55:01 Castle Deep Event will start in 5 minute(s)
+03:55:01 Mensaje de Lorencia
+03:55:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+03:56:00 [FREE] Blood Castle will close in 4 minute(s)
+03:56:20 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+03:56:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+03:57:00 [FREE] Blood Castle will close in 3 minute(s)
+03:57:57 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+03:58:00 [FREE] Blood Castle will close in 2 minute(s)
+03:58:37 Kanturu's Gate will open in 1 minute(s)
+03:58:57 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+03:59:00 [FREE] Blood Castle will close in 1 minute(s)
+03:59:57 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+04:00:00 Blood Castle has closed
+04:00:00 Blood Castle 1 will start in 1 minute(s)
+04:00:00 Blood Castle 2 will start in 1 minute(s)
+04:00:00 Blood Castle 3 will start in 1 minute(s)
+04:00:00 Blood Castle 4 will start in 1 minute(s)
+04:00:00 Blood Castle 5 will start in 1 minute(s)
+04:00:00 Blood Castle 6 will start in 1 minute(s)
+04:00:00 Blood Castle 7 will start in 1 minute(s)
+04:00:00 Blood Castle 8 will start in 1 minute(s)
+04:00:00 Skeleton King will invade us in 5 minutes
+04:00:00 Castle Deep Event has started!
+04:00:57 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+04:01:00 Skeleton King will invade us in 4 minutes
+04:02:00 Skeleton King will invade us in 3 minutes
+04:02:00 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+04:02:00 [EventTimeSync] Sync Timers
+04:03:00 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+04:03:00 Skeleton King will invade us in 2 minutes
+04:04:00 Skeleton King will invade us in 1 minutes
+04:04:00 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+04:05:00 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+04:05:00 [Invasion][Skeleton King](0) Add Boss Position (55 - Map: 3 X: 131 Y: 192)
+04:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 3 X: 128 Y: 199)
+04:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 3 X: 135 Y: 198)
+04:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 3 X: 131 Y: 195)
+04:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 3 X: 127 Y: 190)
+04:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 3 X: 138 Y: 196)
+04:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 3 X: 129 Y: 193)
+04:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 3 X: 129 Y: 202)
+04:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 3 X: 125 Y: 200)
+04:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 3 X: 130 Y: 195)
+04:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 3 X: 133 Y: 193)
+04:05:00 [Invasion][Skeleton King](0) State changed to RUNNING
+04:05:00 Skeleton King invade us!
+04:06:00 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+04:06:21 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+04:06:37 Kanturu's Gate will open in 1 minute(s)
+04:07:00 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+04:08:00 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+04:09:00 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+04:10:00 Mensaje de Lorencia
+04:10:00 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+04:11:00 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+04:12:00 [EventTimeSync] Sync Timers
+04:12:00 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+04:13:00 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+04:14:00 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+04:14:36 Kanturu's Gate will open in 1 minute(s)
+04:15:00 Skeleton King withdraw his forces
+04:15:00 [Invasion][Skeleton King](0) Clearing 11 Monsters
+04:15:00 [Invasion][Skeleton King](0) Sync Start. Min Remain [230]
+04:15:00 [Invasion][Skeleton King](0) State changed to WAITING
+04:15:00 [Invasion][Red Dragon](1) Add Boss Position (42 - Map: 3 X: 185 Y: 40)
+04:15:00 [Invasion][Red Dragon](1) Add Boss Position (42 - Map: 3 X: 18 Y: 206)
+04:15:00 [Invasion][Red Dragon](1) Add Boss Position (42 - Map: 3 X: 46 Y: 39)
+04:15:00 [Invasion][Red Dragon](1) State changed to RUNNING
+04:15:00 Red Dragon invade us!
+04:15:00 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+04:15:01 Mensaje de Lorencia
+04:15:01 Mensaje de Devias
+04:16:00 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+04:16:22 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+04:17:00 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+04:18:00 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+04:19:00 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+04:20:00 Mensaje de Lorencia
+04:20:00 www.muserverpro.com
+04:20:00 Golden Dragon will invade us in 5 minutes
+04:20:00 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+04:21:00 Golden Dragon will invade us in 4 minutes
+04:21:00 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+04:22:00 Golden Dragon will invade us in 3 minutes
+04:22:00 [EventTimeSync] Sync Timers
+04:22:00 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+04:22:36 Kanturu's Gate will open in 1 minute(s)
+04:23:00 Golden Dragon will invade us in 2 minutes
+04:23:00 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+04:24:00 Golden Dragon will invade us in 1 minutes
+04:24:00 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+04:25:00 [FREE] Devil Square will close in 5 minute(s)
+04:25:00 Red Dragon withdraw his forces
+04:25:00 [Invasion][Red Dragon](1) Clearing 3 Monsters
+04:25:00 [Invasion][Red Dragon](1) Sync Start. Min Remain [230]
+04:25:00 [Invasion][Red Dragon](1) State changed to WAITING
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (43 - Map: 0 X: 169 Y: 179)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (43 - Map: 0 X: 50 Y: 182)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (43 - Map: 0 X: 219 Y: 188)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (43 - Map: 0 X: 84 Y: 109)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (43 - Map: 0 X: 231 Y: 108)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (53 - Map: 2 X: 100 Y: 197)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (53 - Map: 2 X: 212 Y: 90)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (53 - Map: 2 X: 159 Y: 31)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (53 - Map: 2 X: 46 Y: 67)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (53 - Map: 2 X: 37 Y: 10)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (54 - Map: 2 X: 130 Y: 125)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (54 - Map: 2 X: 150 Y: 227)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (54 - Map: 2 X: 118 Y: 64)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (54 - Map: 2 X: 226 Y: 155)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (54 - Map: 2 X: 76 Y: 154)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (78 - Map: 3 X: 107 Y: 138)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (78 - Map: 3 X: 63 Y: 77)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (78 - Map: 3 X: 76 Y: 48)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (78 - Map: 3 X: 28 Y: 46)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (78 - Map: 3 X: 26 Y: 186)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (79 - Map: 0 X: 110 Y: 192)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (80 - Map: 7 X: 66 Y: 147)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (80 - Map: 7 X: 83 Y: 128)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (80 - Map: 7 X: 43 Y: 182)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (81 - Map: 7 X: 49 Y: 56)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (81 - Map: 7 X: 48 Y: 166)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (81 - Map: 7 X: 117 Y: 205)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (81 - Map: 7 X: 25 Y: 90)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (81 - Map: 7 X: 157 Y: 23)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (82 - Map: 8 X: 35 Y: 203)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (82 - Map: 8 X: 165 Y: 200)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (82 - Map: 8 X: 49 Y: 127)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (83 - Map: 8 X: 124 Y: 151)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (83 - Map: 8 X: 162 Y: 191)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (83 - Map: 8 X: 59 Y: 125)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (83 - Map: 8 X: 63 Y: 192)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (83 - Map: 8 X: 43 Y: 82)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (493 - Map: 1 X: 88 Y: 117)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (493 - Map: 1 X: 133 Y: 196)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (493 - Map: 1 X: 141 Y: 109)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (494 - Map: 4 X: 104 Y: 109)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (494 - Map: 4 X: 178 Y: 233)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (494 - Map: 4 X: 133 Y: 28)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (495 - Map: 33 X: 166 Y: 50)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (495 - Map: 33 X: 96 Y: 44)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (495 - Map: 33 X: 187 Y: 177)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (496 - Map: 10 X: 11 Y: 18)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (496 - Map: 10 X: 95 Y: 46)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (496 - Map: 10 X: 32 Y: 215)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (497 - Map: 37 X: 44 Y: 66)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (497 - Map: 37 X: 225 Y: 81)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (497 - Map: 37 X: 212 Y: 162)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (498 - Map: 38 X: 98 Y: 98)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (498 - Map: 38 X: 145 Y: 144)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (498 - Map: 38 X: 176 Y: 142)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (499 - Map: 57 X: 37 Y: 112)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (499 - Map: 57 X: 150 Y: 107)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (499 - Map: 57 X: 170 Y: 211)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (500 - Map: 56 X: 239 Y: 214)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (500 - Map: 56 X: 214 Y: 140)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (500 - Map: 56 X: 171 Y: 137)
+04:25:00 [Invasion][Golden Invasion](2) Add Boss Position (501 - Map: 37 X: 50 Y: 139)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (502 - Map: 51 X: 64 Y: 79)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (502 - Map: 51 X: 116 Y: 119)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (502 - Map: 51 X: 225 Y: 136)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (502 - Map: 51 X: 51 Y: 157)
+04:25:00 [Invasion][Golden Invasion](2) Add Monster Position (502 - Map: 51 X: 44 Y: 154)
+04:25:00 [Invasion][Golden Invasion](2) State changed to RUNNING
+04:25:00 Golden Dragon withdraw his forces
+04:25:00 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+04:25:01 Mensaje de Lorencia
+04:26:00 [FREE] Devil Square will close in 4 minute(s)
+04:26:00 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+04:26:23 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+04:27:00 [FREE] Devil Square will close in 3 minute(s)
+04:27:00 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+04:28:00 [FREE] Devil Square will close in 2 minute(s)
+04:28:00 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+04:29:00 [FREE] Devil Square will close in 1 minute(s)
+04:29:00 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+04:30:00 Mensaje de Lorencia
+04:30:00 Mensaje de Lorencia
+04:30:00 Mensaje de Devias
+04:30:00 www.muserverpro.com
+04:30:00 Devil Square has closed
+04:30:00 Devil Square 1 will start in 1 minute(s)
+04:30:00 Devil Square 2 will start in 1 minute(s)
+04:30:00 Devil Square 3 will start in 1 minute(s)
+04:30:00 Devil Square 4 will start in 1 minute(s)
+04:30:00 Devil Square 5 will start in 1 minute(s)
+04:30:00 Devil Square 6 will start in 1 minute(s)
+04:30:00 Devil Square 7 will start in 1 minute(s)
+04:30:00 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+04:30:35 Kanturu's Gate will open in 1 minute(s)
+04:31:00 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+04:32:00 [EventTimeSync] Sync Timers
+04:32:00 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+04:33:00 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+04:34:00 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+04:35:00 Mensaje de Lorencia
+04:35:00 Mensaje de Noria
+04:35:00 Mensaje de Elbeland
+04:35:00 www.muserverpro.com
+04:35:00 Golden Dragon has retired
+04:35:00 [Invasion][Golden Invasion](2) Clearing 67 Monsters
+04:35:00 [Invasion][Golden Invasion](2) Sync Start. Min Remain [230]
+04:35:00 [Invasion][Golden Invasion](2) State changed to WAITING
+04:35:00 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+04:36:00 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+04:36:24 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+04:37:00 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+04:38:00 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+04:38:35 Kanturu's Gate will open in 1 minute(s)
+04:39:00 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+04:40:00 Mensaje de Lorencia
+04:40:00 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+04:41:00 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+04:42:00 [EventTimeSync] Sync Timers
+04:42:00 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+04:43:00 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+04:44:00 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+04:45:00 Mensaje de Lorencia
+04:45:01 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+04:46:01 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+04:46:25 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+04:46:35 Kanturu's Gate will open in 1 minute(s)
+04:47:01 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+04:48:01 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+04:49:01 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+04:50:00 [TvTEvent] Closed!
+04:50:00 [Invasion][White Wizard](3) Add Boss Position (135 - Map: 2 X: 162 Y: 16)
+04:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 2 X: 164 Y: 16)
+04:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 2 X: 163 Y: 22)
+04:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 2 X: 159 Y: 12)
+04:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 2 X: 164 Y: 12)
+04:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 2 X: 164 Y: 16)
+04:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 2 X: 162 Y: 21)
+04:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 2 X: 160 Y: 17)
+04:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 2 X: 158 Y: 23)
+04:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 2 X: 164 Y: 16)
+04:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 2 X: 159 Y: 12)
+04:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 2 X: 160 Y: 18)
+04:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 2 X: 158 Y: 22)
+04:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 2 X: 160 Y: 16)
+04:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 2 X: 164 Y: 21)
+04:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 2 X: 159 Y: 20)
+04:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 2 X: 162 Y: 21)
+04:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 2 X: 162 Y: 22)
+04:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 2 X: 162 Y: 21)
+04:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 2 X: 162 Y: 20)
+04:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 2 X: 159 Y: 23)
+04:50:00 [Invasion][White Wizard](3) State changed to RUNNING
+04:50:00 White Wizard invade us!
+04:50:01 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+04:50:01 Mensaje de Lorencia
+04:50:01 [TvTEvent] Ended
+04:51:01 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+04:52:00 [EventTimeSync] Sync Timers
+04:52:01 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+04:53:01 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+04:54:01 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+04:54:34 Kanturu's Gate will open in 1 minute(s)
+04:55:00 Mensaje de Lorencia
+04:55:00 [FREE] Blood Castle will close in 5 minute(s)
+04:55:00 [FREE] Chaos Castle will close in 5 minute(s)
+04:55:01 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+04:56:00 [FREE] Blood Castle will close in 4 minute(s)
+04:56:00 [FREE] Chaos Castle will close in 4 minute(s)
+04:56:01 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+04:56:26 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+04:57:00 [FREE] Blood Castle will close in 3 minute(s)
+04:57:00 [FREE] Chaos Castle will close in 3 minute(s)
+04:57:01 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+04:58:00 [FREE] Blood Castle will close in 2 minute(s)
+04:58:00 [FREE] Chaos Castle will close in 2 minute(s)
+04:58:01 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+04:59:00 [FREE] Blood Castle will close in 1 minute(s)
+04:59:00 [FREE] Chaos Castle will close in 1 minute(s)
+04:59:01 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+05:00:00 Blood Castle has closed
+05:00:00 Blood Castle 1 will start in 1 minute(s)
+05:00:00 Blood Castle 2 will start in 1 minute(s)
+05:00:00 Blood Castle 3 will start in 1 minute(s)
+05:00:00 Blood Castle 4 will start in 1 minute(s)
+05:00:00 Blood Castle 5 will start in 1 minute(s)
+05:00:00 Blood Castle 6 will start in 1 minute(s)
+05:00:00 Blood Castle 7 will start in 1 minute(s)
+05:00:00 Blood Castle 8 will start in 1 minute(s)
+05:00:00 Chaos Castle has closed
+05:00:00 Chaos Castle 1 will start in 1 minute(s)
+05:00:00 Chaos Castle 2 will start in 1 minute(s)
+05:00:00 Chaos Castle 3 will start in 1 minute(s)
+05:00:00 Chaos Castle 4 will start in 1 minute(s)
+05:00:00 Chaos Castle 5 will start in 1 minute(s)
+05:00:00 Chaos Castle 6 will start in 1 minute(s)
+05:00:00 Chaos Castle 7 will start in 1 minute(s)
+05:00:00 White Wizard withdraw his forces
+05:00:00 [Invasion][White Wizard](3) Clearing 21 Monsters
+05:00:00 [Invasion][White Wizard](3) Sync Start. Min Remain [230]
+05:00:00 [Invasion][White Wizard](3) State changed to WAITING
+05:00:00 [Invasion][Medusa](8) Add Monster Position (560 - Map: 56 X: 178 Y: 121)
+05:00:00 [Invasion][Medusa](8) Add Monster Position (560 - Map: 56 X: 183 Y: 123)
+05:00:00 [Invasion][Medusa](8) Add Monster Position (560 - Map: 56 X: 179 Y: 120)
+05:00:00 [Invasion][Medusa](8) Add Monster Position (560 - Map: 56 X: 182 Y: 118)
+05:00:00 [Invasion][Medusa](8) Add Monster Position (560 - Map: 56 X: 183 Y: 127)
+05:00:00 [Invasion][Medusa](8) Add Monster Position (560 - Map: 56 X: 178 Y: 127)
+05:00:00 [Invasion][Medusa](8) Add Monster Position (560 - Map: 56 X: 178 Y: 124)
+05:00:00 [Invasion][Medusa](8) Add Boss Position (561 - Map: 56 X: 178 Y: 126)
+05:00:00 [Invasion][Medusa](8) State changed to RUNNING
+05:00:00 Medusa Invasion!
+05:00:01 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+05:01:01 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+05:02:00 [EventTimeSync] Sync Timers
+05:02:01 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+05:02:34 Kanturu's Gate will open in 1 minute(s)
+05:03:01 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+05:04:01 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+05:05:01 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+05:06:01 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+05:06:27 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+05:07:01 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+05:08:01 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+05:09:01 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+05:10:00 Medusa retired
+05:10:00 [Invasion][Medusa](8) Clearing 8 Monsters
+05:10:00 [Invasion][Medusa](8) Sync Start. Min Remain [230]
+05:10:00 [Invasion][Medusa](8) State changed to WAITING
+05:10:00 Mensaje de Lorencia
+05:10:01 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+05:10:33 Kanturu's Gate will open in 1 minute(s)
+05:11:01 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+05:12:00 [EventTimeSync] Sync Timers
+05:12:01 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+05:13:01 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+05:14:01 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+05:15:00 Mensaje de Lorencia
+05:15:00 Mensaje de Devias
+05:15:01 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+05:16:01 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+05:16:28 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+05:17:01 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+05:18:01 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+05:18:33 Kanturu's Gate will open in 1 minute(s)
+05:19:01 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+05:20:01 Mensaje de Lorencia
+05:20:01 www.muserverpro.com
+05:20:01 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+05:21:01 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+05:22:00 [EventTimeSync] Sync Timers
+05:22:01 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+05:23:01 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+05:24:01 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+05:25:00 Illusion Temple will close in 5 minute(s)
+05:25:01 Mensaje de Lorencia
+05:25:01 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+05:26:00 Illusion Temple will close in 4 minute(s)
+05:26:01 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+05:26:29 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+05:26:33 Kanturu's Gate will open in 1 minute(s)
+05:27:00 Illusion Temple will close in 3 minute(s)
+05:27:01 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+05:28:00 Illusion Temple will close in 2 minute(s)
+05:28:01 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+05:29:00 Illusion Temple will close in 1 minute(s)
+05:29:01 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+05:30:00 Mensaje de Lorencia
+05:30:00 Illusion Temple closed
+05:30:00 Illusion Temple 1 will start in 1 minute(s)
+05:30:00 Illusion Temple 2 will start in 1 minute(s)
+05:30:00 Illusion Temple 3 will start in 1 minute(s)
+05:30:00 Illusion Temple 4 will start in 1 minute(s)
+05:30:00 Illusion Temple 5 will start in 1 minute(s)
+05:30:00 Illusion Temple 6 will start in 1 minute(s)
+05:30:01 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+05:31:00 Illusion Temple began
+05:31:00 Illusion Temple began
+05:31:00 Illusion Temple began
+05:31:00 Illusion Temple began
+05:31:00 Illusion Temple began
+05:31:00 Illusion Temple began
+05:31:01 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+05:32:00 [EventTimeSync] Sync Timers
+05:32:01 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+05:33:01 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+05:34:01 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+05:34:32 Kanturu's Gate will open in 1 minute(s)
+05:35:01 Mensaje de Lorencia
+05:35:01 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+05:36:01 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+05:36:30 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+05:37:01 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+05:38:01 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+05:39:01 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+05:40:01 Mensaje de Lorencia
+05:40:01 Mensaje de Lorencia
+05:40:01 Mensaje de Devias
+05:40:01 www.muserverpro.com
+05:40:01 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+05:41:01 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+05:42:00 [EventTimeSync] Sync Timers
+05:42:02 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+05:42:32 Kanturu's Gate will open in 1 minute(s)
+05:43:02 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+05:44:02 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+05:45:00 Mensaje de Lorencia
+05:45:00 Mensaje de Noria
+05:45:00 Mensaje de Elbeland
+05:45:00 www.muserverpro.com
+05:45:02 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+05:46:02 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+05:46:31 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+05:47:02 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+05:48:02 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+05:49:02 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+05:50:00 [TvTEvent] Closed!
+05:50:01 Mensaje de Lorencia
+05:50:01 [TvTEvent] Ended
+05:50:02 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+05:50:32 Kanturu's Gate will open in 1 minute(s)
+05:51:02 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+05:52:00 [EventTimeSync] Sync Timers
+05:52:02 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+05:53:02 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+05:54:02 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+05:55:00 Mensaje de Lorencia
+05:55:00 [FREE] Blood Castle will close in 5 minute(s)
+05:55:02 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+05:56:00 [FREE] Blood Castle will close in 4 minute(s)
+05:56:02 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+05:56:31 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+05:57:00 [FREE] Blood Castle will close in 3 minute(s)
+05:57:02 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+05:58:00 [FREE] Blood Castle will close in 2 minute(s)
+05:58:02 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+05:58:31 Kanturu's Gate will open in 1 minute(s)
+05:59:00 [FREE] Blood Castle will close in 1 minute(s)
+05:59:02 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+06:00:00 Blood Castle has closed
+06:00:00 Blood Castle 1 will start in 1 minute(s)
+06:00:00 Blood Castle 2 will start in 1 minute(s)
+06:00:00 Blood Castle 3 will start in 1 minute(s)
+06:00:00 Blood Castle 4 will start in 1 minute(s)
+06:00:00 Blood Castle 5 will start in 1 minute(s)
+06:00:00 Blood Castle 6 will start in 1 minute(s)
+06:00:00 Blood Castle 7 will start in 1 minute(s)
+06:00:00 Blood Castle 8 will start in 1 minute(s)
+06:00:02 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+06:01:02 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+06:02:00 [EventTimeSync] Sync Timers
+06:02:02 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+06:03:02 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+06:04:02 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+06:05:00 [Invasion][Pouch - NewYear](4) Add Monster Position (365 - Map: 33 X: 157 Y: 229)
+06:05:00 [Invasion][Pouch - NewYear](4) Add Monster Position (365 - Map: 33 X: 190 Y: 83)
+06:05:00 [Invasion][Pouch - NewYear](4) Add Monster Position (365 - Map: 33 X: 27 Y: 54)
+06:05:00 [Invasion][Pouch - NewYear](4) Add Monster Position (365 - Map: 33 X: 161 Y: 238)
+06:05:00 [Invasion][Pouch - NewYear](4) Add Monster Position (365 - Map: 33 X: 218 Y: 95)
+06:05:00 [Invasion][Pouch - NewYear](4) State changed to RUNNING
+06:05:00 New Year Pounch Invasion!
+06:05:02 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+06:06:02 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+06:06:31 Kanturu's Gate will open in 1 minute(s)
+06:06:32 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+06:07:02 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+06:08:02 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+06:09:02 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+06:10:01 Mensaje de Lorencia
+06:10:02 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+06:11:02 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+06:12:01 [EventTimeSync] Sync Timers
+06:12:02 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+06:13:02 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+06:14:02 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+06:14:30 Kanturu's Gate will open in 1 minute(s)
+06:15:00 [Invasion][Pouch - NewYear](4) Clearing 5 Monsters
+06:15:00 [Invasion][Pouch - NewYear](4) Sync Start. Min Remain [230]
+06:15:00 [Invasion][Pouch - NewYear](4) State changed to WAITING
+06:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 37 X: 172 Y: 193)
+06:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 37 X: 88 Y: 42)
+06:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 37 X: 55 Y: 137)
+06:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 37 X: 212 Y: 159)
+06:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 37 X: 155 Y: 53)
+06:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 37 X: 168 Y: 225)
+06:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 37 X: 53 Y: 34)
+06:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 37 X: 176 Y: 14)
+06:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 37 X: 49 Y: 150)
+06:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 37 X: 168 Y: 166)
+06:15:00 [Invasion][White Rabbits](5) State changed to RUNNING
+06:15:00 White Rabbit Invasion!
+06:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 4 X: 187 Y: 192)
+06:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 4 X: 235 Y: 10)
+06:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 4 X: 37 Y: 221)
+06:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 4 X: 81 Y: 52)
+06:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 4 X: 47 Y: 223)
+06:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 4 X: 113 Y: 136)
+06:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 4 X: 26 Y: 18)
+06:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 4 X: 24 Y: 183)
+06:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 4 X: 115 Y: 199)
+06:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 4 X: 128 Y: 222)
+06:15:00 [Invasion][Summer](6) State changed to RUNNING
+06:15:00 Summer Event Started!
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 162 Y: 55)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 158 Y: 51)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 161 Y: 52)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 159 Y: 54)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 151 Y: 48)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 151 Y: 48)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 163 Y: 49)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 162 Y: 57)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 153 Y: 61)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 162 Y: 60)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Boss Position (476 - Map: 0 X: 163 Y: 63)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 161 Y: 21)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 163 Y: 15)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 160 Y: 20)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 163 Y: 14)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 163 Y: 15)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 159 Y: 12)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 163 Y: 14)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 165 Y: 21)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 165 Y: 17)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 166 Y: 22)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Boss Position (476 - Map: 2 X: 160 Y: 14)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 198 Y: 82)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 196 Y: 74)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 201 Y: 84)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 194 Y: 73)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 195 Y: 74)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 201 Y: 79)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 201 Y: 74)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 195 Y: 74)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 203 Y: 70)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 195 Y: 73)
+06:15:00 [Invasion][Navidad-Christmas](7) Add Boss Position (476 - Map: 3 X: 198 Y: 85)
+06:15:00 [Invasion][Navidad-Christmas](7) State changed to RUNNING
+06:15:00 Cursed Santa Event Started!
+06:15:01 Mensaje de Lorencia
+06:15:01 Mensaje de Devias
+06:15:02 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+06:16:02 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+06:16:33 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+06:17:02 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+06:18:02 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+06:19:02 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+06:20:00 Mensaje de Lorencia
+06:20:00 www.muserverpro.com
+06:20:02 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+06:21:02 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+06:22:01 [EventTimeSync] Sync Timers
+06:22:02 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+06:22:30 Kanturu's Gate will open in 1 minute(s)
+06:23:02 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+06:24:02 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+06:25:00 Mensaje de Lorencia
+06:25:00 [FREE] Devil Square will close in 5 minute(s)
+06:25:00 [Invasion][White Rabbits](5) Clearing 10 Monsters
+06:25:00 [Invasion][White Rabbits](5) Sync Start. Min Remain [230]
+06:25:00 [Invasion][White Rabbits](5) State changed to WAITING
+06:25:00 [Invasion][Summer](6) Clearing 10 Monsters
+06:25:00 [Invasion][Summer](6) Sync Start. Min Remain [230]
+06:25:00 [Invasion][Summer](6) State changed to WAITING
+06:25:00 Cursed Santa has retired
+06:25:00 [Invasion][Navidad-Christmas](7) Clearing 33 Monsters
+06:25:00 [Invasion][Navidad-Christmas](7) Sync Start. Min Remain [230]
+06:25:00 [Invasion][Navidad-Christmas](7) State changed to WAITING
+06:25:02 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+06:26:00 [FREE] Devil Square will close in 4 minute(s)
+06:26:02 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+06:26:34 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+06:27:00 [FREE] Devil Square will close in 3 minute(s)
+06:27:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+06:28:00 [FREE] Devil Square will close in 2 minute(s)
+06:28:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+06:29:00 [FREE] Devil Square will close in 1 minute(s)
+06:29:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+06:30:00 Devil Square has closed
+06:30:00 Devil Square 1 will start in 1 minute(s)
+06:30:00 Devil Square 2 will start in 1 minute(s)
+06:30:00 Devil Square 3 will start in 1 minute(s)
+06:30:00 Devil Square 4 will start in 1 minute(s)
+06:30:00 Devil Square 5 will start in 1 minute(s)
+06:30:00 Devil Square 6 will start in 1 minute(s)
+06:30:00 Devil Square 7 will start in 1 minute(s)
+06:30:00 Mensaje de Lorencia
+06:30:03 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+06:30:30 Kanturu's Gate will open in 1 minute(s)
+06:31:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+06:32:01 [EventTimeSync] Sync Timers
+06:32:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+06:33:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+06:34:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+06:35:00 Mensaje de Lorencia
+06:35:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+06:36:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+06:36:35 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+06:37:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+06:38:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+06:38:29 Kanturu's Gate will open in 1 minute(s)
+06:39:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+06:40:01 Mensaje de Lorencia
+06:40:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+06:41:03 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+06:42:01 [EventTimeSync] Sync Timers
+06:42:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+06:43:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+06:44:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+06:45:01 Mensaje de Lorencia
+06:45:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+06:46:03 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+06:46:29 Kanturu's Gate will open in 1 minute(s)
+06:46:35 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+06:47:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+06:48:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+06:49:03 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+06:50:00 [TvTEvent] Closed!
+06:50:01 [TvTEvent] Ended
+06:50:01 Mensaje de Lorencia
+06:50:01 Mensaje de Lorencia
+06:50:01 Mensaje de Devias
+06:50:01 www.muserverpro.com
+06:50:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+06:51:03 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+06:52:01 [EventTimeSync] Sync Timers
+06:52:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+06:53:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+06:54:03 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+06:54:28 Kanturu's Gate will open in 1 minute(s)
+06:55:00 [FREE] Blood Castle will close in 5 minute(s)
+06:55:00 [FREE] Chaos Castle will close in 5 minute(s)
+06:55:00 Mensaje de Lorencia
+06:55:00 Mensaje de Noria
+06:55:00 Mensaje de Elbeland
+06:55:00 www.muserverpro.com
+06:55:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+06:56:00 [FREE] Blood Castle will close in 4 minute(s)
+06:56:00 [FREE] Chaos Castle will close in 4 minute(s)
+06:56:03 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+06:56:36 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+06:57:00 [FREE] Blood Castle will close in 3 minute(s)
+06:57:00 [FREE] Chaos Castle will close in 3 minute(s)
+06:57:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+06:58:00 [FREE] Blood Castle will close in 2 minute(s)
+06:58:00 [FREE] Chaos Castle will close in 2 minute(s)
+06:58:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+06:59:00 [FREE] Blood Castle will close in 1 minute(s)
+06:59:00 [FREE] Chaos Castle will close in 1 minute(s)
+06:59:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+07:00:00 Blood Castle has closed
+07:00:00 Blood Castle 1 will start in 1 minute(s)
+07:00:00 Blood Castle 2 will start in 1 minute(s)
+07:00:00 Blood Castle 3 will start in 1 minute(s)
+07:00:00 Blood Castle 4 will start in 1 minute(s)
+07:00:00 Blood Castle 5 will start in 1 minute(s)
+07:00:00 Blood Castle 6 will start in 1 minute(s)
+07:00:00 Blood Castle 7 will start in 1 minute(s)
+07:00:00 Blood Castle 8 will start in 1 minute(s)
+07:00:00 Chaos Castle has closed
+07:00:00 Chaos Castle 1 will start in 1 minute(s)
+07:00:00 Chaos Castle 2 will start in 1 minute(s)
+07:00:00 Chaos Castle 3 will start in 1 minute(s)
+07:00:00 Chaos Castle 4 will start in 1 minute(s)
+07:00:00 Chaos Castle 5 will start in 1 minute(s)
+07:00:00 Chaos Castle 6 will start in 1 minute(s)
+07:00:00 Chaos Castle 7 will start in 1 minute(s)
+07:00:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+07:01:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+07:02:01 [EventTimeSync] Sync Timers
+07:02:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+07:02:28 Kanturu's Gate will open in 1 minute(s)
+07:03:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+07:04:03 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+07:05:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+07:06:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+07:06:37 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+07:07:03 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+07:08:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+07:09:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+07:10:00 Mensaje de Lorencia
+07:10:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+07:10:28 Kanturu's Gate will open in 1 minute(s)
+07:11:03 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+07:12:01 [EventTimeSync] Sync Timers
+07:12:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+07:13:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+07:14:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+07:15:00 [FREE] Devil Square will close in 5 minute(s)
+07:15:00 Mensaje de Lorencia
+07:15:00 Mensaje de Devias
+07:15:03 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+07:16:00 [FREE] Devil Square will close in 4 minute(s)
+07:16:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+07:16:37 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+07:17:00 [FREE] Devil Square will close in 3 minute(s)
+07:17:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+07:18:00 [FREE] Devil Square will close in 2 minute(s)
+07:18:03 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+07:18:27 Kanturu's Gate will open in 1 minute(s)
+07:19:00 [FREE] Devil Square will close in 1 minute(s)
+07:19:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+07:20:00 Mensaje de Lorencia
+07:20:00 www.muserverpro.com
+07:20:00 Devil Square has closed
+07:20:00 Devil Square 1 will start in 1 minute(s)
+07:20:00 Devil Square 2 will start in 1 minute(s)
+07:20:00 Devil Square 3 will start in 1 minute(s)
+07:20:00 Devil Square 4 will start in 1 minute(s)
+07:20:00 Devil Square 5 will start in 1 minute(s)
+07:20:00 Devil Square 6 will start in 1 minute(s)
+07:20:00 Devil Square 7 will start in 1 minute(s)
+07:20:03 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+07:21:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+07:22:01 [EventTimeSync] Sync Timers
+07:22:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+07:23:03 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+07:24:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+07:25:00 Mensaje de Lorencia
+07:25:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+07:26:03 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+07:26:27 Kanturu's Gate will open in 1 minute(s)
+07:26:38 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+07:27:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+07:28:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+07:29:03 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+07:30:00 Mensaje de Lorencia
+07:30:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+07:31:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+07:32:01 [EventTimeSync] Sync Timers
+07:32:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+07:33:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+07:34:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+07:34:27 Kanturu's Gate will open in 1 minute(s)
+07:35:01 Mensaje de Lorencia
+07:35:03 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+07:36:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+07:36:39 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+07:37:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+07:38:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+07:39:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+07:40:00 Mensaje de Lorencia
+07:40:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+07:41:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+07:42:01 [EventTimeSync] Sync Timers
+07:42:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+07:42:26 Kanturu's Gate will open in 1 minute(s)
+07:43:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+07:44:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+07:45:00 Mensaje de Lorencia
+07:45:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+07:46:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+07:46:40 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+07:47:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+07:48:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+07:49:03 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+07:50:00 Mensaje de Lorencia
+07:50:00 [TvTEvent] Closed!
+07:50:01 [TvTEvent] Ended
+07:50:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+07:50:26 Kanturu's Gate will open in 1 minute(s)
+07:51:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+07:52:01 [EventTimeSync] Sync Timers
+07:52:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+07:53:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+07:54:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+07:55:00 Mensaje de Lorencia
+07:55:00 [FREE] Blood Castle will close in 5 minute(s)
+07:55:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+07:56:00 [FREE] Blood Castle will close in 4 minute(s)
+07:56:03 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+07:56:41 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+07:57:00 [FREE] Blood Castle will close in 3 minute(s)
+07:57:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+07:58:00 [FREE] Blood Castle will close in 2 minute(s)
+07:58:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+07:58:26 Kanturu's Gate will open in 1 minute(s)
+07:59:00 [FREE] Blood Castle will close in 1 minute(s)
+07:59:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+08:00:00 Blood Castle has closed
+08:00:00 Blood Castle 1 will start in 1 minute(s)
+08:00:00 Blood Castle 2 will start in 1 minute(s)
+08:00:00 Blood Castle 3 will start in 1 minute(s)
+08:00:00 Blood Castle 4 will start in 1 minute(s)
+08:00:00 Blood Castle 5 will start in 1 minute(s)
+08:00:00 Blood Castle 6 will start in 1 minute(s)
+08:00:00 Blood Castle 7 will start in 1 minute(s)
+08:00:00 Blood Castle 8 will start in 1 minute(s)
+08:00:00 Moss Merchant is back!
+08:00:00 Skeleton King will invade us in 5 minutes
+08:00:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+08:01:00 Skeleton King will invade us in 4 minutes
+08:01:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+08:02:00 Moss Merchant has departed!
+08:02:00 Skeleton King will invade us in 3 minutes
+08:02:01 [EventTimeSync] Sync Timers
+08:02:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+08:03:00 Skeleton King will invade us in 2 minutes
+08:03:03 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+08:04:00 Skeleton King will invade us in 1 minutes
+08:04:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+08:05:00 [Invasion][Skeleton King](0) Add Boss Position (55 - Map: 0 X: 137 Y: 202)
+08:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 0 X: 134 Y: 202)
+08:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 0 X: 132 Y: 194)
+08:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 0 X: 128 Y: 195)
+08:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 0 X: 137 Y: 190)
+08:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 0 X: 130 Y: 193)
+08:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 0 X: 126 Y: 198)
+08:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 0 X: 137 Y: 191)
+08:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 0 X: 125 Y: 195)
+08:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 0 X: 129 Y: 202)
+08:05:00 [Invasion][Skeleton King](0) Add Monster Position (56 - Map: 0 X: 139 Y: 190)
+08:05:00 [Invasion][Skeleton King](0) State changed to RUNNING
+08:05:00 Skeleton King invade us!
+08:05:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+08:06:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+08:06:25 Kanturu's Gate will open in 1 minute(s)
+08:06:42 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+08:07:03 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+08:08:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+08:09:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+08:10:01 Mensaje de Lorencia
+08:10:03 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+08:11:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+08:12:01 [EventTimeSync] Sync Timers
+08:12:03 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+08:13:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+08:14:03 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+08:14:25 Kanturu's Gate will open in 1 minute(s)
+08:15:00 Skeleton King withdraw his forces
+08:15:00 [Invasion][Skeleton King](0) Clearing 11 Monsters
+08:15:00 [Invasion][Skeleton King](0) Sync Start. Min Remain [230]
+08:15:00 [Invasion][Skeleton King](0) State changed to WAITING
+08:15:00 [Invasion][Red Dragon](1) Add Boss Position (42 - Map: 3 X: 144 Y: 173)
+08:15:00 [Invasion][Red Dragon](1) Add Boss Position (42 - Map: 3 X: 141 Y: 198)
+08:15:00 [Invasion][Red Dragon](1) Add Boss Position (42 - Map: 3 X: 65 Y: 148)
+08:15:00 [Invasion][Red Dragon](1) State changed to RUNNING
+08:15:00 Red Dragon invade us!
+08:15:01 Mensaje de Lorencia
+08:15:01 Mensaje de Devias
+08:15:03 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+08:16:03 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+08:16:42 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+08:17:04 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+08:18:04 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+08:19:04 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+08:20:00 Mensaje de Lorencia
+08:20:00 www.muserverpro.com
+08:20:00 Golden Dragon will invade us in 5 minutes
+08:20:04 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+08:21:00 Golden Dragon will invade us in 4 minutes
+08:21:04 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+08:22:00 Golden Dragon will invade us in 3 minutes
+08:22:01 [EventTimeSync] Sync Timers
+08:22:04 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+08:22:25 Kanturu's Gate will open in 1 minute(s)
+08:23:00 Golden Dragon will invade us in 2 minutes
+08:23:04 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+08:24:00 Golden Dragon will invade us in 1 minutes
+08:24:04 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+08:25:00 Mensaje de Lorencia
+08:25:00 [FREE] Devil Square will close in 5 minute(s)
+08:25:00 Red Dragon withdraw his forces
+08:25:00 [Invasion][Red Dragon](1) Clearing 3 Monsters
+08:25:00 [Invasion][Red Dragon](1) Sync Start. Min Remain [230]
+08:25:00 [Invasion][Red Dragon](1) State changed to WAITING
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (43 - Map: 0 X: 86 Y: 169)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (43 - Map: 0 X: 40 Y: 108)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (43 - Map: 0 X: 91 Y: 54)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (43 - Map: 0 X: 89 Y: 104)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (43 - Map: 0 X: 183 Y: 153)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (53 - Map: 2 X: 112 Y: 46)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (53 - Map: 2 X: 56 Y: 158)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (53 - Map: 2 X: 63 Y: 64)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (53 - Map: 2 X: 79 Y: 34)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (53 - Map: 2 X: 98 Y: 167)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (54 - Map: 2 X: 143 Y: 172)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (54 - Map: 2 X: 113 Y: 70)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (54 - Map: 2 X: 214 Y: 228)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (54 - Map: 2 X: 73 Y: 158)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (54 - Map: 2 X: 12 Y: 203)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (78 - Map: 3 X: 119 Y: 79)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (78 - Map: 3 X: 224 Y: 197)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (78 - Map: 3 X: 232 Y: 53)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (78 - Map: 3 X: 137 Y: 89)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (78 - Map: 3 X: 229 Y: 184)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (79 - Map: 0 X: 187 Y: 81)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (80 - Map: 7 X: 36 Y: 36)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (80 - Map: 7 X: 150 Y: 121)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (80 - Map: 7 X: 216 Y: 91)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (81 - Map: 7 X: 237 Y: 100)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (81 - Map: 7 X: 217 Y: 107)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (81 - Map: 7 X: 45 Y: 152)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (81 - Map: 7 X: 158 Y: 62)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (81 - Map: 7 X: 109 Y: 101)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (82 - Map: 8 X: 88 Y: 194)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (82 - Map: 8 X: 159 Y: 227)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (82 - Map: 8 X: 61 Y: 116)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (83 - Map: 8 X: 159 Y: 152)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (83 - Map: 8 X: 89 Y: 221)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (83 - Map: 8 X: 99 Y: 156)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (83 - Map: 8 X: 130 Y: 81)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (83 - Map: 8 X: 125 Y: 175)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (493 - Map: 1 X: 230 Y: 239)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (493 - Map: 1 X: 109 Y: 187)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (493 - Map: 1 X: 166 Y: 212)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (494 - Map: 4 X: 81 Y: 239)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (494 - Map: 4 X: 21 Y: 231)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (494 - Map: 4 X: 114 Y: 200)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (495 - Map: 33 X: 144 Y: 79)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (495 - Map: 33 X: 169 Y: 15)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (495 - Map: 33 X: 231 Y: 78)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (496 - Map: 10 X: 40 Y: 117)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (496 - Map: 10 X: 49 Y: 178)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (496 - Map: 10 X: 86 Y: 36)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (497 - Map: 37 X: 171 Y: 165)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (497 - Map: 37 X: 58 Y: 96)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (497 - Map: 37 X: 127 Y: 230)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (498 - Map: 38 X: 150 Y: 121)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (498 - Map: 38 X: 198 Y: 124)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (498 - Map: 38 X: 118 Y: 82)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (499 - Map: 57 X: 143 Y: 220)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (499 - Map: 57 X: 41 Y: 59)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (499 - Map: 57 X: 101 Y: 29)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (500 - Map: 56 X: 231 Y: 53)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (500 - Map: 56 X: 203 Y: 204)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (500 - Map: 56 X: 131 Y: 192)
+08:25:00 [Invasion][Golden Invasion](2) Add Boss Position (501 - Map: 57 X: 200 Y: 34)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (502 - Map: 51 X: 104 Y: 61)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (502 - Map: 51 X: 126 Y: 91)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (502 - Map: 51 X: 176 Y: 180)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (502 - Map: 51 X: 93 Y: 135)
+08:25:00 [Invasion][Golden Invasion](2) Add Monster Position (502 - Map: 51 X: 154 Y: 161)
+08:25:00 [Invasion][Golden Invasion](2) State changed to RUNNING
+08:25:00 Golden Dragon withdraw his forces
+08:25:04 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+08:26:00 [FREE] Devil Square will close in 4 minute(s)
+08:26:04 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+08:26:43 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+08:27:00 [FREE] Devil Square will close in 3 minute(s)
+08:27:04 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+08:28:00 [FREE] Devil Square will close in 2 minute(s)
+08:28:04 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+08:29:00 [FREE] Devil Square will close in 1 minute(s)
+08:29:04 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+08:30:00 Devil Square has closed
+08:30:00 Devil Square 1 will start in 1 minute(s)
+08:30:00 Devil Square 2 will start in 1 minute(s)
+08:30:00 Devil Square 3 will start in 1 minute(s)
+08:30:00 Devil Square 4 will start in 1 minute(s)
+08:30:00 Devil Square 5 will start in 1 minute(s)
+08:30:00 Devil Square 6 will start in 1 minute(s)
+08:30:00 Devil Square 7 will start in 1 minute(s)
+08:30:01 Mensaje de Lorencia
+08:30:04 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+08:30:24 Kanturu's Gate will open in 1 minute(s)
+08:31:04 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+08:32:02 [EventTimeSync] Sync Timers
+08:32:04 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+08:33:04 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+08:34:04 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+08:35:00 Golden Dragon has retired
+08:35:00 [Invasion][Golden Invasion](2) Clearing 67 Monsters
+08:35:00 [Invasion][Golden Invasion](2) Sync Start. Min Remain [230]
+08:35:00 [Invasion][Golden Invasion](2) State changed to WAITING
+08:35:01 Mensaje de Lorencia
+08:35:04 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+08:36:04 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+08:36:43 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+08:37:04 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+08:38:04 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+08:38:24 Kanturu's Gate will open in 1 minute(s)
+08:39:04 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+08:40:01 Mensaje de Lorencia
+08:40:04 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+08:41:04 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+08:42:02 [EventTimeSync] Sync Timers
+08:42:04 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+08:43:04 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+08:44:04 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+08:45:00 Mensaje de Lorencia
+08:45:04 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+08:46:04 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+08:46:24 Kanturu's Gate will open in 1 minute(s)
+08:46:44 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+08:47:04 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+08:48:04 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+08:49:04 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+08:50:00 [TvTEvent] Closed!
+08:50:00 [Invasion][White Wizard](3) Add Boss Position (135 - Map: 3 X: 197 Y: 74)
+08:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 3 X: 195 Y: 81)
+08:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 3 X: 197 Y: 74)
+08:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 3 X: 197 Y: 82)
+08:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 3 X: 194 Y: 76)
+08:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 3 X: 194 Y: 79)
+08:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 3 X: 197 Y: 81)
+08:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 3 X: 203 Y: 74)
+08:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 3 X: 201 Y: 70)
+08:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 3 X: 195 Y: 75)
+08:50:00 [Invasion][White Wizard](3) Add Monster Position (136 - Map: 3 X: 199 Y: 74)
+08:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 3 X: 203 Y: 83)
+08:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 3 X: 198 Y: 80)
+08:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 3 X: 198 Y: 76)
+08:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 3 X: 199 Y: 76)
+08:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 3 X: 201 Y: 78)
+08:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 3 X: 200 Y: 72)
+08:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 3 X: 201 Y: 75)
+08:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 3 X: 195 Y: 84)
+08:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 3 X: 203 Y: 84)
+08:50:00 [Invasion][White Wizard](3) Add Monster Position (137 - Map: 3 X: 198 Y: 79)
+08:50:00 [Invasion][White Wizard](3) State changed to RUNNING
+08:50:00 White Wizard invade us!
+08:50:01 [TvTEvent] Ended
+08:50:01 Mensaje de Lorencia
+08:50:04 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+08:51:04 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+08:52:02 [EventTimeSync] Sync Timers
+08:52:04 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+08:53:04 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+08:54:04 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+08:54:23 Kanturu's Gate will open in 1 minute(s)
+08:55:00 Mensaje de Lorencia
+08:55:00 [FREE] Blood Castle will close in 5 minute(s)
+08:55:00 [FREE] Chaos Castle will close in 5 minute(s)
+08:55:04 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+08:56:00 [FREE] Blood Castle will close in 4 minute(s)
+08:56:00 [FREE] Chaos Castle will close in 4 minute(s)
+08:56:04 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+08:56:45 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+08:57:00 [FREE] Blood Castle will close in 3 minute(s)
+08:57:00 [FREE] Chaos Castle will close in 3 minute(s)
+08:57:04 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+08:58:00 [FREE] Blood Castle will close in 2 minute(s)
+08:58:00 [FREE] Chaos Castle will close in 2 minute(s)
+08:58:04 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+08:59:00 [FREE] Blood Castle will close in 1 minute(s)
+08:59:00 [FREE] Chaos Castle will close in 1 minute(s)
+08:59:04 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+09:00:00 Blood Castle has closed
+09:00:00 Blood Castle 1 will start in 1 minute(s)
+09:00:00 Blood Castle 2 will start in 1 minute(s)
+09:00:00 Blood Castle 3 will start in 1 minute(s)
+09:00:00 Blood Castle 4 will start in 1 minute(s)
+09:00:00 Blood Castle 5 will start in 1 minute(s)
+09:00:00 Blood Castle 6 will start in 1 minute(s)
+09:00:00 Blood Castle 7 will start in 1 minute(s)
+09:00:00 Blood Castle 8 will start in 1 minute(s)
+09:00:00 Chaos Castle has closed
+09:00:00 Chaos Castle 1 will start in 1 minute(s)
+09:00:00 Chaos Castle 2 will start in 1 minute(s)
+09:00:00 Chaos Castle 3 will start in 1 minute(s)
+09:00:00 Chaos Castle 4 will start in 1 minute(s)
+09:00:00 Chaos Castle 5 will start in 1 minute(s)
+09:00:00 Chaos Castle 6 will start in 1 minute(s)
+09:00:00 Chaos Castle 7 will start in 1 minute(s)
+09:00:00 White Wizard withdraw his forces
+09:00:00 [Invasion][White Wizard](3) Clearing 21 Monsters
+09:00:00 [Invasion][White Wizard](3) Sync Start. Min Remain [230]
+09:00:00 [Invasion][White Wizard](3) State changed to WAITING
+09:00:00 [Invasion][Medusa](8) Add Monster Position (560 - Map: 56 X: 135 Y: 166)
+09:00:00 [Invasion][Medusa](8) Add Monster Position (560 - Map: 56 X: 135 Y: 169)
+09:00:00 [Invasion][Medusa](8) Add Monster Position (560 - Map: 56 X: 130 Y: 166)
+09:00:00 [Invasion][Medusa](8) Add Monster Position (560 - Map: 56 X: 131 Y: 170)
+09:00:00 [Invasion][Medusa](8) Add Monster Position (560 - Map: 56 X: 132 Y: 165)
+09:00:00 [Invasion][Medusa](8) Add Monster Position (560 - Map: 56 X: 132 Y: 162)
+09:00:00 [Invasion][Medusa](8) Add Monster Position (560 - Map: 56 X: 132 Y: 167)
+09:00:00 [Invasion][Medusa](8) Add Boss Position (561 - Map: 56 X: 133 Y: 167)
+09:00:00 [Invasion][Medusa](8) State changed to RUNNING
+09:00:00 Medusa Invasion!
+09:00:04 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+09:01:04 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+09:02:02 [EventTimeSync] Sync Timers
+09:02:04 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+09:02:23 Kanturu's Gate will open in 1 minute(s)
+09:03:04 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+09:04:04 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+09:05:04 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+09:06:04 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+09:06:46 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+09:07:04 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+09:08:04 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+09:09:04 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+09:10:00 Mensaje de Lorencia
+09:10:00 Medusa retired
+09:10:00 [Invasion][Medusa](8) Clearing 8 Monsters
+09:10:00 [Invasion][Medusa](8) Sync Start. Min Remain [230]
+09:10:00 [Invasion][Medusa](8) State changed to WAITING
+09:10:04 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+09:10:23 Kanturu's Gate will open in 1 minute(s)
+09:11:04 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+09:12:02 [EventTimeSync] Sync Timers
+09:12:04 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+09:13:04 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+09:14:04 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+09:15:01 Mensaje de Lorencia
+09:15:01 Mensaje de Devias
+09:15:04 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+09:16:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+09:16:47 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+09:17:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+09:18:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+09:18:22 Kanturu's Gate will open in 1 minute(s)
+09:19:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+09:20:00 Mensaje de Lorencia
+09:20:00 www.muserverpro.com
+09:20:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+09:21:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+09:22:02 [EventTimeSync] Sync Timers
+09:22:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+09:23:05 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+09:24:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+09:25:00 Mensaje de Lorencia
+09:25:00 Illusion Temple will close in 5 minute(s)
+09:25:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+09:26:00 Illusion Temple will close in 4 minute(s)
+09:26:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+09:26:22 Kanturu's Gate will open in 1 minute(s)
+09:26:47 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+09:27:00 Illusion Temple will close in 3 minute(s)
+09:27:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+09:28:00 Illusion Temple will close in 2 minute(s)
+09:28:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+09:29:00 Illusion Temple will close in 1 minute(s)
+09:29:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+09:30:00 Illusion Temple closed
+09:30:00 Illusion Temple 1 will start in 1 minute(s)
+09:30:00 Illusion Temple 2 will start in 1 minute(s)
+09:30:00 Illusion Temple 3 will start in 1 minute(s)
+09:30:00 Illusion Temple 4 will start in 1 minute(s)
+09:30:00 Illusion Temple 5 will start in 1 minute(s)
+09:30:00 Illusion Temple 6 will start in 1 minute(s)
+09:30:00 Mensaje de Lorencia
+09:30:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+09:31:00 Illusion Temple began
+09:31:00 Illusion Temple began
+09:31:00 Illusion Temple began
+09:31:00 Illusion Temple began
+09:31:00 Illusion Temple began
+09:31:00 Illusion Temple began
+09:31:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+09:32:02 [EventTimeSync] Sync Timers
+09:32:05 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+09:33:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+09:34:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+09:34:21 Kanturu's Gate will open in 1 minute(s)
+09:35:01 Mensaje de Lorencia
+09:35:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+09:36:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+09:36:48 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+09:37:05 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+09:38:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+09:39:05 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+09:40:00 Mensaje de Lorencia
+09:40:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+09:41:05 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+09:42:02 [EventTimeSync] Sync Timers
+09:42:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+09:42:21 Kanturu's Gate will open in 1 minute(s)
+09:43:05 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+09:44:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+09:45:00 Mensaje de Lorencia
+09:45:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+09:46:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+09:46:49 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+09:47:00 [FREE] Devil Square will close in 5 minute(s)
+09:47:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+09:48:00 [FREE] Devil Square will close in 4 minute(s)
+09:48:05 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+09:49:00 [FREE] Devil Square will close in 3 minute(s)
+09:49:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+09:50:00 [FREE] Devil Square will close in 2 minute(s)
+09:50:00 [TvTEvent] Closed!
+09:50:01 [TvTEvent] Ended
+09:50:01 Mensaje de Lorencia
+09:50:05 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+09:50:21 Kanturu's Gate will open in 1 minute(s)
+09:51:00 [FREE] Devil Square will close in 1 minute(s)
+09:51:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+09:52:00 Devil Square has closed
+09:52:00 Devil Square 1 will start in 1 minute(s)
+09:52:00 Devil Square 2 will start in 1 minute(s)
+09:52:00 Devil Square 3 will start in 1 minute(s)
+09:52:00 Devil Square 4 will start in 1 minute(s)
+09:52:00 Devil Square 5 will start in 1 minute(s)
+09:52:00 Devil Square 6 will start in 1 minute(s)
+09:52:00 Devil Square 7 will start in 1 minute(s)
+09:52:02 [EventTimeSync] Sync Timers
+09:52:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+09:53:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+09:54:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+09:55:00 Mensaje de Lorencia
+09:55:00 [FREE] Blood Castle will close in 5 minute(s)
+09:55:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+09:56:00 [FREE] Blood Castle will close in 4 minute(s)
+09:56:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+09:56:50 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+09:57:00 [FREE] Blood Castle will close in 3 minute(s)
+09:57:05 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+09:58:00 [FREE] Blood Castle will close in 2 minute(s)
+09:58:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+09:58:20 Kanturu's Gate will open in 1 minute(s)
+09:59:00 [FREE] Blood Castle will close in 1 minute(s)
+09:59:05 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+10:00:00 Blood Castle has closed
+10:00:00 Blood Castle 1 will start in 1 minute(s)
+10:00:00 Blood Castle 2 will start in 1 minute(s)
+10:00:00 Blood Castle 3 will start in 1 minute(s)
+10:00:00 Blood Castle 4 will start in 1 minute(s)
+10:00:00 Blood Castle 5 will start in 1 minute(s)
+10:00:00 Blood Castle 6 will start in 1 minute(s)
+10:00:00 Blood Castle 7 will start in 1 minute(s)
+10:00:00 Blood Castle 8 will start in 1 minute(s)
+10:00:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+10:01:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+10:02:02 [EventTimeSync] Sync Timers
+10:02:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+10:03:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+10:04:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+10:05:00 [Invasion][Pouch - NewYear](4) Add Monster Position (365 - Map: 57 X: 30 Y: 151)
+10:05:00 [Invasion][Pouch - NewYear](4) Add Monster Position (365 - Map: 57 X: 54 Y: 85)
+10:05:00 [Invasion][Pouch - NewYear](4) Add Monster Position (365 - Map: 57 X: 184 Y: 56)
+10:05:00 [Invasion][Pouch - NewYear](4) Add Monster Position (365 - Map: 57 X: 212 Y: 88)
+10:05:00 [Invasion][Pouch - NewYear](4) Add Monster Position (365 - Map: 57 X: 203 Y: 50)
+10:05:00 [Invasion][Pouch - NewYear](4) State changed to RUNNING
+10:05:00 New Year Pounch Invasion!
+10:05:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+10:06:05 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+10:06:20 Kanturu's Gate will open in 1 minute(s)
+10:06:51 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+10:07:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+10:08:05 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+10:09:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+10:10:00 Mensaje de Lorencia
+10:10:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+10:11:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+10:12:02 [EventTimeSync] Sync Timers
+10:12:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+10:13:05 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+10:14:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+10:14:20 Kanturu's Gate will open in 1 minute(s)
+10:15:00 Mensaje de Lorencia
+10:15:00 Mensaje de Devias
+10:15:00 [Invasion][Pouch - NewYear](4) Clearing 5 Monsters
+10:15:00 [Invasion][Pouch - NewYear](4) Sync Start. Min Remain [230]
+10:15:00 [Invasion][Pouch - NewYear](4) State changed to WAITING
+10:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 8 X: 76 Y: 121)
+10:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 8 X: 156 Y: 44)
+10:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 8 X: 41 Y: 142)
+10:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 8 X: 73 Y: 91)
+10:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 8 X: 185 Y: 123)
+10:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 8 X: 165 Y: 131)
+10:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 8 X: 173 Y: 191)
+10:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 8 X: 93 Y: 194)
+10:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 8 X: 111 Y: 222)
+10:15:00 [Invasion][White Rabbits](5) Add Monster Position (413 - Map: 8 X: 73 Y: 177)
+10:15:00 [Invasion][White Rabbits](5) State changed to RUNNING
+10:15:00 White Rabbit Invasion!
+10:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 37 X: 71 Y: 157)
+10:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 37 X: 120 Y: 103)
+10:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 37 X: 230 Y: 101)
+10:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 37 X: 147 Y: 33)
+10:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 37 X: 189 Y: 96)
+10:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 37 X: 149 Y: 201)
+10:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 37 X: 60 Y: 99)
+10:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 37 X: 175 Y: 162)
+10:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 37 X: 69 Y: 54)
+10:15:00 [Invasion][Summer](6) Add Monster Position (463 - Map: 37 X: 66 Y: 156)
+10:15:00 [Invasion][Summer](6) State changed to RUNNING
+10:15:00 Summer Event Started!
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 160 Y: 59)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 150 Y: 55)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 161 Y: 58)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 159 Y: 54)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 151 Y: 50)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 152 Y: 52)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 162 Y: 47)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 158 Y: 53)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 150 Y: 50)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 0 X: 160 Y: 64)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Boss Position (476 - Map: 0 X: 148 Y: 53)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 165 Y: 17)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 164 Y: 22)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 166 Y: 19)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 165 Y: 19)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 160 Y: 16)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 159 Y: 23)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 164 Y: 18)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 159 Y: 13)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 161 Y: 20)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 2 X: 165 Y: 15)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Boss Position (476 - Map: 2 X: 166 Y: 21)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 195 Y: 77)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 196 Y: 71)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 197 Y: 73)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 197 Y: 81)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 198 Y: 77)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 200 Y: 72)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 195 Y: 71)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 194 Y: 78)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 194 Y: 83)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Monster Position (466 - Map: 3 X: 202 Y: 84)
+10:15:00 [Invasion][Navidad-Christmas](7) Add Boss Position (476 - Map: 3 X: 201 Y: 81)
+10:15:00 [Invasion][Navidad-Christmas](7) State changed to RUNNING
+10:15:00 Cursed Santa Event Started!
+10:15:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+10:16:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+10:16:52 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+10:17:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+10:18:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+10:19:05 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+10:20:00 Mensaje de Lorencia
+10:20:00 www.muserverpro.com
+10:20:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+10:21:05 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+10:22:02 [EventTimeSync] Sync Timers
+10:22:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+10:22:19 Kanturu's Gate will open in 1 minute(s)
+10:23:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+10:24:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+10:25:00 Mensaje de Lorencia
+10:25:00 [Invasion][White Rabbits](5) Clearing 10 Monsters
+10:25:00 [Invasion][White Rabbits](5) Sync Start. Min Remain [230]
+10:25:00 [Invasion][White Rabbits](5) State changed to WAITING
+10:25:00 [Invasion][Summer](6) Clearing 10 Monsters
+10:25:00 [Invasion][Summer](6) Sync Start. Min Remain [230]
+10:25:00 [Invasion][Summer](6) State changed to WAITING
+10:25:00 Cursed Santa has retired
+10:25:00 [Invasion][Navidad-Christmas](7) Clearing 33 Monsters
+10:25:00 [Invasion][Navidad-Christmas](7) Sync Start. Min Remain [230]
+10:25:00 [Invasion][Navidad-Christmas](7) State changed to WAITING
+10:25:05 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+10:26:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+10:26:52 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+10:27:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+10:28:05 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+10:29:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+10:30:00 Mensaje de Lorencia
+10:30:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+10:30:19 Kanturu's Gate will open in 1 minute(s)
+10:31:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+10:32:03 [EventTimeSync] Sync Timers
+10:32:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+10:33:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+10:34:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+10:35:01 Mensaje de Lorencia
+10:35:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+10:36:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+10:36:53 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+10:37:05 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+10:38:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+10:38:19 Kanturu's Gate will open in 1 minute(s)
+10:39:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+10:40:01 Mensaje de Lorencia
+10:40:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+10:41:00 [SkyEvent] Gate will close in 5 minute(s)
+10:41:05 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+10:42:00 [SkyEvent] Gate will close in 4 minute(s)
+10:42:03 [EventTimeSync] Sync Timers
+10:42:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+10:43:00 [SkyEvent] Gate will close in 3 minute(s)
+10:43:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+10:44:00 [SkyEvent] Gate will close in 2 minute(s)
+10:44:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+10:45:00 Mensaje de Lorencia
+10:45:00 [SkyEvent] Gate will close in 1 minute(s)
+10:45:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+10:46:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+10:46:18 Kanturu's Gate will open in 1 minute(s)
+10:46:30 [SkyEvent] Ended
+10:46:53 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+10:47:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+10:48:05 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+10:49:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+10:50:00 [TvTEvent] Closed!
+10:50:00 Mensaje de Lorencia
+10:50:01 [TvTEvent] Ended
+10:50:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+10:51:05 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+10:52:03 [EventTimeSync] Sync Timers
+10:52:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+10:53:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+10:54:05 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+10:54:18 Kanturu's Gate will open in 1 minute(s)
+10:55:00 Mensaje de Lorencia
+10:55:00 [FREE] Blood Castle will close in 5 minute(s)
+10:55:00 [FREE] Chaos Castle will close in 5 minute(s)
+10:55:05 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+10:56:00 [FREE] Blood Castle will close in 4 minute(s)
+10:56:00 [FREE] Chaos Castle will close in 4 minute(s)
+10:56:05 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+10:56:54 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+10:57:00 [FREE] Blood Castle will close in 3 minute(s)
+10:57:00 [FREE] Chaos Castle will close in 3 minute(s)
+10:57:05 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+10:58:00 [FREE] Blood Castle will close in 2 minute(s)
+10:58:00 [FREE] Chaos Castle will close in 2 minute(s)
+10:58:06 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+10:59:00 [FREE] Blood Castle will close in 1 minute(s)
+10:59:00 [FREE] Chaos Castle will close in 1 minute(s)
+10:59:06 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+11:00:00 Blood Castle has closed
+11:00:00 Blood Castle 1 will start in 1 minute(s)
+11:00:00 Blood Castle 2 will start in 1 minute(s)
+11:00:00 Blood Castle 3 will start in 1 minute(s)
+11:00:00 Blood Castle 4 will start in 1 minute(s)
+11:00:00 Blood Castle 5 will start in 1 minute(s)
+11:00:00 Blood Castle 6 will start in 1 minute(s)
+11:00:00 Blood Castle 7 will start in 1 minute(s)
+11:00:00 Blood Castle 8 will start in 1 minute(s)
+11:00:00 Chaos Castle has closed
+11:00:00 Chaos Castle 1 will start in 1 minute(s)
+11:00:00 Chaos Castle 2 will start in 1 minute(s)
+11:00:00 Chaos Castle 3 will start in 1 minute(s)
+11:00:00 Chaos Castle 4 will start in 1 minute(s)
+11:00:00 Chaos Castle 5 will start in 1 minute(s)
+11:00:00 Chaos Castle 6 will start in 1 minute(s)
+11:00:00 Chaos Castle 7 will start in 1 minute(s)
+11:00:06 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+11:01:06 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+11:02:03 [EventTimeSync] Sync Timers
+11:02:06 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+11:02:17 Kanturu's Gate will open in 1 minute(s)
+11:03:06 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+11:04:06 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+11:05:06 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+11:06:06 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+11:06:55 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+11:07:06 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+11:08:06 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+11:09:06 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+11:10:00 Mensaje de Lorencia
+11:10:06 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+11:10:17 Kanturu's Gate will open in 1 minute(s)
+11:11:06 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+11:12:03 [EventTimeSync] Sync Timers
+11:12:06 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+11:13:06 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+11:14:06 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+11:15:00 Mensaje de Lorencia
+11:15:00 Mensaje de Devias
+11:15:06 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+11:16:06 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+11:16:56 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+11:17:06 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+11:17:57 [BattlePass][mspro][MSProelf] Data Saved - Level: 0, Exp: 0, Premium: 0
+11:18:06 [Marlon][3796] Move to Map 0 X: 137 Y: 87

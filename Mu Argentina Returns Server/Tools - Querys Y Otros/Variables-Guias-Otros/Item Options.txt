@@ -1,0 +1,79 @@
+//----------------------------------------------------------------------------------------------------------------
+//->>  MSPro - MuServerPro Team - Desarrollos de MUOnline
+//->>  Web: wwww.muserverpro.com
+//->>  FB: @mspromu
+//->>  2020 - 2023 MuServerPro Team
+//----------------------------------------------------------------------------------------------------------------
+
+//0 = Option1 (Skill)
+//1 = Option2 (Luck)
+//2 = Option3 (Jewel of Life)
+//3 = NewOption1 (Excellent 1)
+//4 = NewOption2 (Excellent 2)
+//5 = NewOption3 (Excellent 4)
+//6 = NewOption4 (Excellent 8)
+//7 = NewOption5 (Excellent 16)
+//8 = NewOption6 (Excellent 32)
+//9 = Common1
+//10 = Common2
+//11 = Common3
+//12 = Common4
+//13 = Common5
+
+
+80 = Add Physi Damage
+81 = Add Magic Damage
+82 = Add Defense Sucess Rate
+83 = Add Defense
+84 = Add Critical Damage Rate
+85 = Add HP Recovery Rate
+86 = Add Money Amount Drop Rate
+87 = Mul Defense Sucess Rate
+88 = Add Damage Reflect
+89 = Add Damage Reduction
+90 = Mul MP
+91 = Mul HP
+92 = Add Excellent Damage Rate
+93 = Add Physi Damage by Level
+94 = Mul Physi Damage
+95 = Add Magic Damage by Level 
+96 = Mul Magic Damage
+97 = Add Speed
+98 = Add Hunt HP
+99 = Add Hunt MP
+100 = Add Wing HP
+101 = Add Wing MP
+102 = Add Ignore Defense Rate
+103 = Add BP
+104 = Mul BP
+105 = Add Wing Leadership
+106 = Add Fenrir1
+107 = Add Fenrir2
+108 = Add Fenrir3
+109 = Add Full Damage Reflect Rate
+110 = Add Defensive Full HP Restore Rate
+111 = Add Defensive Full MP Restore Rate
+112 = Add Dinorant1
+113 = Add Curse Damage
+114 = Add Curse Damage by Level
+115 = Mul Curse Damage
+116 = Add Double Damage Rate
+117 = Add Experience Rate
+118 = Add Combo Experience Rate
+119 = Add HP
+120 = Add MP
+121 = Add HP by Level
+122 = Add MP by Level
+123 = Add Damage
+124 = Add Damage by Level
+125 = Mul Damage
+126 = Add Defense by Level
+127 = Mul Defense
+128 = OPTION_ADD_TRIPLE_DAMAGE_RATE
+129 = RESIST_DOUBLE_DAMAGE_RATE
+130 = RESIST_IGNORE_DEFENSE_RATE
+131 = RESIST_IGNORE_SHIELD_RATE
+132 = RESIST_CRITICAL_DAMAGE_RATE
+133 = RESIST_EXCELLENT_DAMAGE_RATE
+134 = BLOCK_STUCK
+135 = RESIST_STUN_RATE

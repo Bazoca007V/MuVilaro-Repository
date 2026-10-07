@@ -1,0 +1,6 @@
+22:16:19 [KeepMU][SpeedHitAttackCheck][13001][MSProelf] Time: 262221821 / Max Time: 0
+22:16:21 [KeepMU][SpeedHitAttackCheck][13001][MSProelf] Time: 2281 / Max Time: 0
+22:16:22 [KeepMU][SpeedHitAttackCheck][13001][MSProelf] Time: 1453 / Max Time: 0
+22:18:33 [KeepMU][SpeedHitAttackCheck][13001][MSProelf] Time: 130797 / Max Time: 0
+22:18:36 [KeepMU][SpeedHitAttackCheck][13001][MSProelf] Time: 2937 / Max Time: 0
+22:18:37 [KeepMU][SpeedHitAttackCheck][13001][MSProelf] Time: 1266 / Max Time: 0

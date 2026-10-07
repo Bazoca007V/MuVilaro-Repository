@@ -1,0 +1,9 @@
+USE [MuOnline]
+GO
+
+ALTER TABLE [dbo].[AccountCharacter]
+ADD [GameID6] VARCHAR (10) NULL, 
+[GameID7] VARCHAR (10) NULL, 
+[GameID8] VARCHAR (10) NULL, 
+[GameID9] VARCHAR (10) NULL, 
+[GameID10] VARCHAR (10) NULL;

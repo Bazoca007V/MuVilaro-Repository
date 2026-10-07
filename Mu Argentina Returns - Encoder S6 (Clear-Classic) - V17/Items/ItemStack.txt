@@ -1,0 +1,72 @@
+//-----------------------------------------------------------------------------------------------------------------
+//->>  MSPro - MuServerPro Team - Desarrollos de MUOnline
+//->>  Web: wwww.muserverpro.com 
+//->>  FB: mspromu
+//->>  2020 - 2026 MuServerPro Team
+//-----------------------------------------------------------------------------------------------------------------
+
+//-------------------------------------------------------------------------------------------------------------------------------------------
+//	[	   Item.txt		  ]       																				[   Number Color  ]
+//	[0~15]		[0~511]			[0/1]			[*/0~15]	[1~255]			[0/1]			[0/1]				[	 0.0 ~ 1.0	  ]
+//	[ItemType]	[ItemIndex]		[SameLevel]		[Level]		[MaxStack]		[AllowSplit]	[ShowNumber]		[R]		[G]		[B]		
+//-------------------------------------------------------------------------------------------------------------------------------------------
+0
+//	12		  	15				0				*			255				0				1					1.0		0.9		0.7		//Jewel of Chaos
+//	14		  	13				0				*			255				0				1					1.0		0.9		0.7		//Jewel of Bless
+//	14		  	14				0				*			255				0				1					1.0		0.9		0.7		//Jewel of Soul
+//	14		  	16				0				*			255				0				1					1.0		0.9		0.7		//Jewel of Life
+//	14		  	22				0				*			255				0				1					1.0		0.9		0.7		//Jewel of Creation
+//	14		  	42				0				*			255				0				1					1.0		0.9		0.7		//Jewel of Harmony     
+//	14		  	43				0				*			255				0				1					1.0		0.9		0.7		//Lower Refining Stone 
+//	14		  	44				0				*			255				0				1					1.0		0.9		0.7		//Higher Refining Stone
+//	14		  	9				0				*			255				0				1					1.0		0.9		0.7		//Ale
+//	14		  	11				1				12			255				0				1					1.0		0.9		0.7		//Box of Kundun +5
+//----------------------------------
+// Webzen Original Stacks
+//----------------------------------
+	14			7				0				*			250				0				1					1.0		0.9		0.7		//Siege Potion
+	14			0				0				*			255				0				1					1.0		0.9		0.7		//Apple
+	14			1				0				*			255				0				1					1.0		0.9		0.7		//Potions
+	14			2				0				*			255				0				1					1.0		0.9		0.7		//Potions
+	14			3				0				*			255				0				1					1.0		0.9		0.7		//Potions
+	14			4				0				*			255				0				1					1.0		0.9		0.7		//Potions
+	14			5				0				*			255				0				1					1.0		0.9		0.7		//Potions
+	14			6				0				*			255				0				1					1.0		0.9		0.7		//Potions
+	14			8				0				*			255				0				1					1.0		0.9		0.7		//Potions
+	14			38				0				*			255				0				1					1.0		0.9		0.7		//Complex Potion
+	14			39				0				*			255				0				1					1.0		0.9		0.7     //Complex Potion
+	14			40				0				*			255				0				1					1.0		0.9		0.7     //Complex Potion
+	4			7				1				*			255				0				1					1.0		0.9		0.7		//Bolts
+	4			15				1				*			255				0				1					1.0		0.9		0.7		//Arrows
+	14			29				0				*			255				0				0					1.0		0.9		0.7		//Symbol of Kundun
+	13			32				0				*			255				0				0					1.0		0.9		0.7		//Splinter of Armor
+	13			33				0				*			255				0				0					1.0		0.9		0.7		//Bless of Guardian
+	13			34				0				*			255				0				0					1.0		0.9		0.7		//Fragment of Horn
+	14			46				0				*			3				0				1					1.0		0.9		0.7		//Jack O'Lantern Blessings
+	14			47				0				*			3				0				1					1.0		0.9		0.7		//Jack O'Lantern Wrath
+	14			48				0				*			3				0				1					1.0		0.9		0.7		//Jack O'Lantern Cry
+	14			49				0				*			3				0				1					1.0		0.9		0.7		//Jack O'Lantern Food
+	14			50				0				*			3				0				1					1.0		0.9		0.7		//Jack O'Lantern Drink
+	14			70				0				*			50				0				1					1.0		0.9		0.7		//Elite Healing Potion
+	14			71				0				*			50				0				1					1.0		0.9		0.7		//Elite Mana Potion
+	14			78				0				*			3				0				1					1.0		0.9		0.7		//Elixir of Strength
+	14			79				0				*			3				0				1					1.0		0.9		0.7		//Elixir of Agility
+	14			80				0				*			3				0				1					1.0		0.9		0.7		//Elixir of Health
+	14			81				0				*			3				0				1					1.0		0.9		0.7		//Elixir of Energy
+	14			82				0				*			3				0				1					1.0		0.9		0.7		//Elixir of Control
+	14			94				0				*			50				0				1					1.0		0.9		0.7		//Medium Elite Healing Potion
+	14			85				0				*			3				0				1					1.0		0.9		0.7		//Cherry Blossom Wine    
+	14			86				0				*			3				0				1					1.0		0.9		0.7		//Cherry Blossom Rice Cake 
+	14			87				0				*			3				0				1					1.0		0.9		0.7		//Cherry Blossom Flower Petal
+	14			88				0				*			10				0				1					1.0		0.9		0.7		//White Cherry Blossom Branch
+	14			89				0				*			30				0				1					1.0		0.9		0.7		//Red Cherry Blossom Branch
+	14			90				0				*			50				0				1					1.0		0.9		0.7		//Golden Cherry Blossom Branch
+	14			100				0				*			255				0				0					1.0		0.9		0.7		//Lucky Coin
+	14			101				0				*			255				0				0					1.0		0.9		0.7		//Mirror of Dimensions
+	14			110				0				*			255				0				0					1.0		0.9		0.7		//Sign of Dimensions
+	14			133				0				*			50				0				1					1.0		0.9		0.7		//Elite SD Potion
+	14			153				0				*			255				0				0					1.0		0.9		0.7		//Stardust
+	14			154				0				*			255				0				0					1.0		0.9		0.7		//Kalt Stone
+	14			155				0				*			255				0				0					1.0		0.9		0.7		//Tantalos's Armor
+	14			156				0				*			255				0				0					1.0		0.9		0.7		//Burnt Murderer's Club
+end

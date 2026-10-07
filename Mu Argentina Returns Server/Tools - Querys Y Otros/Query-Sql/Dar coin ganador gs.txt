@@ -1,0 +1,6 @@
+use MuOnline
+
+update CashShopData set WCoinC= WCoinC+1000 where AccountID in
+update CashShopData set WCoinC= WCoinP+500 where AccountID in  
+(SELECT C.AccountID from Character C inner join GuildMember G2 on C.Name=G2.Name inner join Guild G3 on G2.G_Name=G3.G_Name AND G3.G_Union in
+(SELECT G.G_Union from Guild G inner join MuCastle_DATA on OWNER_GUILD=G.G_Name))

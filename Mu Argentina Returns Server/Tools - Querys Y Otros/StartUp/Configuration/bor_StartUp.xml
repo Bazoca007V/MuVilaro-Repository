@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Processes>
+  <Process Run="False" Delay="1000" Path="C:\MSPro\v8\StartUp\v7.exe" Parameters="" />
+  <Process Run="False" Delay="1000" Path="C:\MSPro\v7\ConnectServer\ConnectServer.exe" Parameters="" />
+  <Process Run="False" Delay="1000" Path="C:\MSPro\v7\DataServer\DataServer.exe" Parameters="" />
+  <Process Run="False" Delay="1000" Path="C:\MSPro\v7\JoinServer\JoinServer.exe" Parameters="" />
+  <Process Run="False" Delay="1000" Path="C:\MSPro\v7\GameServer\GameServer.exe" Parameters="" />
+  <Process Run="False" Delay="1000" Path="C:\MSPro\v7\GameServerCS\GameServer_CS.exe" Parameters="" />
+  <Process Run="False" Delay="1000" Path="C:\MSPro\v8\StartUp\v8 .exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\MSPro\v8\ConnectServer\ConnectServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\MSPro\v8\DataServer\DataServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\MSPro\v8\JoinServer\JoinServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\MSPro\v8\GameServer\GameServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\MSPro\v8\GameServerCS\GameServer_CS.exe" Parameters="" />
+</Processes>

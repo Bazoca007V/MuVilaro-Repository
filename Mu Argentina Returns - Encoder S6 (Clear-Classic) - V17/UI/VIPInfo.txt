@@ -1,0 +1,74 @@
+//-------------------------------------------------------------------------
+// MSProyect V8
+//-------------------------------------------------------------------------
+//	ID	Name
+//-------------------------------------------------------------------------
+0
+	1	"Bronze"
+	2	"Plata"
+	3	"Oro"
+end
+//-------------------------------------------------------------------------
+// VIP 1 Info (Max 12 Lines)
+//	Color List:
+//		0 - White
+//		1 - Gold
+//		2 - Red
+//		3 - Green(Excellent)
+//		4 - Gray(Ancient)
+//		5 - Purple(Socket)
+//		6 - Blue 
+//		7 - Yellow
+//		8 - Pink
+//		9 - Orange
+//		10 - Gray
+//	Color1: Description Color
+//	Color2: Value Color.
+//	Style:
+//		0 - Normal
+//		1 - Rate
+//		2 - Days
+//		3 - Weeks
+//		4 - Months
+//-------------------------------------------------------------------------
+//	Color1	Color2	Style	Value	Info
+//-------------------------------------------------------------------------
+1
+	7		5		1		30		"Experiencia"
+	10		1		1		10		"Drop"
+	10		10		2		30		"Tiempo"
+	10		10		0		100		"Guild Creation Level"
+	3		3		1		220		"Elf Soldier Level Limit"
+	10		10		1		300		"Dark Lord Level Creation"
+end
+//-------------------------------------------------------------------------
+//
+//-------------------------------------------------------------------------
+2
+	10		1		1		40		"Experiencia"
+	10		1		1		30		"Drop"
+	10		10		2		30		"Tiempo"
+	10		10		0		380		"Reset Level"
+	10		10		0		10		"MasterReset Level"
+	10		10		0		80		"Guild Creation Level"
+	3		3		1		210		"Elf Soldier Level Limit"
+	10		10		1		250		"Dark Lord Level Creation"
+	9		9		1		100		"Wing Lvl 3 Rate"
+	10		10		1		75		"Soul Rate Use"
+end
+//-------------------------------------------------------------------------
+//
+//-------------------------------------------------------------------------
+3
+
+	10		1		1		50		"Experiencia"
+	10		1		1		40		"Drop"
+	10		10		2		40		"Tiempo"
+	10		10		0		350		"Reset Level"
+	10		10		0		8		"MasterReset Level"
+	10		10		0		50		"Guild Creation Level"
+	3		3		1		6		"Elf Soldier Level Limit"
+	10		10		1		100		"Dark Lord Level Creation"
+	10		10		1		100		"Soul Rate Use"
+	10		10		1		75		"Luck Rate Use"
+end

@@ -1,0 +1,19 @@
+//-----------------------------------------------------------------------------------------------------------------
+//->>  MSPro - MuServerPro Team - Desarrollos de MUOnline
+//->>  Web: wwww.muserverpro.com 
+//->>  FB: mspromu
+//->>  2020 - 2026 MuServerPro Team
+//-----------------------------------------------------------------------------------------------------------------
+
+//------------------------------------------------------------------
+//Index   Name                                 Value
+//------------------------------------------------------------------
+1         "Add Attack Success Rate PvP"        10
+2         "Add Damage PvP"                     200
+3         "Add Defense Success Rate PvP"       10
+4         "Add Defense PvP"                    200
+5         "Add Max HP"                         200
+6         "Add Max SD"                         700
+7         "Set SD Recovery Type"               1
+8         "Add SD Recovery Rate"               2
+end

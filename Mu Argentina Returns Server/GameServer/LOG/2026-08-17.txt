@@ -1,0 +1,125 @@
+14:45:07 [NewNPCManager][000 - Acceso por Zen.txt] EventID: 0 -> Data Loaded
+14:45:07 [NewNPCManager][001 - Acceso por Guild.txt] EventID: 1 -> Data Loaded
+14:45:07 [NewNPCManager][002 - Acceso por Items.txt] EventID: 2 -> Data Loaded
+14:45:07 [NewNPCManager][003 - Intercambio Items x Items.txt] EventID: 3 -> Data Loaded
+14:45:07 [NewNPCManager][004 - Intercambio Items x Cosas.txt] EventID: 4 -> Data Loaded
+14:45:07 [NewNPCManager][005 - Intercambio Cosas x Items.txt] EventID: 5 -> Data Loaded
+14:45:07 [NewNPCManager][006 - Intercambio Cosas x Cosas.txt] EventID: 6 -> Data Loaded
+14:45:07 [NewNPCManager][007 - Acceso Libre.txt] EventID: 7 -> Data Loaded
+14:45:07 [NewNPCManager][008 - Acceso Cerrado.txt] EventID: 8 -> Data Loaded
+14:45:07 [NewNPCManager][009 - SkyEvent.txt] EventID: 9 -> Data Loaded
+14:45:07 [ServerInfo] Common loaded successfully
+14:45:07 [ServerInfo] CashShop loaded successfully
+14:45:07 [CustomMixInfo] File loaded
+14:45:07 [CustomMixInfo] 61 mixes loaded successfully
+14:45:07 [ServerInfo] ChaosMix loaded successfully
+14:45:08 [ServerInfo] Duel loaded successfully
+14:45:08 [ServerInfo] Character loaded successfully
+14:45:08 [SkyEvent] File Loaded
+14:45:08 [GuildBattle] Start Time. [14] Min Remain
+14:45:08 [ResetSystem] ..\Data\ResetSystem.txt loaded successfully
+14:45:08 [ResetSystem][0] Reset Count Schedule Created -1/-1 (DoW: 1) 23:59
+14:45:08 [ResetSystem][1] Reset Count Schedule Created -1/-1 (DoW: 1) 23:59
+14:45:08 [AutoSystem] loaded successfully
+14:45:08 [CDailyBonus::UpdateDoW] Day Changed!
+14:45:08 [PKSystem] File loaded
+14:45:08 [GiftCodes] File loaded
+14:45:08 [ExperienceFormula] ..\Data\Util\ExperienceFormula.txt loaded successfully
+14:45:08 [BattlePass] Loaded: Season [2026-01-01 - 2026-03-30], Levels: 50, Rewards: 27
+14:45:08 [BossDamageRank] Loaded successfully
+14:45:08 [ServerInfo] Custom loaded successfully
+14:45:08 [Attack/Pick] Settings Loaded
+14:45:08 [PKClearSettings] File loaded
+14:45:08 [ServerInfo] Command loaded successfully
+14:45:08 [Invasion][Skeleton King] Index 0 Data Loaded
+14:45:08 [Invasion][Red Dragon] Index 1 Data Loaded
+14:45:08 [Invasion][Golden Invasion] Index 2 Data Loaded
+14:45:08 [Invasion][White Wizard] Index 3 Data Loaded
+14:45:08 [Invasion][Pouch - NewYear] Index 4 Data Loaded
+14:45:08 [Invasion][White Rabbits] Index 5 Data Loaded
+14:45:08 [Invasion][Summer] Index 6 Data Loaded
+14:45:08 [Invasion][Navidad-Christmas] Index 7 Data Loaded
+14:45:08 [Invasion][Medusa] Index 8 Data Loaded
+14:45:08 [Invasion][Skeleton King](0) Sync Start. Min Remain [79]
+14:45:08 [Invasion][Skeleton King](0) State changed to WAITING
+14:45:08 [Invasion][Red Dragon](1) Sync Start. Min Remain [89]
+14:45:08 [Invasion][Red Dragon](1) State changed to WAITING
+14:45:08 [Invasion][Golden Invasion](2) Sync Start. Min Remain [99]
+14:45:08 [Invasion][Golden Invasion](2) State changed to WAITING
+14:45:08 [Invasion][White Wizard](3) Sync Start. Min Remain [124]
+14:45:08 [Invasion][White Wizard](3) State changed to WAITING
+14:45:08 [Invasion][Pouch - NewYear](4) Sync Start. Min Remain [199]
+14:45:08 [Invasion][Pouch - NewYear](4) State changed to WAITING
+14:45:08 [Invasion][White Rabbits](5) Sync Start. Min Remain [209]
+14:45:08 [Invasion][White Rabbits](5) State changed to WAITING
+14:45:08 [Invasion][Summer](6) Sync Start. Min Remain [209]
+14:45:08 [Invasion][Summer](6) State changed to WAITING
+14:45:08 [Invasion][Navidad-Christmas](7) Sync Start. Min Remain [209]
+14:45:08 [Invasion][Navidad-Christmas](7) State changed to WAITING
+14:45:08 [Invasion][Medusa](8) Sync Start. Min Remain [134]
+14:45:08 [Invasion][Medusa](8) State changed to WAITING
+14:45:08 [ServerInfo] Golden Archer Info loaded successfully
+14:45:08 Raklion Event opened!
+14:45:08 [ServerInfo] Event loaded successfully
+14:45:09 [ServerInfo] EventItemBag loaded successfully
+14:45:09 [ServerInfo] Hack loaded successfully
+14:45:09 [ServerInfo] Item loaded successfully
+14:45:09 [NewNPCManager][EventID: 4] Spawn NPC 256, Map: 2 X: 210 Y:48
+14:45:09 [ServerInfo] Monster loaded successfully
+14:45:09 [ServerInfo] Move loaded successfully
+14:45:09 [ServerInfo] Quest loaded successfully
+14:45:09 [ServerInfo] Shop loaded successfully
+14:45:09 [EventMapBuffManager] File Loaded
+14:45:09 [PvPAttackDamage] File Loaded
+14:45:09 [MvPAttackDamage] File Loaded
+14:45:09 [ServerInfo] Skill loaded successfully
+14:45:09 [ServerInfo] Util loaded successfully
+14:45:09 [ReadBotInfo] BotSystem loaded successfully
+14:45:09 [ServerInfo] Downgrade Settings loaded successfully
+14:45:09 [KeepMU] ..\Data\KeepMU\SpeedCheck.txt loaded successfully
+14:45:09 [KeepMU] Settings loaded successfully
+14:45:09 [KeepMU] ..\Data\KeepMU\HardwareIDList.xtr loaded successfully
+14:45:09 [KeepMU] ..\Data\KeepMU\WindowsHackList.xtr loaded successfully
+14:45:09 [OffHelper] Settings Loaded
+14:45:09 [OffHelper] AttackSpeed Loaded
+14:45:09 [ServerInfo] OffHelper loaded successfully
+14:45:09 [Lua] Script loaded [..\Data\Script\ScriptMain.lua]
+14:45:09 [BossDamageRank][2240] Boss Registered - Class: 275, Map: 36
+14:45:10 [Invasion][Skeleton King](0) Sync Start. Min Remain [79]
+14:45:10 [Invasion][Skeleton King](0) State changed to WAITING
+14:45:10 [Invasion][Red Dragon](1) Sync Start. Min Remain [89]
+14:45:10 [Invasion][Red Dragon](1) State changed to WAITING
+14:45:10 [Invasion][Golden Invasion](2) Sync Start. Min Remain [99]
+14:45:10 [Invasion][Golden Invasion](2) State changed to WAITING
+14:45:10 [Invasion][White Wizard](3) Sync Start. Min Remain [124]
+14:45:10 [Invasion][White Wizard](3) State changed to WAITING
+14:45:10 [Invasion][Pouch - NewYear](4) Sync Start. Min Remain [199]
+14:45:10 [Invasion][Pouch - NewYear](4) State changed to WAITING
+14:45:10 [Invasion][White Rabbits](5) Sync Start. Min Remain [209]
+14:45:10 [Invasion][White Rabbits](5) State changed to WAITING
+14:45:10 [Invasion][Summer](6) Sync Start. Min Remain [209]
+14:45:10 [Invasion][Summer](6) State changed to WAITING
+14:45:10 [Invasion][Navidad-Christmas](7) Sync Start. Min Remain [209]
+14:45:10 [Invasion][Navidad-Christmas](7) State changed to WAITING
+14:45:10 [Invasion][Medusa](8) Sync Start. Min Remain [134]
+14:45:10 [Invasion][Medusa](8) State changed to WAITING
+14:45:10 Raklion Event opened!
+14:45:11 [ConquerorEvent] Ended
+14:45:11 [ConquerorEvent] State Changed to 0
+14:45:11 [ConquerorEvent] Start Time. [132] Min Remain
+14:45:11 [Marlon][3796] Move to Map 7 X: 17 Y: 25
+14:46:11 [Marlon][3796] Move to Map 3 X: 169 Y: 89
+14:47:11 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+14:48:09 [WebBrowser][mspromu] Info Sended
+14:48:11 [Marlon][3796] Move to Map 2 X: 198 Y: 47
+14:48:20 [WebBrowser][mspro] Info Sended
+14:48:23 [BattlePass][mspro][MSProdw] Requesting data from DB
+14:48:23 [BattlePass][mspro][MSProdw] Main data loaded - Level: 0, Exp: 0, Premium: 0
+14:48:23 [BattlePass][mspro][MSProdw] Loaded 0 claimed rewards
+14:49:00 [BattlePass][mspro][MSProdw] Data Saved - Level: 0, Exp: 0, Premium: 0
+14:49:11 [Marlon][3796] Move to Map 0 X: 137 Y: 87
+14:50:00 Mensaje de Lorencia
+14:50:00 [TvTEvent] Closed!
+14:50:01 [TvTEvent] Ended
+14:50:10 Kanturu's Gate will open in 1 minute(s)
+14:50:11 [Marlon][3796] Move to Map 3 X: 169 Y: 89

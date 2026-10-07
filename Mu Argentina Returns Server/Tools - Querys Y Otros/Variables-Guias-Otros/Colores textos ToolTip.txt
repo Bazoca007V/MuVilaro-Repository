@@ -1,0 +1,14 @@
+1 azul
+2 rojo
+3 dorado
+4 verde
+5 blanco sobre fondo rojo
+6 rosado
+7 blanco sobre fondo azul
+8 blanco sobre fondo amarillo
+9 verde sobre fondo azul
+10 gris
+11 Rosa claro
+12 púrpura claro
+13 naranja
+14 blanco

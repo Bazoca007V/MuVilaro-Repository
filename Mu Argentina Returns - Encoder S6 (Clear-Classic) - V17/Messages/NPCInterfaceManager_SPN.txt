@@ -1,0 +1,160 @@
+//------------------------------------------
+// Custom Interfaces (NPCInterfaceManager)
+//------------------------------------------
+//Tooltips
+0	"Resets"
+1	"Master Resets"
+2 	"WC-Coins"
+3 	"WP-Coins"
+4	"Goblin Points"
+5 	"Ruuds"
+6	"Zen"
+7	"Level Points"
+8	"VIP Level"
+9	"Niveles"
+10	"ItemBag Reward"
+11	"+ VIP Days"
+12	"Flag"
+//------------------------------------
+100	"El camino a Ícaro está cerrado"
+101	"Bienvenido al SkyEvent"
+102	"they are out of control"
+103	"It is dangerous to go at this time"
+104	"Access is closed!"
+105	"Come back later!"
+106	""
+107	"This place is very dangerous!"
+108	"To enter, you have to do"
+109	"an offering to the gods"
+110	"The spirits require it!"
+111	"You require:"
+112	"% d Zen"
+//------------------------------------
+119	"This place is reserved"
+120	"for members of a guild"
+121	"If you don't belong to him,"
+122	"Find another place to train!"
+123	"Guild:"
+124	""
+125	"This place is very dangerous!"
+126	"Alone the blessed ones"
+127	"have the key"
+128	"You can enter this place"
+129	"Item requirement:"
+130	""
+131	"OKAY"
+132	"ENTER"
+133	"ENTER"
+134	"ENTER"
+135	"ENTER"
+136	"YOU DON'T HAVE ENOUGH ZEN"
+137	""
+138	"YOU DON'T BELONG TO THIS GUILD"
+139	"YOU DON'T HAVE THE ITEM TO ENTER"
+140	"YOU DON'T HAVE A GUILD"
+141	"SHUT DOWN"
+142	""
+150 "¡No trabajo con PK!"
+151 "Debe ser {} o superior"
+152 "El mínimo {} requerido es {}"
+153 "El límite de {} admitido es {}"
+154 "Vuelve cuando tengas el rango {} o superior"
+155 "¡El camino está cerrado!"
+156 "¡No tienes suficiente espacio, ordena tu Inventario!"
+//------------------------------------
+// Archeron
+//------------------------------------
+300	"Entering Archeron"
+325	"Login to Archeron Map"
+326	"Custom quest system"
+327	"Ready to enter?"
+328	"You require"
+329	"1"
+330	"two"
+331 "3"
+332 "4"
+333 "5"
+335	"ENTER"
+
+//------------------------------------
+// Move Teleport 2
+//------------------------------------
+400	"Boss Nixie's Lake"
+425	"Surely you are looking for an Adventure"
+426	"The time has come!"
+427	"A new challenge awaits you"
+428	"You require to access:"
+435	"ENTER:"
+
+
+//------------------------------------
+// Move Teleport 3
+//------------------------------------
+500	"Icarus Teleport"
+519	"Seguro estas buscando una Aventura"
+520	"Pero solo tengo permtido"
+521	"ayudar a las personas"
+522	"que pertenescan al"
+523	"Guild:"
+540	"NO PERTENECES A ESTE GUILD"
+541	"ENTENDIDO"
+
+//---
+600	"El Elegido"
+625 "Solo el guerrero elegido"
+626 "Podra acceder a la 2da parte"
+627 "Deberas tener el item requerido"
+628 "¿Estas seguro de esto?"
+635 "Acceder"
+
+
+
+646	"Puedes conseguirme algunas cosas?"
+647	"Te interesa un intercambio?"
+648	"Animate!"
+649	"Estoy buscando el:"
+650	"Te lo cambio por:"
+651	"Entregar Item"
+//---
+
+//--
+700	"Entering Archeron"
+713	"Parece que quieres"
+714	"levear mas rapido"
+715	"Adivina esta en su dia de suerte!"
+716	"El acceso esta abierto!"
+717	"Sigue tu camino!"
+718	""
+725 "Ingreso a Archeron Map"
+726 "Sistema de quest personalizado"
+727 "Preparado para ingresar?"
+728 ""
+729 "Item:"
+730 "Este Item Sera eliminado"
+739 "Item Requerido"
+735 "Acceder"
+733	"ENTRAR"
+743 "Cerrar"
+
+755	"Parece que tienes lo que busco."
+756	"Que tal si te cambio algunas cosas"
+757	"y tu me entregas otras?"
+758	"Te ofrezco:"
+759	"Necesito:"
+760	""
+761	""
+//--
+800	"Lorencia Teleport"
+807	"Parece que vuelves al inicio!"
+808	"El oraculo esta de buen humor."
+809	"Pues te ayudare!"
+810	" "
+811	"Requieres:"
+812	"%d Zen"
+832	"ENTRAR"
+836	"NO TIENES SUFICIENTE ZEN"
+841	"CERRAR"
+
+//--
+
+end

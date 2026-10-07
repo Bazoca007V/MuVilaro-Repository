@@ -1,0 +1,21 @@
+//--------------------------------------------------------------------------------------------------------------------------
+// MSPro V10
+// File: Quest_ENG.txt
+// Version 1.0
+//--------------------------------------------------------------------------------------------------------------------------
+// 0 -> Index de la Quest
+// 1 -> Nombre (MAX 25 Caracteres)
+// 2 -> Descripción (MAX 200 Caracteres)
+//---------------------------------------------------------------------------------------------
+//	(0)		(1)								(2)
+//---------------------------------------------------------------------------------------------
+	1		"Quest de Inicio"			"Bienvenido a nuestro server!"
+	2		"Quest NewbieDW"			"EL inicio de un guerrero"
+	3		"Quest NewbieDK"			"EL inicio de un guerrero"
+	4		"Quest NewbieEl"			"EL inicio de un guerrero"
+	5		"Quest NewbieMG"		    "EL inicio de un guerrero"
+	6		"Quest NewbieDL"		    "EL inicio de un guerrero"
+	7       "Quest NewbieSU"            "EL inicio de un guerrero"
+	8       "Quest NewbieRF"            "EL inicio de un guerrero"
+	9       "Shop InicialDw"            "Te damos una pequeña ayuda para este nuevo camino guerrero"
+end

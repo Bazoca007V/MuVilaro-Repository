@@ -1,0 +1,71 @@
+1 => Armas Chaos
+
+
+10 => Seed Extraction
+
+
+11 => Seed Sphere Assembly
+
+
+12 => Seed sphere application => {0 -> Armas}
+                                 {1 -> Shield and Sets}
+
+
+13 => Seed sphere destruction
+
+
+2 => Add 380 item option
+
+
+5 => Refine(NPC Osboume) => {0 -> Item exe}
+                            {1 -> Item no exe}
+
+
+6 => Restore(NPC Lerridon)
+
+
+7 => Refine gemstone(NPC Elpis)
+
+
+8 => Chaos card master => {1 -> Chaos Card Mini}
+		          {1 -> Chaos Card}
+		          {2 -> Chaos Card Gold}
+		          {3 -> Chaos Card Rare}
+
+
+9 => NPC Cherry Blossoms Spirit => {0 -> White Cherry Blossom}
+				   {1 -> Red Cherry Blossom}
+				   {2 -> Gold Cherry Blossom}
+
+
+Chaos Machine => {0 -> Create Fruit}
+		 {1~5 -> Create +10 item}
+		 {6~10 -> Create +11 item}
+		 {11~15 -> Create +12 item}
+		 {16~20 -> Create +13 item}
+		 {20~25 -> Create +14 item}
+		 {26~30 -> Create +15 item}
+		 {31~33 -> Create Wings level 1}
+		 {34~35 -> Create Wings level 2}
+		 {36 -> Create Dinorant}
+		 {33~44 -> Create Cloak of Invisibility}
+		 {45~52 -> Create Devil's Invitation}
+		 {53~54 -> Create Cloaks}
+		 {55 -> Create Fragment of horn}
+		 {56 -> Create Broken horn}
+		 {57 -> Create Fenrir's horn}
+		 {58~59 -> Upgrade Fenrir's horn}
+		 {60~62 -> Create SD potion}
+		 {63 -> Create Potion of bless}
+		 {64 -> Create Potion of soul}
+		 {65 -> Create Life Stone}
+		 {66~71 -> Create Scroll of Blood}
+		 {72~75 -> Create Condor's Feather}
+		 {76 -> Create Wings level 3}
+		 {77 -> Create Complete Secromicon}
+		 {78 -> Golden Box}
+		 {79 -> Silver Box}
+
+
+Pet Trainer => {0 -> Dark Raven}
+	       {1 -> Dark Horse}

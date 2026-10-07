@@ -1,0 +1,1431 @@
+00:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+00:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+00:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+00:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+00:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+00:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+00:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+00:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+00:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+00:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+00:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+00:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+00:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+00:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+00:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+00:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+00:01:50 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+00:01:50 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+00:01:50 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+00:01:56 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+00:01:56 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+00:01:56 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+00:01:56 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+00:01:56 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+00:02:13 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+00:02:13 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+00:02:13 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+00:02:13 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+00:02:13 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+00:07:48 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+00:09:49 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+00:09:50 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+00:09:50 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+00:11:56 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+00:11:56 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+00:11:56 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+00:11:56 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+00:11:56 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+00:12:13 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+00:12:13 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+00:12:13 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+00:12:13 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+00:12:13 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+00:15:48 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+00:17:49 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+00:17:49 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+00:17:49 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+00:21:57 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+00:21:57 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+00:21:57 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+00:21:57 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+00:21:57 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+00:22:13 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+00:22:13 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+00:22:13 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+00:22:13 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+00:22:13 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+00:23:47 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+00:25:49 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+00:25:49 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+00:25:49 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+00:31:47 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+00:31:57 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+00:31:57 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+00:31:57 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+00:31:57 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+00:31:57 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+00:32:13 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+00:32:13 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+00:32:13 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+00:32:13 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+00:32:13 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+00:33:48 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+00:33:48 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+00:33:48 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+00:39:47 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+00:41:48 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+00:41:48 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+00:41:48 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+00:41:57 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+00:41:57 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+00:41:57 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+00:41:57 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+00:41:57 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+00:42:13 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+00:42:13 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+00:42:13 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+00:42:13 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+00:42:13 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+00:47:46 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+00:49:48 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+00:49:48 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+00:49:48 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+00:50:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (0)
+00:50:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (3599)
+00:51:57 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+00:51:57 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+00:51:57 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+00:51:57 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+00:51:57 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+00:52:13 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+00:52:13 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+00:52:13 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+00:52:13 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+00:52:13 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+00:55:46 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+00:57:47 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+00:57:47 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+00:57:47 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+01:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+01:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+01:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+01:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+01:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+01:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+01:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+01:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+01:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+01:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+01:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+01:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+01:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+01:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+01:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+01:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+01:01:57 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+01:01:57 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+01:01:57 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+01:01:57 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+01:01:57 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+01:02:14 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+01:02:14 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+01:02:14 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+01:02:14 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+01:02:14 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+01:03:46 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+01:05:47 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+01:05:47 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+01:05:47 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+01:11:45 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+01:11:57 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+01:11:57 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+01:11:57 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+01:11:57 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+01:11:57 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+01:12:14 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+01:12:14 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+01:12:14 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+01:12:14 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+01:12:14 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+01:13:46 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+01:13:46 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+01:13:46 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+01:19:45 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+01:21:46 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+01:21:46 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+01:21:46 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+01:21:57 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+01:21:57 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+01:21:57 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+01:21:57 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+01:21:57 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+01:22:14 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+01:22:14 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+01:22:14 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+01:22:14 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+01:22:14 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+01:27:44 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+01:29:46 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+01:29:46 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+01:29:46 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+01:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (0)
+01:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (0)
+01:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (0)
+01:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (0)
+01:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (0)
+01:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (0)
+01:31:57 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+01:31:57 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+01:31:57 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+01:31:57 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+01:31:57 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+01:32:14 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+01:32:14 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+01:32:14 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+01:32:14 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+01:32:14 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+01:35:02 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (14098)
+01:35:02 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (14098)
+01:35:02 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (14098)
+01:35:02 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (14098)
+01:35:02 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (14098)
+01:35:02 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (14098)
+01:35:44 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+01:37:45 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+01:37:45 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+01:37:45 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+01:41:57 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+01:41:57 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+01:41:57 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+01:41:57 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+01:41:57 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+01:42:14 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+01:42:14 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+01:42:14 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+01:42:14 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+01:42:14 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+01:43:44 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+01:45:45 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+01:45:45 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+01:45:45 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+01:50:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (0)
+01:50:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (3599)
+01:51:43 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+01:51:57 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+01:51:57 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+01:51:57 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+01:51:57 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+01:51:57 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+01:52:14 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+01:52:14 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+01:52:14 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+01:52:14 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+01:52:14 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+01:53:45 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+01:53:45 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+01:53:45 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+01:59:43 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+02:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+02:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+02:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+02:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+02:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+02:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+02:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+02:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+02:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 4 (120)
+02:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+02:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+02:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+02:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+02:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+02:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+02:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+02:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+02:01:44 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+02:01:44 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+02:01:44 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+02:01:57 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+02:01:57 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+02:01:57 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+02:01:57 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+02:01:57 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+02:02:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 4 (21480)
+02:02:14 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+02:02:14 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+02:02:14 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+02:02:14 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+02:02:14 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+02:07:43 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+02:09:44 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+02:09:44 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+02:09:44 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+02:11:58 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+02:11:58 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+02:11:58 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+02:11:58 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+02:11:58 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+02:12:14 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+02:12:14 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+02:12:14 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+02:12:14 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+02:12:14 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+02:15:42 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+02:17:44 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+02:17:44 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+02:17:44 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+02:21:58 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+02:21:58 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+02:21:58 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+02:21:58 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+02:21:58 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+02:22:14 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+02:22:14 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+02:22:14 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+02:22:14 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+02:22:14 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+02:23:42 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+02:25:43 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+02:25:43 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+02:25:43 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+02:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+02:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+02:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+02:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+02:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+02:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+02:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+02:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (7199)
+02:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (7199)
+02:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (7199)
+02:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (7199)
+02:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (7199)
+02:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (7199)
+02:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (7199)
+02:31:42 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+02:31:58 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+02:31:58 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+02:31:58 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+02:31:58 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+02:31:58 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+02:32:14 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+02:32:14 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+02:32:14 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+02:32:14 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+02:32:14 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+02:33:43 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+02:33:43 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+02:33:43 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+02:39:41 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+02:41:42 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+02:41:43 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+02:41:43 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+02:41:58 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+02:41:58 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+02:41:58 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+02:41:58 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+02:41:58 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+02:42:14 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+02:42:14 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+02:42:14 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+02:42:14 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+02:42:14 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+02:47:41 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+02:49:42 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+02:49:42 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+02:49:42 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+02:50:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (0)
+02:50:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (3599)
+02:51:58 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+02:51:58 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+02:51:58 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+02:51:58 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+02:51:58 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+02:52:14 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+02:52:14 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+02:52:14 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+02:52:14 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+02:52:14 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+02:55:40 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+02:57:42 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+02:57:42 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+02:57:42 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+03:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+03:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+03:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+03:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+03:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+03:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+03:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+03:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+03:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+03:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+03:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+03:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+03:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+03:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+03:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+03:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+03:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+03:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+03:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+03:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+03:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+03:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+03:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+03:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+03:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+03:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+03:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+03:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+03:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+03:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+03:01:58 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+03:01:58 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+03:01:58 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+03:01:58 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+03:01:58 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+03:02:14 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+03:02:14 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+03:02:14 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+03:02:14 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+03:02:14 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+03:03:40 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+03:05:41 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+03:05:42 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+03:05:42 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+03:11:40 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+03:11:58 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+03:11:58 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+03:11:58 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+03:11:58 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+03:11:58 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+03:12:14 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+03:12:14 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+03:12:14 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+03:12:14 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+03:12:14 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+03:13:41 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+03:13:41 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+03:13:41 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+03:19:38 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+03:21:39 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+03:21:39 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+03:21:39 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+03:21:57 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+03:21:57 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+03:21:57 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+03:21:57 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+03:21:57 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+03:22:13 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+03:22:13 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+03:22:13 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+03:22:13 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+03:22:13 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+03:27:38 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+03:29:39 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+03:29:39 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+03:29:39 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+03:31:57 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+03:31:57 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+03:31:57 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+03:31:57 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+03:31:57 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+03:32:13 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+03:32:13 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+03:32:13 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+03:32:13 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+03:32:13 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+03:35:37 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+03:37:39 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+03:37:39 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+03:37:39 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+03:41:57 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+03:41:57 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+03:41:57 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+03:41:57 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+03:41:57 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+03:42:13 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+03:42:13 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+03:42:13 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+03:42:13 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+03:42:13 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+03:43:37 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+03:45:38 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+03:45:38 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+03:45:38 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+03:50:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (0)
+03:50:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (3599)
+03:51:37 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+03:51:57 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+03:51:57 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+03:51:57 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+03:51:57 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+03:51:57 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+03:52:13 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+03:52:13 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+03:52:13 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+03:52:13 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+03:52:13 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+03:53:38 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+03:53:38 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+03:53:38 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+03:59:36 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+04:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+04:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+04:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+04:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+04:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+04:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+04:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+04:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+04:00:00 [CEventSyncTime::RecvUpdateEventInfo][19] Type: 0, Index: 7 (0)
+04:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+04:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+04:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+04:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+04:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+04:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+04:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+04:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+04:01:37 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+04:01:37 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+04:01:37 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+04:02:00 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+04:02:00 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+04:02:00 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+04:02:00 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+04:02:00 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+04:02:16 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+04:02:16 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+04:02:16 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+04:02:16 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+04:02:16 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+04:07:36 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+04:09:37 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+04:09:37 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+04:09:37 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+04:12:00 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+04:12:00 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+04:12:00 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+04:12:00 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+04:12:00 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+04:12:16 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+04:12:16 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+04:12:16 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+04:12:16 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+04:12:16 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+04:15:35 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+04:17:37 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+04:17:37 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+04:17:37 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+04:22:00 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+04:22:00 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+04:22:00 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+04:22:00 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+04:22:00 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+04:22:16 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+04:22:16 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+04:22:16 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+04:22:16 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+04:22:16 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+04:23:35 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+04:25:36 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+04:25:36 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+04:25:36 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+04:30:00 [CEventSyncTime::RecvUpdateEventInfo][19] Type: 0, Index: 7 (27000)
+04:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+04:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+04:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+04:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+04:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+04:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+04:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+04:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (7199)
+04:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (7199)
+04:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (7199)
+04:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (7199)
+04:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (7199)
+04:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (7199)
+04:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (7199)
+04:31:35 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+04:32:00 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+04:32:00 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+04:32:00 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+04:32:00 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+04:32:00 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+04:32:16 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+04:32:16 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+04:32:16 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+04:32:16 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+04:32:16 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+04:33:36 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+04:33:36 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+04:33:36 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+04:39:34 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+04:41:35 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+04:41:36 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+04:41:36 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+04:42:00 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+04:42:00 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+04:42:00 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+04:42:00 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+04:42:00 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+04:42:16 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+04:42:16 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+04:42:16 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+04:42:16 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+04:42:16 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+04:47:34 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+04:49:35 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+04:49:35 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+04:49:35 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+04:50:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (0)
+04:50:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (3599)
+04:52:00 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+04:52:00 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+04:52:00 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+04:52:00 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+04:52:00 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+04:52:16 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+04:52:16 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+04:52:16 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+04:52:16 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+04:52:16 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+04:55:33 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+04:57:35 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+04:57:35 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+04:57:35 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+05:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+05:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+05:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+05:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+05:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+05:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+05:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+05:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+05:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+05:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+05:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+05:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+05:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+05:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+05:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+05:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+05:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+05:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+05:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+05:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+05:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+05:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+05:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+05:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+05:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+05:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+05:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+05:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+05:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+05:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+05:02:00 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+05:02:00 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+05:02:00 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+05:02:00 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+05:02:00 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+05:02:16 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+05:02:16 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+05:02:16 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+05:02:16 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+05:02:16 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+05:03:33 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+05:05:34 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+05:05:34 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+05:05:34 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+05:11:33 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+05:12:00 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+05:12:00 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+05:12:00 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+05:12:00 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+05:12:00 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+05:12:16 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+05:12:16 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+05:12:16 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+05:12:16 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+05:12:16 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+05:13:34 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+05:13:34 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+05:13:34 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+05:19:32 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+05:21:34 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+05:21:34 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+05:21:34 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+05:22:00 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+05:22:00 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+05:22:00 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+05:22:00 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+05:22:00 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+05:22:16 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+05:22:16 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+05:22:16 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+05:22:16 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+05:22:16 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+05:27:32 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+05:29:33 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+05:29:33 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+05:29:33 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+05:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (0)
+05:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (0)
+05:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (0)
+05:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (0)
+05:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (0)
+05:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (0)
+05:32:00 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+05:32:00 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+05:32:00 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+05:32:00 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+05:32:00 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+05:32:17 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+05:32:17 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+05:32:17 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+05:32:17 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+05:32:17 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+05:35:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (14099)
+05:35:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (14099)
+05:35:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (14099)
+05:35:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (14099)
+05:35:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (14099)
+05:35:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (14099)
+05:35:32 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+05:37:33 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+05:37:33 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+05:37:33 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+05:42:00 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+05:42:00 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+05:42:00 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+05:42:00 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+05:42:00 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+05:42:17 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+05:42:17 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+05:42:17 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+05:42:17 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+05:42:17 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+05:43:31 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+05:45:32 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+05:45:33 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+05:45:33 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+05:50:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (0)
+05:50:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (3599)
+05:51:31 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+05:52:00 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+05:52:00 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+05:52:00 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+05:52:00 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+05:52:00 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+05:52:17 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+05:52:17 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+05:52:17 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+05:52:17 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+05:52:17 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+05:53:32 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+05:53:32 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+05:53:32 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+05:59:30 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+06:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+06:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+06:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+06:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+06:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+06:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+06:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+06:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+06:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+06:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+06:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+06:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+06:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+06:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+06:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+06:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+06:01:32 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+06:01:32 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+06:01:32 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+06:02:00 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+06:02:00 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+06:02:00 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+06:02:00 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+06:02:00 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+06:02:17 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+06:02:17 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+06:02:17 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+06:02:17 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+06:02:17 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+06:07:30 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+06:09:31 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+06:09:31 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+06:09:31 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+06:12:01 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+06:12:01 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+06:12:01 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+06:12:01 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+06:12:01 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+06:12:17 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+06:12:17 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+06:12:17 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+06:12:17 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+06:12:17 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+06:15:30 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+06:17:31 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+06:17:31 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+06:17:31 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+06:22:01 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+06:22:01 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+06:22:01 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+06:22:01 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+06:22:01 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+06:22:17 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+06:22:17 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+06:22:17 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+06:22:17 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+06:22:17 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+06:23:29 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+06:25:31 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+06:25:31 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+06:25:31 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+06:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+06:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+06:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+06:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+06:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+06:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+06:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+06:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (2999)
+06:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (2999)
+06:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (2999)
+06:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (2999)
+06:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (2999)
+06:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (2999)
+06:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (2999)
+06:31:29 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+06:32:01 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+06:32:01 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+06:32:01 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+06:32:01 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+06:32:01 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+06:32:17 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+06:32:17 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+06:32:17 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+06:32:17 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+06:32:17 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+06:33:30 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+06:33:30 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+06:33:30 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+06:39:29 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+06:41:30 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+06:41:30 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+06:41:30 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+06:42:01 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+06:42:01 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+06:42:01 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+06:42:01 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+06:42:01 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+06:42:17 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+06:42:17 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+06:42:17 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+06:42:17 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+06:42:17 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+06:47:28 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+06:49:29 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+06:49:29 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+06:49:29 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+06:50:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (0)
+06:50:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (3599)
+06:52:01 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+06:52:01 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+06:52:01 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+06:52:01 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+06:52:01 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+06:52:17 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+06:52:17 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+06:52:17 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+06:52:17 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+06:52:17 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+06:55:28 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+06:57:29 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+06:57:29 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+06:57:29 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+07:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+07:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+07:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+07:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+07:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+07:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+07:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+07:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+07:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+07:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+07:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+07:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+07:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+07:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+07:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+07:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+07:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+07:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+07:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+07:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+07:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+07:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+07:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+07:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+07:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+07:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+07:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+07:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+07:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+07:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+07:02:01 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+07:02:01 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+07:02:01 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+07:02:01 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+07:02:01 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+07:02:17 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+07:02:17 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+07:02:17 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+07:02:17 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+07:02:17 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+07:03:27 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+07:05:29 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+07:05:29 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+07:05:29 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+07:11:27 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+07:12:01 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+07:12:01 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+07:12:01 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+07:12:01 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+07:12:01 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+07:12:17 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+07:12:17 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+07:12:17 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+07:12:17 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+07:12:17 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+07:13:28 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+07:13:28 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+07:13:28 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+07:19:27 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+07:20:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+07:20:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+07:20:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+07:20:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+07:20:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+07:20:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+07:20:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+07:20:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (4199)
+07:20:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (4199)
+07:20:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (4199)
+07:20:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (4199)
+07:20:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (4199)
+07:20:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (4199)
+07:20:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (4199)
+07:21:28 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+07:21:28 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+07:21:28 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+07:22:01 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+07:22:01 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+07:22:01 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+07:22:01 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+07:22:01 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+07:22:17 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+07:22:17 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+07:22:17 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+07:22:17 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+07:22:17 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+07:27:26 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+07:29:28 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+07:29:28 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+07:29:28 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+07:32:01 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+07:32:01 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+07:32:01 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+07:32:01 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+07:32:01 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+07:32:18 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+07:32:18 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+07:32:18 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+07:32:18 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+07:32:18 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+07:35:26 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+07:37:27 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+07:37:27 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+07:37:27 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+07:42:01 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+07:42:01 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+07:42:01 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+07:42:01 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+07:42:01 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+07:42:18 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+07:42:18 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+07:42:18 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+07:42:18 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+07:42:18 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+07:43:26 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+07:45:27 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+07:45:27 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+07:45:27 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+07:50:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (0)
+07:50:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (3599)
+07:51:25 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+07:52:01 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+07:52:01 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+07:52:01 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+07:52:01 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+07:52:01 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+07:52:18 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+07:52:18 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+07:52:18 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+07:52:18 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+07:52:18 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+07:53:26 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+07:53:27 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+07:53:27 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+07:59:25 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+08:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+08:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+08:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+08:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+08:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+08:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+08:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+08:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+08:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 4 (120)
+08:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+08:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+08:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+08:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+08:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+08:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+08:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+08:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+08:01:26 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+08:01:26 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+08:01:26 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+08:02:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 4 (21480)
+08:02:01 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+08:02:01 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+08:02:01 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+08:02:01 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+08:02:01 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+08:02:18 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+08:02:18 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+08:02:18 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+08:02:18 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+08:02:18 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+08:07:24 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+08:09:26 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+08:09:26 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+08:09:26 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+08:12:01 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+08:12:01 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+08:12:01 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+08:12:01 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+08:12:01 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+08:12:18 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+08:12:18 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+08:12:18 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+08:12:18 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+08:12:18 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+08:15:24 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+08:17:25 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+08:17:25 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+08:17:25 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+08:22:01 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+08:22:01 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+08:22:01 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+08:22:01 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+08:22:01 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+08:22:18 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+08:22:18 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+08:22:18 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+08:22:18 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+08:22:18 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+08:23:24 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+08:25:25 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+08:25:25 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+08:25:25 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+08:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+08:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+08:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+08:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+08:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+08:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+08:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+08:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (4919)
+08:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (4919)
+08:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (4919)
+08:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (4919)
+08:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (4919)
+08:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (4919)
+08:30:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (4919)
+08:31:23 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+08:32:02 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+08:32:02 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+08:32:02 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+08:32:02 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+08:32:02 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+08:32:18 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+08:32:18 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+08:32:18 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+08:32:18 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+08:32:18 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+08:33:25 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+08:33:25 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+08:33:25 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+08:39:23 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+08:41:24 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+08:41:25 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+08:41:25 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+08:42:02 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+08:42:02 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+08:42:02 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+08:42:02 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+08:42:02 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+08:42:18 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+08:42:18 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+08:42:18 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+08:42:18 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+08:42:18 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+08:47:23 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+08:49:24 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+08:49:24 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+08:49:24 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+08:50:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (0)
+08:50:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (3599)
+08:52:02 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+08:52:02 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+08:52:02 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+08:52:02 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+08:52:02 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+08:52:18 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+08:52:18 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+08:52:18 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+08:52:18 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+08:52:18 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+08:55:22 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+08:57:24 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+08:57:24 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+08:57:24 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+09:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+09:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+09:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+09:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+09:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+09:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+09:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+09:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+09:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+09:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+09:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+09:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+09:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+09:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+09:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+09:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+09:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+09:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+09:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+09:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+09:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+09:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+09:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+09:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+09:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+09:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+09:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+09:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+09:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+09:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (7199)
+09:02:02 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+09:02:02 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+09:02:02 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+09:02:02 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+09:02:02 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+09:02:18 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+09:02:18 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+09:02:18 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+09:02:18 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+09:02:18 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+09:03:22 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+09:05:23 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+09:05:23 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+09:05:23 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+09:11:22 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+09:12:02 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+09:12:02 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+09:12:02 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+09:12:02 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+09:12:02 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+09:12:18 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+09:12:18 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+09:12:18 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+09:12:18 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+09:12:18 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+09:13:23 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+09:13:23 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+09:13:23 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+09:19:21 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+09:21:23 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+09:21:23 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+09:21:23 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+09:22:02 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+09:22:02 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+09:22:02 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+09:22:02 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+09:22:02 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+09:22:19 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+09:22:19 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+09:22:19 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+09:22:19 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+09:22:19 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+09:27:21 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+09:29:22 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+09:29:22 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+09:29:22 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+09:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (0)
+09:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (0)
+09:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (0)
+09:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (0)
+09:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (0)
+09:30:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (0)
+09:32:02 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+09:32:02 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+09:32:02 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+09:32:02 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+09:32:02 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+09:32:19 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+09:32:19 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+09:32:19 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+09:32:19 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+09:32:19 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+09:35:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (14099)
+09:35:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (14099)
+09:35:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (14099)
+09:35:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (14099)
+09:35:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (14099)
+09:35:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 3 (14099)
+09:35:21 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+09:37:22 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+09:37:22 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+09:37:22 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+09:42:02 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+09:42:02 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+09:42:02 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+09:42:02 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+09:42:02 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+09:42:19 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+09:42:19 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+09:42:19 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+09:42:19 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+09:42:19 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+09:43:20 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+09:45:22 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+09:45:22 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+09:45:22 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+09:50:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (0)
+09:50:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (3599)
+09:51:20 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+09:52:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+09:52:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+09:52:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+09:52:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+09:52:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+09:52:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+09:52:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (0)
+09:52:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (9479)
+09:52:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (9479)
+09:52:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (9479)
+09:52:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (9479)
+09:52:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (9479)
+09:52:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (9479)
+09:52:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 1 (9479)
+09:52:02 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+09:52:02 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+09:52:02 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+09:52:02 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+09:52:02 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+09:52:19 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+09:52:19 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+09:52:19 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+09:52:19 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+09:52:19 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+09:53:21 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+09:53:21 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+09:53:21 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+09:59:20 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+10:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+10:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+10:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+10:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+10:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+10:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+10:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+10:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+10:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+10:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+10:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+10:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+10:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+10:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+10:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+10:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+10:01:21 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+10:01:21 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+10:01:21 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+10:02:02 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+10:02:02 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+10:02:02 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+10:02:02 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+10:02:02 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+10:02:19 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+10:02:19 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+10:02:19 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+10:02:19 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+10:02:19 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+10:07:19 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+10:09:21 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+10:09:21 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+10:09:21 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+10:12:02 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+10:12:02 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+10:12:02 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+10:12:02 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+10:12:02 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+10:12:19 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+10:12:19 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+10:12:19 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+10:12:19 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+10:12:19 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+10:15:19 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+10:17:20 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+10:17:20 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+10:17:20 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+10:22:02 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+10:22:02 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+10:22:02 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+10:22:02 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+10:22:02 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+10:22:19 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+10:22:19 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+10:22:19 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+10:22:19 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+10:22:19 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+10:23:18 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+10:25:20 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+10:25:20 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+10:25:20 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+10:31:18 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+10:32:03 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+10:32:03 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+10:32:03 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+10:32:03 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+10:32:03 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+10:32:19 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+10:32:19 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+10:32:19 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+10:32:19 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+10:32:19 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+10:33:19 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+10:33:19 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+10:33:19 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+10:39:18 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+10:41:19 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+10:41:19 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+10:41:19 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+10:42:03 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+10:42:03 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+10:42:03 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+10:42:03 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+10:42:03 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+10:42:19 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+10:42:19 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+10:42:19 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+10:42:19 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+10:42:19 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+10:46:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 21 (0)
+10:46:30 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 21 (86370)
+10:47:17 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+10:49:19 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+10:49:19 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+10:49:19 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+10:50:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (0)
+10:50:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 17 (3599)
+10:52:03 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+10:52:03 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+10:52:03 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+10:52:03 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+10:52:03 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+10:52:19 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+10:52:19 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+10:52:19 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+10:52:19 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+10:52:19 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+10:55:17 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+10:57:18 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+10:57:18 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+10:57:18 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+11:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+11:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+11:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+11:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+11:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+11:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+11:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+11:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (0)
+11:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+11:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+11:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+11:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+11:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+11:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+11:00:00 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (0)
+11:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+11:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+11:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+11:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+11:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+11:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+11:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+11:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 0 (3599)
+11:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (2579)
+11:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (2579)
+11:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (2579)
+11:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (2579)
+11:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (2579)
+11:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (2579)
+11:00:01 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 2 (2579)
+11:02:03 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+11:02:03 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+11:02:03 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+11:02:03 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+11:02:03 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+11:02:19 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+11:02:19 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+11:02:19 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+11:02:19 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+11:02:19 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+11:03:17 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+11:05:18 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+11:05:18 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+11:05:18 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)
+11:11:16 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (2)
+11:12:03 [CEventSyncTime::RecvEventInfo][1] Type: 0, Count: 15
+11:12:03 [CEventSyncTime::RecvEventInfo][1] Type: 1, Count: 9
+11:12:03 [CEventSyncTime::RecvEventInfo][1] Type: 2, Count: 0
+11:12:03 [CEventSyncTime::RecvEventInfo][1] Type: 3, Count: 30
+11:12:03 [CEventSyncTime::RecvEventInfo][1] Type: 4, Count: 0
+11:12:19 [CEventSyncTime::RecvEventInfo][19] Type: 0, Count: 4
+11:12:19 [CEventSyncTime::RecvEventInfo][19] Type: 1, Count: 9
+11:12:19 [CEventSyncTime::RecvEventInfo][19] Type: 2, Count: 0
+11:12:19 [CEventSyncTime::RecvEventInfo][19] Type: 3, Count: 0
+11:12:19 [CEventSyncTime::RecvEventInfo][19] Type: 4, Count: 0
+11:13:18 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (5)
+11:13:18 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (0)
+11:13:18 [CEventSyncTime::RecvUpdateEventInfo][1] Type: 0, Index: 9 (1)

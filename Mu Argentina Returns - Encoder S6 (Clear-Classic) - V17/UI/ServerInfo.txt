@@ -1,0 +1,12 @@
+// ----------------------------------------------------------------------------------
+// 
+// (1)Index 		 -> Contador
+// (2)ServerName	 -> Nomnbr edel servidor en el Text_eng.bmd
+// (3)Count		     -> Posicion del SubServer
+// (4)SubserverName	 -> Nombre que tendra el servidor
+// 	ServerName	Count	SubServerName
+// ----------------------------------------------------------------------------------
+//	(1)	  (2)	   (3)	(4)
+// ----------------------------------------------------------------------------------
+	4	"MSPro"	4	"BestTeam"
+end

@@ -1,0 +1,105 @@
+//----------------------------------------------------------------------------------------------------------------
+//->>  MSPro - MuServerPro Team - Desarrollos de MUOnline
+//->>  Web: wwww.muserverpro.com
+//->>  FB: mspromu
+//->>  2020 - 2026 MuServerPro Team
+//----------------------------------------------------------------------------------------------------------------
+
+0
+//-----------------------------------------------------------------------------------------------------------
+// [Max 20 Char]     [0~2000000000] [0~100] 	   [1~255] 		   [0~10000]         [0-1]          [0-1]  
+// EventName         DropZen   		ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks
+//-----------------------------------------------------------------------------------------------------------		
+"Star of Christmas"	 1000	   		100		 	   1		       0		         0		        0
+end
+
+1
+//----------------------------------------------------------------------------------
+// [0~15]    [0~511][0~15]	   [0~15]     [0~1]   [0~1]  [0~7]    [0~6] 
+// Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent  Comment
+//----------------------------------------------------------------------------------
+//Swords
+   0         0      3          7          1       1      1        0           //Kris
+   0         2      3          7          1       1      1        0           //Short Sword
+   0         4      3          7          1       1      1        0           //Sword of Assassin
+   0         3      3          7          1       1      1        0           //Katana
+   0         10     3          7          1       1      1        0           //Light Saber
+   0         11     3          7          1       1      1        0           //Legendary Sword
+   0         13     3          7          1       1      1        0           //Double Blade
+//Axes
+   1         1      3          7          1       1      1        0           //Small Axe
+   1         2      3          7          1       1      1        0           //Hand Axe 
+   1         5      3          7          1       1      1        0           //Battle Axe 
+   1         6      3          7          1       1      1        0           //Nikea Axe 
+   1         7      3          7          1       1      1        0           //Larkan Axe
+//Mace-Scepters
+   2         0      3          7          1       1      1        0           //Mace         
+   2         1      3          7          1       1      1        0           //Morning Star  
+   2         3      3          7          1       1      1        0           //Great Hammer
+//Spears
+   3         4      3          7          1       1      1        0           //Serpent Spear
+   3         7      3          7          1       1      1        0           //Berdysh
+//Bows-Crossbows
+   4         4      3          7          1       1      1        0           //Tiger Bow
+   4         8      3          7          1       1      1        0           //Crossbow            
+   4         9      3          7          1       1      1        0           //Golden Crossbow      
+   4         11     3          7          1       1      1        0           //Light Crossbow    
+   4         12     3          7          1       1      1        0           //Serpent Crossbow   
+//Stafs-Sticks
+   5         0      3          7          1       1      1        0           //Skull Staff
+   5         3      3          7          1       1      1        0           //Thunder Staff
+//Shields
+   6         1      3          7          1       1      1        0           //Horn Shield  
+   6         2      3          7          1       1      1        0           //Kite Shield  
+   6         4      3          7          1       1      1        0           //Buckler              
+   6         5      3          7          1       1      1        0           //Dragon Slayer Shield
+   6         8      3          7          1       1      1        0           //Tower Shield
+   6         11     3          7          1       1      1        0           //Serpent Shield
+//
+   7         5      3          7          0       1      1        0           //Leather Set
+   8         5      3          7          0       1      1        0           //Leather Set
+   9         5      3          7          0       1      1        0           //Leather Set
+   10        5      3          7          0       1      1        0           //Leather Set
+   11        5      3          7          0       1      1        0           //Leather Set
+//
+   7         2      3          7          0       1      1        0           //Pad Set
+   8         2      3          7          0       1      1        0           //Pad Set
+   9         2      3          7          0       1      1        0           //Pad Set
+   10        2      3          7          0       1      1        0           //Pad Set
+   11        2      3          7          0       1      1        0           //Pad Set
+//
+   7         0      3          7          0       1      1        0           //Bronce Set
+   8         0      3          7          0       1      1        0           //Bronce Set
+   9         0      3          7          0       1      1        0           //Bronce Set
+   10        0      3          7          0       1      1        0           //Bronce Set
+   11        0      3          7          0       1      1        0           //Bronce Set
+//
+   7         12     3          7          0       1      1        0           //Wind Set
+   8         12     3          7          0       1      1        0           //Wind Set
+   9         12     3          7          0       1      1        0           //Wind Set
+   10        12     3          7          0       1      1        0           //Wind Set
+   11        12     3          7          0       1      1        0           //Wind Set
+//
+   7         13     3          7          0       1      1        0           //Spirit Set
+   8         13     3          7          0       1      1        0           //Spirit Set
+   9         13     3          7          0       1      1        0           //Spirit Set
+   10        13     3          7          0       1      1        0           //Spirit Set
+   11        13     3          7          0       1      1        0           //Spirit Set
+//
+   7         7      3          7          0       1      1        0           //Sphinx Set
+   8         7      3          7          0       1      1        0           //Sphinx Set
+   9         7      3          7          0       1      1        0           //Sphinx Set
+   10        7      3          7          0       1      1        0           //Sphinx Set
+   11        7      3          7          0       1      1        0           //Sphinx Set
+//
+   13        2      0          0          0       0      0        0           //Horn of Uniria
+   13        8      0          0          0       0      0        0           //Ring of Ice
+   13        9      0          0          0       0      0        0           //Ring of Poison
+   13        12     0          0          0       0      0        0           //Pendant of Lighting
+   13        13     0          0          0       0      0        0           //Pendant of Fire
+//
+   14        13     0          0          0       0      0        0           //Jewel of Bless 
+   14        14     0          0          0       0      0        0           //Jewel of Soul  
+//
+   12        15     0          0          0       0      0        0           //Jewel of chaos
+end

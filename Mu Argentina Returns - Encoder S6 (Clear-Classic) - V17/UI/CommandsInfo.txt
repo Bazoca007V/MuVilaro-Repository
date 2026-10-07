@@ -1,0 +1,56 @@
+//-------------------------------------------------------------------------
+// Command Info
+//-------------------------------------------------------------------------
+// Stage:
+// 	1 - All Users
+// 	2 - Only GameMasters
+// 	3 - Only Vip
+//--
+// Colors:
+//  1 - Gold
+//  2 - White
+//  3 - Orange
+//  4 - Red
+//  5 - Green
+//  6 - Yellow
+//  7 - Purple
+//-------------------------------------------------------------------------
+//	Stage	Color	CommandText 		Description			 	
+	1	2	"/move <X>"			"Move to a map"				
+	1	2	"/post <X>"			"Post a message in global chat"		
+	1	2	"/addstr <X>"			"Add points in Str"				
+	1	2	"/addagi <X>"			"Add points in Agi"				
+	1	2	"/addvit <X>"			"Add points in Vit"				
+	1	2	"/addene <X>"			"Add points in Ene"				
+	1	2	"/addcmd <X>"			"Add points in Com"				
+	1	2	"/pkclear"			"Clear PK"						
+	1	2	"/clearinv"			"Limpiar Invententario"	
+	1	2	"/fireworks"			"Create Fireworks"	
+
+//----------------
+	2	2	"/gmmove <Player Map X Y>"	"Move player to map"	
+	2	2	"/gmpost <Text>"		"Send info to Players"
+	2	2	"/trace <Player>"		"Move Gm to selected Player"
+	2	2	"/disconnect <Player>"		"Disconnect Player"
+	2	2	"/setmoney <Player Amount>"	"Give Zen to Player"
+	2	2	"/setvip <Player>"		"Set Vip level to Player"
+	2	2	"/banchar <Player>"		"Ban Player"
+	2	2	"/banacc <Account>"		"Ban Account"
+	2	2	"/info"				"See Player Info"
+	2	2	"/dropbag <BagID>"		"Test Selected Bag"
+	2	4	"/startbc"			"Start Blood Castle"
+	2	4	"/startds"			"Start Devil Square"
+	2	4	"/startcc"			"Start Chaos Castle"
+	2	4	"/startit"			"Start Ilussion Temple"
+	2	4	"/startsky"			"Start SkyEvent"
+	2	4	"/startferea"			"Start Ferea Boss Event"
+	2	4	"/startlake"			"Start Nixie Lake Event"
+	2	1	"/startquiz"			"Start Quiz Event"
+	2	1	"/startdrop"			"Start Drop Event"
+	2	1	"/startking"			"Start King of Mu"
+	2	1	"/startinvasion <EventID>"	"Start Custom invasion"
+	2	1	"/startarena"			"Start Custom Arena"
+
+//----------------
+	3	2	"/skin <Monster ID>"		"Set Skin to Player"
+end

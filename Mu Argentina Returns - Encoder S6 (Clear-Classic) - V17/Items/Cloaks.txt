@@ -1,0 +1,30 @@
+//---------------------------------------------------------------------------------------
+// MSPro Team
+//---------------------------------------------------------------------------------------
+//------------------------------------------------------------------------------------------------------------------------------
+// CustomCloacks.txt
+//------------------------------------------------------------------------------------------------------------------------------
+// TypeI: Tipo de item
+// Item: Index del Item (Agregar en CustomWings.txt como Capa)
+// Type: 0: Capa Simple - 1: Capa con Cintas en los Costados (Como las Level 3 de Dark Lord)
+// CWidth: Ancho de la Capa
+// CHeight: Largo de la Capa
+// RWidth: Ancho de las Cintas
+// RHeight: Largo de las Cintas
+// M0 a M4: Partes del BMD a Mostrar (Ej, Cuellos, Decoración o Adicionales - Dependen del BMD, SI NO SE USA PONER -1)
+// CapeTextura: Textura de la Capa a Dibujar (Ver las que estan puestas de referencia)
+// RibbonTexture: Textura de la Cainta
+//------------------------------------------------------------------------------------------------------------------------------
+
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+//TypeI   Item		Type	CWidth 		CHeight		RWidth 		RHeight		M0		M1		M2		M3		M4		CapeTexture					RibbonTexture
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+//12	    154			0		180			180			0			0			-1		-1		-1		-1		-1		"capadlmarote.tga"			""
+//12	    161			0		180			180			0			0			-1		-1		-1		-1		-1		"capadlmarotecel.tga"       ""
+//12	    210			1		180			180			12			180			-1		-1		-1		-1		-1		"ragefighterwing4db.tga"	"ragefighterwing4db.tga"	
+//12	    208			1		180			180			12			180			-1		-1		-1		-1		-1		"darklordwing4de.tga"		"darklordwing4dd.tga"
+//12	    211			1		180			180			0			0			-1		-1		-1		-1		-1		"growlancerwing4dc.tga"		""
+//12	    230			1		180			180			12			180			-1		-1		-1		-1		-1		"KF_Death_clka.tga"      	    "KF_Death_clkb.tga"
+//12	    234			0		180			180			0			0			-1		-1		-1		-1		-1		"US_awakeningwing4db.tga"	""
+//12	    225			1		120			120			0			0			-1		-1		-1		-1		-1		"US_AdmangtoCloak_02.tga"	""
+end

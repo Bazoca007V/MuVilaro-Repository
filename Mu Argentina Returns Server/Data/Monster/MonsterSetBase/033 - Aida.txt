@@ -1,0 +1,287 @@
+//----------------------------------------------------------------------------------------------------------------
+//->>  MSPro - MuServerPro Team - Desarrollos de MUOnline
+//->>  Web: wwww.muserverpro.com
+//->>  FB: mspromu
+//->>  © 2020 - 2022 MuServerPro Team
+//----------------------------------------------------------------------------------------------------------------
+
+//==============
+// [INFO]
+//==============
+//     TYPE INDEX : 0 - NPC // 1 - SPOTS  // 2 - MONSTER INDIVIDUAL //  4 - EVENTS
+
+0
+//---------------------------------------------------------------
+//                [0~30]        [1~255]     [1~255]     [-1/0~8]
+// MonsterIndex   SpawnRadius   LocationX   LocationY   Direction
+//---------------------------------------------------------------
+   369            0             78          13          2         //Osbourne
+   370            0             86          13          1         //Jerridon
+end
+
+1
+//-----------------------------------------------------------------------------------------------------------
+//                [0~30]        [1~255]       [1~255]       [1~255]     [1~255]     [-1/0~8]    [1~1000]
+// MonsterIndex   SpawnRadius   RangeStartX   RangeStartY   RangeEndX   RangeEndY   Direction   MaxSpawnCount
+//-----------------------------------------------------------------------------------------------------------
+end
+
+2
+//---------------------
+// INDIVIDUAL MONSTERS
+//---------------------------------------------------------------
+//                [0~30]        [1~255]     [1~255]     [-1/0~8]
+// MonsterIndex   SpawnRadius   LocationX   LocationY   Direction
+//---------------------------------------------------------------
+   307            30            168         82          -1        //Forest Orc
+   307            30            166         73          -1        //Forest Orc
+   307            30            234         36          -1        //Forest Orc
+   306            30            215         32          -1        //Death Rider
+   306            30            217         36          -1        //Death Rider
+   308            30            213         38          -1        //Death Tree
+   308            30            216         38          -1        //Death Tree
+   306            30            214         35          -1        //Death Rider
+   304            30            106         49          -1        //Witch Queen
+   304            30            120         97          -1        //Witch Queen
+   304            30            125         82          -1        //Witch Queen
+   304            30            137         125         -1        //Witch Queen
+   304            30            141         76          -1        //Witch Queen
+   305            30            81          80          -1        //Blue Golem
+   305            30            83          121         -1        //Blue Golem
+   305            30            88          62          -1        //Blue Golem
+   305            30            92          45          -1        //Blue Golem
+   305            30            92          86          -1        //Blue Golem
+   305            30            94          158         -1        //Blue Golem
+   305            30            94          158         -1        //Blue Golem
+   305            30            95          150         -1        //Blue Golem
+   305            30            102         175         -1        //Blue Golem
+   305            30            104         42          -1        //Blue Golem
+   305            30            104         160         -1        //Blue Golem
+   305            30            111         94          -1        //Blue Golem
+   305            30            113         155         -1        //Blue Golem
+   305            30            114         67          -1        //Blue Golem
+   305            30            125         112         -1        //Blue Golem
+   305            30            126         73          -1        //Blue Golem
+   305            30            131         94          -1        //Blue Golem
+   305            30            133         79          -1        //Blue Golem
+   305            30            133         133         -1        //Blue Golem
+   305            30            134         106         -1        //Blue Golem
+   305            30            136         66          -1        //Blue Golem
+   305            30            146         72          -1        //Blue Golem
+   305            30            148         93          -1        //Blue Golem
+   305            30            157         166         -1        //Blue Golem
+   305            30            167         127         -1        //Blue Golem
+   305            30            168         140         -1        //Blue Golem
+   305            30            168         168         -1        //Blue Golem
+   305            30            169         174         -1        //Blue Golem
+   305            30            180         40          -1        //Blue Golem
+   305            30            185         147         -1        //Blue Golem
+   305            30            194         19          -1        //Blue Golem
+   305            30            197         148         -1        //Blue Golem
+   305            30            208         168         -1        //Blue Golem
+   305            30            235         101         -1        //Blue Golem
+   306            30            85          145         -1        //Death Rider
+   306            30            88          126         -1        //Death Rider
+   306            30            89          109         -1        //Death Rider
+   306            30            93          173         -1        //Death Rider
+   306            30            100         58          -1        //Death Rider
+   306            30            119         56          -1        //Death Rider
+   306            30            126         156         -1        //Death Rider
+   306            30            126         156         -1        //Death Rider
+   306            30            136         144         -1        //Death Rider
+   306            30            145         87          -1        //Death Rider
+   306            30            149         112         -1        //Death Rider
+   306            30            161         117         -1        //Death Rider
+   306            30            167         152         -1        //Death Rider
+   306            30            176         124         -1        //Death Rider
+   306            30            186         89          -1        //Death Rider
+   306            30            189         179         -1        //Death Rider
+   306            30            190         144         -1        //Death Rider
+   306            30            191         138         -1        //Death Rider
+   306            30            207         54          -1        //Death Rider
+   306            30            209         75          -1        //Death Rider
+   306            30            221         60          -1        //Death Rider
+   306            30            223         158         -1        //Death Rider
+   306            30            227         52          -1        //Death Rider
+   306            30            230         12          -1        //Death Rider
+   306            30            233         61          -1        //Death Rider
+   306            30            234         71          -1        //Death Rider
+   306            30            234         146         -1        //Death Rider
+   306            30            235         90          -1        //Death Rider
+   307            30            86          171         -1        //Forest Orc
+   307            30            126         20          -1        //Forest Orc
+   307            30            126         26          -1        //Forest Orc
+   307            30            148         10          -1        //Forest Orc
+   307            30            148         19          -1        //Forest Orc
+   307            30            149         35          -1        //Forest Orc
+   307            30            157         16          -1        //Forest Orc
+   307            30            158         46          -1        //Forest Orc
+   307            30            166         57          -1        //Forest Orc
+   307            30            172         11          -1        //Forest Orc
+   307            30            176         60          -1        //Forest Orc
+   307            30            183         96          -1        //Forest Orc
+   307            30            187         17          -1        //Forest Orc
+   307            30            189         55          -1        //Forest Orc
+   307            30            190         40          -1        //Forest Orc
+   307            30            190         79          -1        //Forest Orc
+   307            30            194         33          -1        //Forest Orc
+   307            30            196         45          -1        //Forest Orc
+   307            30            199         108         -1        //Forest Orc
+   307            30            210         122         -1        //Forest Orc
+   307            30            212         62          -1        //Forest Orc
+   307            30            213         82          -1        //Forest Orc
+   307            30            213         137         -1        //Forest Orc
+   307            30            214         10          -1        //Forest Orc
+   307            30            225         149         -1        //Forest Orc
+   307            30            226         67          -1        //Forest Orc
+   307            30            226         140         -1        //Forest Orc
+   307            30            233         125         -1        //Forest Orc
+   307            30            234         111         -1        //Forest Orc
+   307            30            234         155         -1        //Forest Orc
+   307            30            236         135         -1        //Forest Orc
+   308            30            103         16          -1        //Death Tree
+   308            30            113         8           -1        //Death Tree
+   308            30            118         16          -1        //Death Tree
+   308            30            136         23          -1        //Death Tree
+   308            30            137         13          -1        //Death Tree
+   308            30            150         46          -1        //Death Tree
+   308            30            157         23          -1        //Death Tree
+   308            30            158         10          -1        //Death Tree
+   308            30            162         70          -1        //Death Tree
+   308            30            164         18          -1        //Death Tree
+   308            30            166         48          -1        //Death Tree
+   308            30            174         23          -1        //Death Tree
+   308            30            177         16          -1        //Death Tree
+   308            30            189         38          -1        //Death Tree
+   308            30            189         95          -1        //Death Tree
+   308            30            195         26          -1        //Death Tree
+   308            30            196         99          -1        //Death Tree
+   308            30            200         71          -1        //Death Tree
+   308            30            204         12          -1        //Death Tree
+   308            30            205         31          -1        //Death Tree
+   308            30            206         91          -1        //Death Tree
+   308            30            214         114         -1        //Death Tree
+   308            30            219         91          -1        //Death Tree
+   308            30            222         75          -1        //Death Tree
+   308            30            223         130         -1        //Death Tree
+   308            30            228         111         -1        //Death Tree
+   309            30            108         147         -1        //Hell Maine
+   309            30            112         47          -1        //Hell Maine
+   309            30            123         103         -1        //Hell Maine
+   306            30            228         17          -1        //Death Rider
+   308            30            226         11          -1        //Death Tree
+   306            30            236         33          -1        //Death Rider
+   306            30            237         38          -1        //Death Rider
+   307            30            232         38          -1        //Forest Orc
+   306            30            169         85          -1        //Death Rider
+   307            30            171         82          -1        //Forest Orc3
+   306            30            193         150         -1        //Death Rider
+   305            30            195         153         -1        //Blue Golem
+   549            30            211         204         -1        //Bloody Orc
+   549            30            199         200         -1        //Bloody Orc
+   550            30            206         197         -1        //Bloody Death Rider
+   550            30            203         213         -1        //Bloody Death Rider
+   549            30            208         210         -1        //Bloody Orc
+   549            30            192         207         -1        //Bloody Orc
+   549            30            221         236         -1        //Bloody Orc
+   549            30            215         238         -1        //Bloody Orc
+   549            30            228         219         -1        //Bloody Orc
+   549            30            218         224         -1        //Bloody Orc
+   549            30            232         217         -1        //Bloody Orc
+   549            30            240         230         -1        //Bloody Orc
+   549            30            237         236         -1        //Bloody Orc
+   549            30            186         207         -1        //Bloody Orc
+   549            30            171         212         -1        //Bloody Orc
+   549            30            158         216         -1        //Bloody Orc
+   549            30            162         194         -1        //Bloody Orc
+   549            30            148         198         -1        //Bloody Orc
+   550            30            154         193         -1        //Bloody Death Rider
+   550            30            152         211         -1        //Bloody Death Rider
+   550            30            170         203         -1        //Bloody Death Rider
+   550            30            165         215         -1        //Bloody Death Rider
+   550            30            155         231         -1        //Bloody Death Rider
+   550            30            159         228         -1        //Bloody Death Rider
+   549            30            158         235         -1        //Bloody Orc
+   549            30            163         237         -1        //Bloody Orc
+   550            30            138         200         -1        //Bloody Death Rider
+   550            30            126         184         -1        //Bloody Death Rider
+   551            30            128         190         -1        //Bloody Golem
+   551            30            143         198         -1        //Bloody Golem
+   551            30            135         196         -1        //Bloody Golem
+   551            30            127         230         -1        //Bloody Golem
+   551            30            130         218         -1        //Bloody Golem
+   550            30            131         227         -1        //Bloody Death Rider
+   550            30            127         224         -1        //Bloody Death Rider
+   550            30            137         218         -1        //Bloody Death Rider
+   550            30            122         200         -1        //Bloody Death Rider
+   551            30            123         195         -1        //Bloody Golem
+   551            30            138         188         -1        //Bloody Golem
+   551            30            136         184         -1        //Bloody Golem
+   549            30            67          227         -1        //Bloody Orc
+   549            30            73          222         -1        //Bloody Orc
+   549            30            82          228         -1        //Bloody Orc
+   549            30            40          224         -1        //Bloody Orc
+   549            30            38          206         -1        //Bloody Orc
+   550            30            104         203         -1        //Bloody Death Rider
+   550            30            99          203         -1        //Bloody Death Rider
+   550            30            75          228         -1        //Bloody Death Rider
+   551            30            87          209         -1        //Bloody Golem
+   551            30            77          212         -1        //Bloody Golem
+   551            30            66          209         -1        //Bloody Golem
+   552            30            45          227         -1        //Bloody Witch Queen
+   552            30            44          219         -1        //Bloody Witch Queen
+   552            30            32          205         -1        //Bloody Witch Queen
+   552            30            26          182         -1        //Bloody Witch Queen
+   551            30            22          190         -1        //Bloody Golem
+   551            30            28          191         -1        //Bloody Golem
+   550            30            82          216         -1        //Bloody Death Rider
+   550            30            33          222         -1        //Bloody Death Rider
+   551            30            40          184         -1        //Bloody Golem
+   551            30            44          176         -1        //Bloody Golem
+   551            30            39          178         -1        //Bloody Golem
+   552            30            50          158         -1        //Bloody Witch Queen
+   552            30            56          160         -1        //Bloody Witch Queen
+   550            30            54          155         -1        //Bloody Death Rider
+   550            30            42          179         -1        //Bloody Death Rider
+   550            30            26          134         -1        //Bloody Death Rider
+   550            30            26          118         -1        //Bloody Death Rider
+   550            30            47          125         -1        //Bloody Death Rider
+   550            30            46          212         -1        //Bloody Death Rider
+   550            30            20          181         -1        //Bloody Death Rider
+   552            30            24          186         -1        //Bloody Witch Queen
+   551            30            55          120         -1        //Bloody Golem
+   551            30            22          127         -1        //Bloody Golem
+   551            30            35          116         -1        //Bloody Golem
+   552            30            43          134         -1        //Bloody Witch Queen
+   552            30            54          117         -1        //Bloody Witch Queen
+   552            30            39          119         -1        //Bloody Witch Queen
+   552            30            20          133         -1        //Bloody Witch Queen
+   552            30            26          146         -1        //Bloody Witch Queen
+   552            30            39          148         -1        //Bloody Witch Queen
+   552            30            51          123         -1        //Bloody Witch Queen
+   552            30            35          107         -1        //Bloody Witch Queen
+   552            30            36          93          -1        //Bloody Witch Queen
+   552            30            37          77          -1        //Bloody Witch Queen
+   551            30            25          61          -1        //Bloody Golem
+   551            30            25          49          -1        //Bloody Golem
+   551            30            51          48          -1        //Bloody Golem
+   551            30            51          60          -1        //Bloody Golem
+   550            30            26          54          -1        //Bloody Death Rider
+   550            30            53          53          -1        //Bloody Death Rider
+   552            30            46          54          -1        //Bloody Witch Queen
+   552            30            31          53          -1        //Bloody Witch Queen
+   306            30            204         172         -1        //Death Rider
+   306            30            90          203         -1        //Death Rider3
+   305            30            117         73          -1        //Blue Golem
+   305            30            114         101         -1        //Blue Golem
+   305            30            86          155         -1        //Blue Golem
+   305            30            230         132         -1        //Blue Golem
+   551            30            199         207         -1        //Bloody Golem
+   551            30            218         232         -1        //Bloody Golem
+   551            30            236         232         -1        //Bloody Golem
+   551            30            160         232         -1        //Bloody Golem
+   551            30            39          222         -1        //Bloody Golem
+   306            30            188         27          -1        //Death Rider
+   306            30            228         60          -1        //Death Rider
+   304            30            88          73          -1        //Witch Queen
+end

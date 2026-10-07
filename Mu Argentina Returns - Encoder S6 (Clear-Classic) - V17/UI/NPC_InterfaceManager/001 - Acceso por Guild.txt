@@ -1,0 +1,30 @@
+//--------------------------
+//	Lang	Nombre del NPC
+//--------------------------
+0
+	-1		"NPC Guild"
+end
+
+//--------------------------
+//	English
+//	Index	Color	Texto
+//--------------------------
+1
+//History
+	0	1	"Solo un selecto grupo de Guerreros"
+	1	1	"pueden ingresar a donde tu quires."
+	2	4	"Dejame ver tu emblema"
+	3	4	"para estar seguro de que eres digno..."
+//Requeriments
+	6	5	"- GUILD -"	
+//Buttons
+	10	1	"Llevame!"
+end
+
+//--------------------------
+// Colores de la UI
+//--------------------------
+4
+	1	3
+	2	3
+end

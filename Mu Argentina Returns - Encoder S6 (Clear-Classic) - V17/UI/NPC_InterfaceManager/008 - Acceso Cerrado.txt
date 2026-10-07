@@ -1,0 +1,32 @@
+//--------------------------
+//	Lang	Nombre del NPC
+//--------------------------
+0
+	-1		"NPC Desactivado"
+end
+
+//--------------------------
+//	English
+//	Index	Color	Texto
+//--------------------------
+1
+//History
+	0	1	"Proximamente podras"
+	1	1	"ir a un lugar lleno de desafios."
+	2	0	""
+	3	1	"Vuelve mas tarde y veremos"
+	4	1	"si ya estas listo para ir..."
+	5	4	"¡Espero estes preparado!"
+//Buttons
+	10	1	"Volvere..."
+end
+
+//--------------------------
+// Colores de la UI
+//--------------------------
+4
+	1	3
+	2	3
+	3	3
+	4	3
+end

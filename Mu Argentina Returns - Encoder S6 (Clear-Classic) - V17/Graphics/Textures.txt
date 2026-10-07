@@ -1,0 +1,8 @@
+//MSPRO//
+//Importante - 533150, textura base de ahi sumar correlatividad//
+//Archivos puden usar jpg -> ozj / tga -> ozt
+//==========================================================================
+//IDTextura RunneEffect			Ruta
+0
+//	533150						"Custom\Textures\mspro.jpg"
+end

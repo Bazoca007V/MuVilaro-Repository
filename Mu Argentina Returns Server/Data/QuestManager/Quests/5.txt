@@ -1,0 +1,153 @@
+//-----------------------------
+// Quest 5
+// Name: NewbieMG
+//-----------------------------
+//-----------------------------
+// Informacion Basica
+//-----------------------------
+0
+// (1) 			-> Modo de Finalización (-1: Cualquiera / 0: Solo Menu Lateral / 1: Solo en el NPC)
+// (2)			-> Cantidad de Usos por Ciclo (-1: Sin contar: 1 - 9999) - El Ciclo empieza a contar una vez Terminada la Quest por Primera Vez
+// (3)			-> Horas de Reseteo del Ciclo (Cada cuantas horas permite volver a usar) / -1 Sin resetear contador
+// (4 ~ 5) 		-> Min ~ Max Level
+// (6 ~ 7) 		-> Min ~ Max Resets
+// (8 ~ 9) 		-> Min ~ Max Master Resets
+// (10 ~ 11) 	-> Min ~ Max Account Level
+//---------------------------------------------
+//---------------------------------------------------------------------------------------------------------------------------------------------------
+//	(1)		(2)		(3)	   (4)		(5)		(6)		(7)		(8)		(9)		(10)	(11)	DK		DW		ELF		MG		DL		SUM		RF
+//---------------------------------------------------------------------------------------------------------------------------------------------------
+	-1		1		-1		0		400		-1		-1		-1		-1		-1		-1		0		0		1		0		0		0		0
+end
+
+
+//-------------------------------------
+// Quest Requisitos
+//-------------------------------------
+1
+// (1) 			-> Type (0: Zen, 1: Monster, 2: Coins, 3: Item)
+//-------------------------------------
+// Type 0 (Zen)
+// (2) 			-> Zen Amount
+//-------------------------------------
+// Type 1 (Monsters)
+// (2) 			-> Monster Index
+// (3) 			-> Count
+//-------------------------------------
+// Type 2 (Coins)
+// (2) 			-> W Coin(C)
+// (3) 			-> W Coin(P)
+// (4) 			-> Goblin Coins
+//-------------------------------------
+// Type 3 (Items)
+// (2) 			-> Item Type
+// (3) 			-> Item Index
+// (4) 			-> Class (-1: ALL / 0 to 6 DW, DK, ELF, MG, DL, SUM, RF)
+// (5) 			-> Count
+// (6) 			-> Level (-1 Off / 0 to 15)
+// (7) 			-> Durability (-1 Off / 0 to 255)
+// (8) 			-> Skill (-1 Off / 0: No / 1: Yes)
+// (9) 			-> Luck 
+// (10) 		-> Life Options
+// (11) 		-> Excellent Options
+//-------------------------------------
+// Type 4 (Event Win)
+// (2) 			-> Event Index (0: BC / 1: DS / 2: CC / 3: IT / 4: Doppelganger / 5: Imperial / 6: Crywolf / 7: Kanturu)
+// (3) 			-> Event Level (Only EventIndex 0 to 3 / 4 to 7 use 0)
+// (4) 			-> Win Count
+//-------------------------------------
+// Type 5 (NPC Talk)
+// (2) 			-> NPC Monster Index
+//------------------------------------------------------------------------------------------------------------------------------
+//	(1)		(2)		(3)		(4)		(5)		(6)		(7)		(8)		(9)		(10)	(11)
+//------------------------------------------------------------------------------------------------------------------------------
+	//Monsters
+	1		0		10
+	1		2		15
+	1		4       10
+end
+//-----------------------------
+// Quest Rewards
+//-----------------------------
+// (1) -> Type (0: Zen, 1: LevelPoints, 2: Coins, 3: Item, 4: Experience, 5: Buffs, 6: Ruuds)
+//-------------------------------------
+// Type 0 (Zen)
+// (2) 			-> Zen Amount
+//-------------------------------------
+// Type 1 (LevelPoints)
+// (2) 			-> Point Type (0: Normal - 1: Master)
+// (3) 			-> Points Amout
+//-------------------------------------
+// Type 2 (Coins)
+// (2) 			-> W Coin(C)
+// (3) 			-> W Coin(P)
+// (4) 			-> Goblin Coins
+//-------------------------------------
+// Type 3 (Items)
+// (2) 			-> Item Type
+// (3) 			-> Item Index
+// (4) 			-> Class (-1: ALL / 0 to 6 DK,DW, ELF, MG, DL, SUM, RF)
+// (5) 			-> Count
+// (6) 			-> Level
+// (7) 			-> Durability
+// (8) 			-> Skill
+// (9) 			-> Luck
+// (10) 		-> Life Options
+// (11) 		-> Excellent Options
+// (12) 		-> Ancient Options
+// (13) 		-> Harmony Options
+// (14) 		-> 380
+// (15 ~ 19)	-> Socket 1 ~ 5
+// (20) 		-> Tiempo
+//-------------------------------------
+// Type 4 (Experiencia)
+// (3) 			-> Cantidad de Experiencia
+//-------------------------------------
+// Type 5 (Buffs)
+// (2) 			-> Buff Index
+// (3) 			-> Value 1
+// (4) 			-> Value 2
+// (5) 			-> Tiempo (min)
+//-------------------------------------
+// Type 6 Ruud
+// (2) 			-> Cantidad de Ruud
+//-------------------------------------
+// Type 7 ItemBag
+// (2) 			-> ItemBag
+// (3)			-> Cantidad
+//-------------------------------------
+// Type 8 VIP
+// (2) 			-> Type (0: Add Days to same Level / 1: Upgrade any VIP (If current level is low OR if account is Free) / 2: Add Days Only!)
+// (3)			-> VIP Level
+// (4)			-> Days
+//-------------------------------------
+// Type 9 Flags
+// (2) 			-> Flag Index
+// (3)			-> Minutes
+//-------------------------------------
+// Type 10 (Items + GremoryCase)
+// (2) 			-> Item Type
+// (3) 			-> Item Index
+// (4) 			-> Class (-1: ALL / 0 to 6 DK,DW, ELF, MG, DL, SUM, RF)
+// (5) 			-> Count
+// (6) 			-> Level
+// (7) 			-> Durability
+// (8) 			-> Skill
+// (9) 			-> Luck
+// (10) 		-> Life Options
+// (11) 		-> Excellent Options
+// (12) 		-> Ancient Options
+// (13) 		-> Harmony Options
+// (14) 		-> 380
+// (15 ~ 19)    -> Socket 1 ~ 5
+// (20)	        -> Tiempo
+// (21) 		-> Gremory Mode (0 - Account - 1 Character) 
+//---------------------------------------------------------------------------------------------------------------------------------------------------
+//	(1)		(2)		(3)		(4)		(5)		(6)		(7)		(8)		(9)		(10)	(11)	(12)	(13)	(14)	(15 ~ 19)				(20) (21)
+//---------------------------------------------------------------------------------------------------------------------------------------------------
+2
+	//Zen
+	0		500000
+	//Items
+	3		12		133      -1		1       0     	 0	 	0	 	0		 0		 0		0		0		0	-1	-1	-1	-1	-1	360
+end

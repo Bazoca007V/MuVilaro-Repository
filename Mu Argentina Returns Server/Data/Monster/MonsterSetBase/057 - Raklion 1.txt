@@ -1,0 +1,173 @@
+//----------------------------------------------------------------------------------------------------------------
+//->>  MSPro - MuServerPro Team - Desarrollos de MUOnline
+//->>  Web: wwww.muserverpro.com
+//->>  FB: mspromu
+//->>  © 2020 - 2022 MuServerPro Team
+//----------------------------------------------------------------------------------------------------------------
+
+//==============
+// [INFO]
+//==============
+//     TYPE INDEX : 0 - NPC // 1 - SPOTS  // 2 - MONSTER INDIVIDUAL //  4 - EVENTS
+
+0
+//------
+// NPCS
+//---------------------------------------------------------------
+//                [0~30]        [1~255]     [1~255]     [-1/0~8]
+// MonsterIndex   SpawnRadius   LocationX   LocationY   Direction
+//---------------------------------------------------------------
+
+end
+
+1
+//-------
+// SPOTS
+//-----------------------------------------------------------------------------------------------------------
+//                [0~30]        [1~255]       [1~255]       [1~255]     [1~255]     [-1/0~8]    [1~1000]
+// MonsterIndex   SpawnRadius   RangeStartX   RangeStartY   RangeEndX   RangeEndY   Direction   MaxSpawnCount
+//-----------------------------------------------------------------------------------------------------------
+   454            4             181           202           181         202         -1          8              //Ice Walker
+   455            4             171           210           171         210         -1          8              //Giant Mammoth
+   456            4             165           184           165         184         -1          8              //Ice Giant
+   457            4             115           171           115         171         -1          8              //Coolutin
+   458            4             123           143           123         143         -1          8              //Iron Knight
+   457            4             109           104           109         104         -1          8              //Coolutin
+   456            4             161           112           161         112         -1          8              //Ice Giant
+   455            4             208           105           208         105         -1          8              //Giant Mammoth
+   458            4             210           042           210         042         -1          8              //Iron Knight
+   458            4             105           182           105         182         -1          8              //Iron Knight
+   456            4             163           082           163         082         -1          8              //Ice Giant
+   456            4             162           077           162         077         -1          8              //Ice Giant
+   458            4             148           145           148         148         -1          8              //Iron Knight
+end
+
+
+2
+//---------------------
+// INDIVIDUAL MONSTERS
+//---------------------------------------------------------------
+//                [0~30]        [1~255]     [1~255]     [-1/0~8]
+// MonsterIndex   SpawnRadius   LocationX   LocationY   Direction
+//---------------------------------------------------------------
+   454            30            203         204         -1            //Ice Walker
+   454            30            196         203         -1            //Ice Walker
+   454            30            188         203         -1            //Ice Walker
+   454            30            179         204         -1            //Ice Walker
+   455            30            171         207         -1            //Giant Mammoth
+   455            30            174         214         -1            //Giant Mammoth
+   455            30            164         212         -1            //Giant Mammoth
+   456            30            168         217         -1            //Ice Giant
+   456            30            157         217         -1            //Ice Giant
+   456            30            153         210         -1            //Ice Giant
+   456            30            172         188         -1            //Ice Giant
+   456            30            166         187         -1            //Ice Giant
+   456            30            162         182         -1            //Ice Giant
+   457            30            149         197         -1            //Coolutin
+   457            30            153         194         -1            //Coolutin
+   457            30            143         214         -1            //Coolutin
+   458            30            120         181         -1            //Iron Knight
+   458            30            134         184         -1            //Iron Knight
+   458            30            111         219         -1            //Iron Knight
+   458            30            101         217         -1            //Iron Knight
+   458            30            090         213         -1            //Iron Knight
+   458            30            098         178         -1            //Iron Knight
+   458            30            123         142         -1            //Iron Knight
+   458            30            143         135         -1            //Iron Knight
+   458            30            144         107         -1            //Iron Knight
+   458            30            127         099         -1            //Iron Knight
+   458            30            161         135         -1            //Iron Knight
+   458            30            191         144         -1            //Iron Knight
+   458            30            189         102         -1            //Iron Knight
+   458            30            196         104         -1            //Iron Knight
+   458            30            220         092         -1            //Iron Knight
+   458            30            233         113         -1            //Iron Knight
+   458            30            232         140         -1            //Iron Knight
+   458            30            222         081         -1            //Iron Knight
+   458            30            203         028         -1            //Iron Knight
+   458            30            211         033         -1            //Iron Knight
+   458            30            215         042         -1            //Iron Knight
+   458            30            203         049         -1            //Iron Knight
+   457            30            207         026         -1            //Coolutin
+   457            30            210         039         -1            //Coolutin
+   457            30            225         089         -1            //Coolutin
+   457            30            212         095         -1            //Coolutin
+   457            30            196         120         -1            //Coolutin
+   457            30            185         140         -1            //Coolutin
+   457            30            133         099         -1            //Coolutin
+   457            30            130         135         -1            //Coolutin
+   456            30            192         110         -1            //Ice Giant
+   456            30            197         132         -1            //Ice Giant
+   456            30            202         149         -1            //Ice Giant
+   456            30            152         136         -1            //Ice Giant
+   456            30            136         137         -1            //Ice Giant
+   456            30            136         106         -1            //Ice Giant
+   456            30            116         148         -1            //Ice Giant
+   456            30            095         195         -1            //Ice Giant
+   455            30            142         126         -1            //Giant Mammoth
+   455            30            223         150         -1            //Giant Mammoth
+   454            30            204         104         -1            //Ice Walker
+   454            30            154         129         -1            //Ice Walker
+   454            30            141         113         -1            //Ice Walker
+   562            30            114         101         -1            //Dark Mammoth
+   562            30            105         107         -1            //Dark Mammoth
+   562            30            102         109         -1            //Dark Mammoth
+   562            30            109         101         -1            //Dark Mammoth
+   562            30            092         117         -1            //Dark Mammoth
+   562            30            087         116         -1            //Dark Mammoth
+   563            30            033         095         -1            //Dark Giant
+   563            30            034         079         -1            //Dark Giant
+   563            30            037         088         -1            //Dark Giant
+   563            30            058         156         -1            //Dark Giant
+   563            30            065         143         -1            //Dark Giant
+   563            30            038         145         -1            //Dark Giant
+   563            30            070         101         -1            //Dark Giant
+   563            30            062         088         -1            //Dark Giant
+   563            30            073         087         -1            //Dark Giant
+   563            30            033         220         -1            //Dark Giant
+   563            30            047         195         -1            //Dark Giant
+   563            30            098         031         -1            //Dark Giant
+   563            30            123         045         -1            //Dark Giant
+   563            30            140         023         -1            //Dark Giant
+   563            30            039         148         -1            //Dark Giant
+   563            30            068         139         -1            //Dark Giant
+   563            30            057         159         -1            //Dark Giant
+   563            30            032         089         -1            //Dark Giant
+   564            30            123         040         -1            //Dark Coolutin
+   564            30            117         042         -1            //Dark Coolutin
+   564            30            037         222         -1            //Dark Coolutin
+   564            30            052         199         -1            //Dark Coolutin
+   564            30            034         146         -1            //Dark Coolutin
+   564            30            063         159         -1            //Dark Coolutin
+   564            30            062         135         -1            //Dark Coolutin
+   564            30            060         093         -1            //Dark Coolutin
+   564            30            033         115         -1            //Dark Coolutin
+   564            30            059         036         -1            //Dark Coolutin
+   564            30            064         032         -1            //Dark Coolutin
+   565            30            127         043         -1            //Dark Iron Knight
+   565            30            140         032         -1            //Dark Iron Knight
+   565            30            135         029         -1            //Dark Iron Knight
+   565            30            101         023         -1            //Dark Iron Knight
+   565            30            093         026         -1            //Dark Iron Knight
+   565            30            064         039         -1            //Dark Iron Knight
+   565            30            091         031         -1            //Dark Iron Knight
+   565            30            070         095         -1            //Dark Iron Knight
+   565            30            034         121         -1            //Dark Iron Knight
+   565            30            030         119         -1            //Dark Iron Knight
+   565            30            033         224         -1            //Dark Iron Knight
+   565            30            052         191         -1            //Dark Iron Knight
+   563            30            038         227         -1            //Dark Giant
+   563            30            026         216         -1            //Dark Giant
+   563            30            049         219         -1            //Dark Giant
+   563            30            029         195         -1            //Dark Giant
+   563            30            071         120         -1            //Dark Giant
+   563            30            037         133         -1            //Dark Giant
+   564            30            035         068         -1            //Dark Coolutin
+   564            30            046         047         -1            //Dark Coolutin
+   564            30            107         037         -1            //Dark Coolutin
+   564            30            028         199         -1            //Dark Coolutin
+   565            30            032         195         -1            //Dark Iron Knight
+   565            30            031         051         -1            //Dark Iron Knight
+   565            30            037         046         -1            //Dark Iron Knight
+   565            30            066         137         -1            //Dark Iron Knight
+end

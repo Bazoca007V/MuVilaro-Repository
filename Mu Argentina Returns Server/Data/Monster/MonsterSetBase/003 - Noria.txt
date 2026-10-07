@@ -1,0 +1,103 @@
+//----------------------------------------------------------------------------------------------------------------
+//->>  MSPro - MuServerPro Team - Desarrollos de MUOnline
+//->>  Web: wwww.muserverpro.com
+//->>  FB: mspromu
+//->>  © 2020 - 2022 MuServerPro Team
+//----------------------------------------------------------------------------------------------------------------
+
+//==============
+// [INFO]
+//==============
+//    TYPE INDEX : NPC 0  // SPOTS 1  // MONSTER INDIVIDUAL 2 
+
+0
+//------
+// NPCS
+//---------------------------------------------------------------
+//                [0~30]        [1~255]     [1~255]     [-1/0~8]
+// MonsterIndex   SpawnRadius   LocationX   LocationY   Direction
+//---------------------------------------------------------------
+   237            00            171         105         03          //Charon
+   242            00            173         125         01          //Elf Lala
+   243            00            195         124         02          //Eo the Craftsman
+   240            00            172         96          03          //Safety Guardian
+   238            00            180         103         01          //Chaos Goblin
+   257            00            167         118         01          //Shadow Phantom Soldier
+   450            00            179         126         01          //Cherry Blossom Spirit
+   451            00            179         129         03          //Cherry Blossom Tree
+   257            00            166         085         02          //Shadow Phantom Soldier
+   257            00            201         129         02          //Shadow Phantom Soldier
+   544            00            167         100         02          //Gens Vanert Steward
+   871			  00		    196 		113			02			//Captian Slough
+end
+
+1
+//-------
+// SPOTS
+//-----------------------------------------------------------------------------------------------------------
+//                [0~30]        [1~255]       [1~255]       [1~255]     [1~255]     [-1/0~8]    [1~1000]
+// MonsterIndex   SpawnRadius   RangeStartX   RangeStartY   RangeEndX   RangeEndY   Direction   MaxSpawnCount
+//-----------------------------------------------------------------------------------------------------------
+end
+
+2
+//---------------------
+// INDIVIDUAL MONSTERS
+//---------------------------------------------------------------
+//                [0~30]        [1~255]     [1~255]     [-1/0~8]
+// MonsterIndex   SpawnRadius   LocationX   LocationY   Direction
+//---------------------------------------------------------------
+   26	          05	        151	        74			-1	        // Goblin
+   26	          05	        161	        70			-1	        // Goblin
+   26	          05	        153	        66			-1	        // Goblin
+   27	          05	        141	        79			-1	        // ChainScorpion
+   27	          05	        143	        66			-1	        // ChainScorpion
+   27	          05	        176	        63			-1	        // ChainScorpion
+   26	          05	        154	        128			-1	        // Goblin
+   26	          05	        151	        131			-1	        // Goblin
+   26	          05	        144	        113			-1	        // Goblin
+   26	          05	        155	        105			-1	        // Goblin
+   27	          05	        141	        110			-1	        // ChainScorpion
+   27	          05	        152	        106			-1	        // ChainScorpion
+   27	          05	        155	        130			-1	        // ChainScorpion
+   27	          05	        207	        150			-1	        // ChainScorpion
+   27	          05	        222	        148			-1	        // ChainScorpion
+   27	          05	        224	        137			-1	        // ChainScorpion
+   27	          05	        218	        134			-1	        // ChainScorpion
+   28	          05	        202	        155			-1	        // BeetleMonster
+   28	          05	        212	        157			-1	        // BeetleMonster
+   28	          05	        229	        141			-1	        // BeetleMonster
+   29	          05	        179	        163			-1	        // Hunter
+   29	          05	        164	        162			-1	        // Hunter
+   29	          05	        163	        147			-1	        // Hunter
+   29	          05	        137	        152			-1	        // Hunter
+   29	          05	        102	        123			-1	        // Hunter
+   29	          05	        118	        80			-1	        // Hunter
+   29	          05	        185	        56			-1	        // Hunter
+   29	          05	        227	        74			-1	        // Hunter
+   29	          05	        231	        58			-1	        // Hunter
+   29	          05	        204	        53			-1	        // Hunter
+   29	          05	        236	        153			-1	        // Hunter
+   29	          05	        218	        186			-1	        // Hunter
+   30	          05	        124	        111			-1	        // ForestMonster
+   30	          05	        104	        87			-1	        // ForestMonster
+   30	          05	        188	        64			-1	        // ForestMonster
+   30	          05	        120	        169			-1	        // ForestMonster
+   31	          05	        92	        112			-1	        // Agon
+   31	          05	        92	        84			-1	        // Agon
+   31	          05	        65	        72			-1	        // Agon
+   31	          05	        77	        137			-1	        // Agon
+   31	          05	        123	        195			-1	        // Agon
+   31	          05	        192	        204			-1	        // Agon
+   31	          05	        237	        174			-1	        // Agon
+   32	          05	        94	        146			-1	        // StoneGolem
+   32	          05	        175	        160			-1	        // StoneGolem
+   32	          05	        229	        80			-1	        // StoneGolem
+   32	          05	        90	        45			-1	        // StoneGolem
+   32	          05	        89	        143			-1	        // StoneGolem
+   32	          05	        111	        206			-1	        // StoneGolem
+   32	          05	        185	        193			-1	        // StoneGolem
+   32	          05	        179	        168			-1	        // StoneGolem
+   32	          05	        111	        137			-1	        // StoneGolem
+   32	          05	        115	        114			-1	        // StoneGolem
+end

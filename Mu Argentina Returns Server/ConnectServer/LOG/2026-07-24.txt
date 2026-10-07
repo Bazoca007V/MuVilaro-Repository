@@ -1,0 +1,8 @@
+21:59:56 [!] ---------- GameVersion is 1.00 ----------
+21:59:56 [SocketManager] Server started at port [44405]
+21:59:57 [ANTI-FLOOD] Settings loaded successfully
+21:59:57 [ServerList] ServerList loaded successfully
+21:59:57 [SQLServer] Status: OK
+22:01:23 [ServerList] JoinServer online
+22:01:55 [ServerList] GameServer online (GameServern) (1)
+22:02:12 [ServerList] GameServer online (GameServerCS) (19)

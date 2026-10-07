@@ -1,0 +1,16 @@
+//--------------------------------------------------------------------------------------------------------------------------
+// MSPro V10
+// File: Quest_ENG.txt
+// Version 1.0
+//--------------------------------------------------------------------------------------------------------------------------
+// 0 -> Index de la Quest
+// 1 -> Nombre (MAX 25 Caracteres)
+// 2 -> Descripción (MAX 200 Caracteres)
+//---------------------------------------------------------------------------------------------
+//	(0)		(1)								(2)
+//---------------------------------------------------------------------------------------------
+	0		"Quest de Prueba"				"Primera Quest de MSPro!"
+	1		"Quest de DK Pro"				"Segunda Quest de MSPro!"
+	2		"Quest de DW Pro"				"Tercera Quest de MSPro!"
+	3		"Prueba de Fuerza"				"Esta es una Prueba de Fuerza#Debes Eliminar a todos los Monstruos#para probar tu Valor de Guerrero#¡Preparate para una dura Misión!"
+end

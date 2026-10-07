@@ -1,0 +1,371 @@
+//----------------------------------------------------------------------------------------------------------------
+//->>  MSPro - MuServerPro Team - Desarrollos de MUOnline
+//->>  Web: wwww.muserverpro.com
+//->>  FB: mspromu
+//->>  © 2020 - 2022 MuServerPro Team
+//----------------------------------------------------------------------------------------------------------------
+
+//==============
+// [INFO]
+//==============
+//    TYPE INDEX : NPC 0  // SPOTS 1  // MONSTER INDIVIDUAL 2 
+
+0
+//------
+// NPCS
+//---------------------------------------------------------------
+//                [0~30]        [1~255]     [1~255]     [-1/0~8]
+// MonsterIndex   SpawnRadius   LocationX   LocationY   Direction
+//---------------------------------------------------------------
+end
+
+1
+//-----------------------------------------------------------------------------------------------------------
+//                [0~30]        [1~255]       [1~255]       [1~255]     [1~255]     [-1/0~8]    [1~1000]
+// MonsterIndex   SpawnRadius   RangeStartX   RangeStartY   RangeEndX   RangeEndY   Direction   MaxSpawnCount
+//-----------------------------------------------------------------------------------------------------------
+end
+
+2
+//---------------------------------------------------------------
+//                [0~30]        [1~255]     [1~255]     [-1/0~8]
+// MonsterIndex   SpawnRadius   LocationX   LocationY   Direction
+//---------------------------------------------------------------
+   048            05            236         177         -1            //Lizard King
+   051            05            212         096         -1            //Great Bahamut
+   045            05            021         041         -1            //Bahamut
+   045            05            023         033         -1            //Bahamut
+   045            05            031         031         -1            //Bahamut
+   045            05            039         023         -1            //Bahamut
+   045            05            041         011         -1            //Bahamut
+   045            05            021         048         -1            //Bahamut
+   045            05            047         041         -1            //Bahamut
+   045            05            039         063         -1            //Bahamut
+   045            05            072         042         -1            //Bahamut
+   045            05            023         056         -1            //Bahamut
+   045            05            023         064         -1            //Bahamut
+   045            05            035         070         -1            //Bahamut
+   045            05            029         075         -1            //Bahamut
+   045            05            062         021         -1            //Bahamut
+   045            05            078         019         -1            //Bahamut
+   045            05            067         036         -1            //Bahamut
+   045            05            024         086         -1            //Bahamut
+   045            05            048         057         -1            //Bahamut
+   045            05            045         070         -1            //Bahamut
+   045            05            019         125         -1            //Bahamut
+   045            05            049         008         -1            //Bahamut
+   045            05            046         020         -1            //Bahamut
+   045            05            039         035         -1            //Bahamut
+   045            05            037         050         -1            //Bahamut
+   045            05            020         075         -1            //Bahamut
+   045            05            063         044         -1            //Bahamut
+   045            05            068         052         -1            //Bahamut
+   045            05            049         064         -1            //Bahamut
+   045            05            029         052         -1            //Bahamut
+   046            05            046         021         -1            //Vepar
+   046            05            048         009         -1            //Vepar
+   046            05            050         065         -1            //Vepar
+   046            05            051         070         -1            //Vepar
+   046            05            080         033         -1            //Vepar
+   046            05            062         017         -1            //Vepar
+   046            05            061         011         -1            //Vepar
+   046            05            069         019         -1            //Vepar
+   046            05            075         015         -1            //Vepar
+   046            05            083         015         -1            //Vepar
+   046            05            084         021         -1            //Vepar
+   046            05            067         027         -1            //Vepar
+   046            05            059         034         -1            //Vepar
+   046            05            086         037         -1            //Vepar
+   046            05            078         044         -1            //Vepar
+   046            05            071         052         -1            //Vepar
+   046            05            065         059         -1            //Vepar
+   046            05            065         051         -1            //Vepar
+   046            05            055         044         -1            //Vepar
+   046            05            040         048         -1            //Vepar
+   046            05            031         053         -1            //Vepar
+   046            05            024         090         -1            //Vepar
+   046            05            021         100         -1            //Vepar
+   046            05            025         105         -1            //Vepar
+   046            05            030         110         -1            //Vepar
+   046            05            021         118         -1            //Vepar
+   046            05            038         117         -1            //Vepar
+   046            05            141         011         -1            //Vepar
+   046            05            127         017         -1            //Vepar
+   046            05            114         026         -1            //Vepar
+   046            05            107         018         -1            //Vepar
+   046            05            104         013         -1            //Vepar
+   046            05            115         012         -1            //Vepar
+   046            05            089         062         -1            //Vepar
+   046            05            075         076         -1            //Vepar
+   046            05            069         087         -1            //Vepar
+   046            05            050         093         -1            //Vepar
+   046            05            023         072         -1            //Vepar
+   046            05            078         023         -1            //Vepar
+   046            05            070         038         -1            //Vepar
+   046            05            055         025         -1            //Vepar
+   046            05            030         122         -1            //Vepar
+   046            05            017         126         -1            //Vepar
+   046            05            122         029         -1            //Vepar
+   046            05            108         040         -1            //Vepar
+   048            05            066         222         -1            //Lizard King
+   048            05            063         218         -1            //Lizard King
+   048            05            057         225         -1            //Lizard King
+   048            05            171         162         -1            //Lizard King
+   048            05            175         169         -1            //Lizard King
+   048            05            178         174         -1            //Lizard King
+   048            05            173         179         -1            //Lizard King
+   048            05            171         187         -1            //Lizard King
+   048            05            165         193         -1            //Lizard King
+   048            05            159         198         -1            //Lizard King
+   048            05            152         201         -1            //Lizard King
+   048            05            144         201         -1            //Lizard King
+   048            05            137         205         -1            //Lizard King
+   048            05            124         206         -1            //Lizard King
+   048            05            115         210         -1            //Lizard King
+   048            05            104         211         -1            //Lizard King
+   048            05            094         210         -1            //Lizard King
+   048            05            087         214         -1            //Lizard King
+   048            05            076         215         -1            //Lizard King
+   048            05            047         224         -1            //Lizard King
+   048            05            046         217         -1            //Lizard King
+   048            05            029         226         -1            //Lizard King
+   048            05            022         213         -1            //Lizard King
+   048            05            024         204         -1            //Lizard King
+   048            05            034         200         -1            //Lizard King
+   048            05            035         209         -1            //Lizard King
+   048            05            040         210         -1            //Lizard King
+   048            05            045         205         -1            //Lizard King
+   048            05            047         211         -1            //Lizard King
+   048            05            037         232         -1            //Lizard King
+   048            05            226         052         -1            //Lizard King
+   048            05            022         230         -1            //Lizard King
+   048            05            041         224         -1            //Lizard King
+   048            05            082         215         -1            //Lizard King
+   048            05            167         156         -1            //Lizard King
+   048            05            177         146         -1            //Lizard King
+   052            05            156         156         -1            //Silver Valkyrie
+   052            05            162         149         -1            //Silver Valkyrie
+   052            05            152         169         -1            //Silver Valkyrie
+   052            05            072         128         -1            //Silver Valkyrie
+   052            05            070         138         -1            //Silver Valkyrie
+   052            05            061         147         -1            //Silver Valkyrie
+   052            05            049         158         -1            //Silver Valkyrie
+   052            05            033         169         -1            //Silver Valkyrie
+   052            05            022         173         -1            //Silver Valkyrie
+   052            05            055         181         -1            //Silver Valkyrie
+   052            05            067         186         -1            //Silver Valkyrie
+   052            05            073         180         -1            //Silver Valkyrie
+   052            05            089         184         -1            //Silver Valkyrie
+   052            05            101         183         -1            //Silver Valkyrie
+   052            05            111         183         -1            //Silver Valkyrie
+   052            05            122         178         -1            //Silver Valkyrie
+   052            05            129         171         -1            //Silver Valkyrie
+   052            05            138         167         -1            //Silver Valkyrie
+   052            05            147         164         -1            //Silver Valkyrie
+   052            05            170         145         -1            //Silver Valkyrie
+   052            05            163         138         -1            //Silver Valkyrie
+   052            05            053         220         -1            //Silver Valkyrie
+   052            05            041         222         -1            //Silver Valkyrie
+   052            05            029         231         -1            //Silver Valkyrie
+   052            05            022         232         -1            //Silver Valkyrie
+   052            05            027         209         -1            //Silver Valkyrie
+   052            05            036         205         -1            //Silver Valkyrie
+   052            05            109         211         -1            //Silver Valkyrie
+   052            05            131         207         -1            //Silver Valkyrie
+   052            05            155         196         -1            //Silver Valkyrie
+   052            05            167         154         -1            //Silver Valkyrie
+   052            05            177         019         -1            //Silver Valkyrie
+   052            05            118         167         -1            //Silver Valkyrie
+   052            05            111         175         -1            //Silver Valkyrie
+   052            05            063         178         -1            //Silver Valkyrie
+   052            05            162         141         -1            //Silver Valkyrie
+   052            05            138         176         -1            //Silver Valkyrie
+   047            05            041         109         -1            //Valkyrie
+   047            05            049         100         -1            //Valkyrie
+   047            05            054         089         -1            //Valkyrie
+   047            05            062         087         -1            //Valkyrie
+   047            05            071         082         -1            //Valkyrie
+   047            05            079         070         -1            //Valkyrie
+   047            05            085         064         -1            //Valkyrie
+   047            05            094         060         -1            //Valkyrie
+   047            05            101         050         -1            //Valkyrie
+   047            05            106         048         -1            //Valkyrie
+   047            05            112         045         -1            //Valkyrie
+   047            05            109         038         -1            //Valkyrie
+   047            05            118         037         -1            //Valkyrie
+   047            05            122         029         -1            //Valkyrie
+   047            05            119         020         -1            //Valkyrie
+   047            05            124         014         -1            //Valkyrie
+   047            05            133         014         -1            //Valkyrie
+   047            05            150         014         -1            //Valkyrie
+   047            05            161         011         -1            //Valkyrie
+   047            05            166         016         -1            //Valkyrie
+   047            05            171         018         -1            //Valkyrie
+   047            05            182         014         -1            //Valkyrie
+   047            05            190         024         -1            //Valkyrie
+   047            05            196         027         -1            //Valkyrie
+   047            05            200         017         -1            //Valkyrie
+   047            05            208         009         -1            //Valkyrie
+   047            05            218         047         -1            //Valkyrie
+   047            05            222         014         -1            //Valkyrie
+   047            05            117         074         -1            //Valkyrie
+   047            05            139         061         -1            //Valkyrie
+   047            05            152         061         -1            //Valkyrie
+   047            05            172         055         -1            //Valkyrie
+   047            05            189         056         -1            //Valkyrie
+   047            05            226         046         -1            //Valkyrie
+   047            05            240         011         -1            //Valkyrie
+   047            05            227         016         -1            //Valkyrie
+   047            05            152         022         -1            //Valkyrie
+   047            05            142         015         -1            //Valkyrie
+   047            05            128         022         -1            //Valkyrie
+   047            05            116         009         -1            //Valkyrie
+   047            05            113         027         -1            //Valkyrie
+   047            05            033         108         -1            //Valkyrie
+   047            05            035         118         -1            //Valkyrie
+   051            05            228         016         -1            //Great Bahamut
+   051            05            237         017         -1            //Great Bahamut
+   051            05            237         026         -1            //Great Bahamut
+   051            05            238         040         -1            //Great Bahamut
+   051            05            235         048         -1            //Great Bahamut
+   051            05            251         051         -1            //Great Bahamut
+   051            05            206         055         -1            //Great Bahamut
+   051            05            200         049         -1            //Great Bahamut
+   051            05            193         052         -1            //Great Bahamut
+   051            05            184         052         -1            //Great Bahamut
+   051            05            178         058         -1            //Great Bahamut
+   051            05            170         061         -1            //Great Bahamut
+   051            05            156         059         -1            //Great Bahamut
+   051            05            144         063         -1            //Great Bahamut
+   051            05            133         061         -1            //Great Bahamut
+   051            05            133         070         -1            //Great Bahamut
+   051            05            125         078         -1            //Great Bahamut
+   051            05            118         085         -1            //Great Bahamut
+   051            05            124         090         -1            //Great Bahamut
+   051            05            116         098         -1            //Great Bahamut
+   051            05            106         101         -1            //Great Bahamut
+   051            05            099         108         -1            //Great Bahamut
+   051            05            091         115         -1            //Great Bahamut
+   051            05            081         123         -1            //Great Bahamut
+   051            05            126         167         -1            //Great Bahamut
+   051            05            111         174         -1            //Great Bahamut
+   051            05            090         177         -1            //Great Bahamut
+   051            05            076         180         -1            //Great Bahamut
+   051            05            062         178         -1            //Great Bahamut
+   051            05            042         178         -1            //Great Bahamut
+   051            05            027         161         -1            //Great Bahamut
+   051            05            042         152         -1            //Great Bahamut
+   051            05            019         159         -1            //Great Bahamut
+   051            05            062         140         -1            //Great Bahamut
+   051            05            070         133         -1            //Great Bahamut
+   051            05            168         054         -1            //Great Bahamut
+   051            05            007         052         -1            //Great Bahamut
+   051            05            225         045         -1            //Great Bahamut
+   051            05            207         009         -1            //Great Bahamut
+   051            05            154         069         -1            //Great Bahamut
+   051            05            111         082         -1            //Great Bahamut
+   051            05            081         116         -1            //Great Bahamut
+   051            05            072         125         -1            //Great Bahamut
+   051            05            122         066         -1            //Great Bahamut
+   049            05            019         230         -1            //Hydra
+   049            05            024         227         -1            //Hydra
+   051            05            219         056         -1            //Great Bahamut
+   051            05            215         065         -1            //Great Bahamut
+   051            05            232         055         -1            //Great Bahamut
+   051            05            231         064         -1            //Great Bahamut
+   051            05            238         071         -1            //Great Bahamut
+   051            05            229         074         -1            //Great Bahamut
+   051            05            217         075         -1            //Great Bahamut
+   051            05            225         081         -1            //Great Bahamut
+   051            05            215         086         -1            //Great Bahamut
+   051            05            223         089         -1            //Great Bahamut
+   051            05            218         101         -1            //Great Bahamut
+   051            05            232         095         -1            //Great Bahamut
+   052            05            223         070         -1            //Silver Valkyrie
+   052            05            211         059         -1            //Silver Valkyrie
+   052            05            232         086         -1            //Silver Valkyrie
+   052            05            208         104         -1            //Silver Valkyrie
+   052            05            235         106         -1            //Silver Valkyrie
+   052            05            224         108         -1            //Silver Valkyrie
+   048            05            219         124         -1            //Lizard King
+   051            05            225         117         -1            //Great Bahamut
+   048            05            227         123         -1            //Lizard King
+   048            05            219         133         -1            //Lizard King
+   048            05            226         134         -1            //Lizard King
+   052            05            224         142         -1            //Silver Valkyrie
+   048            05            226         154         -1            //Lizard King
+   048            05            221         150         -1            //Lizard King
+   048            05            220         168         -1            //Lizard King
+   048            05            232         166         -1            //Lizard King
+   048            05            231         176         -1            //Lizard King
+   048            05            217         197         -1            //Lizard King
+   048            05            215         182         -1            //Lizard King
+   049            05            211         192         -1            //Hydra
+   049            05            229         203         -1            //Hydra
+   052            05            208         183         -1            //Silver Valkyrie
+   052            05            215         174         -1            //Silver Valkyrie
+   048            05            222         190         -1            //Lizard King
+   048            05            229         190         -1            //Lizard King
+   052            05            230         181         -1            //Silver Valkyrie
+   052            05            226         161         -1            //Silver Valkyrie
+   052            05            208         198         -1            //Silver Valkyrie
+   048            05            232         206         -1            //Lizard King
+   048            05            231         196         -1            //Lizard King
+   048            05            223         202         -1            //Lizard King
+   048            05            224         184         -1            //Lizard King
+   048            05            230         171         -1            //Lizard King
+   048            05            221         158         -1            //Lizard King
+   048            05            233         124         -1            //Lizard King
+   048            05            232         102         -1            //Lizard King
+   052            05            200         103         -1            //Silver Valkyrie
+   052            05            192         101         -1            //Silver Valkyrie
+   052            05            179         092         -1            //Silver Valkyrie
+   052            05            187         094         -1            //Silver Valkyrie
+   052            05            177         101         -1            //Silver Valkyrie
+   052            05            166         117         -1            //Silver Valkyrie
+   052            05            159         112         -1            //Silver Valkyrie
+   052            05            156         122         -1            //Silver Valkyrie
+   052            05            173         109         -1            //Silver Valkyrie
+   052            05            167         107         -1            //Silver Valkyrie
+   052            05            150         120         -1            //Silver Valkyrie
+   052            05            142         125         -1            //Silver Valkyrie
+   051            05            136         129         -1            //Great Bahamut
+   052            05            129         130         -1            //Silver Valkyrie
+   052            05            117         130         -1            //Silver Valkyrie
+   052            05            121         135         -1            //Silver Valkyrie
+   052            05            144         109         -1            //Silver Valkyrie
+   052            05            122         144         -1            //Silver Valkyrie
+   052            05            112         137         -1            //Silver Valkyrie
+   052            05            101         147         -1            //Silver Valkyrie
+   052            05            097         142         -1            //Silver Valkyrie
+   052            05            144         132         -1            //Silver Valkyrie
+   052            05            093         136         -1            //Silver Valkyrie
+   052            05            090         148         -1            //Silver Valkyrie
+   052            05            124         125         -1            //Silver Valkyrie
+   052            05            087         132         -1            //Silver Valkyrie
+   052            05            086         140         -1            //Silver Valkyrie
+   052            05            078         145         -1            //Silver Valkyrie
+   052            05            079         136         -1            //Silver Valkyrie
+   052            05            067         147         -1            //Silver Valkyrie
+   052            05            071         140         -1            //Silver Valkyrie
+   052            05            105         137         -1            //Silver Valkyrie
+   051            05            083         155         -1            //Great Bahamut
+   052            05            081         164         -1            //Silver Valkyrie
+   052            05            070         168         -1            //Silver Valkyrie
+   052            05            076         174         -1            //Silver Valkyrie
+   052            05            085         185         -1            //Silver Valkyrie
+   052            05            087         175         -1            //Silver Valkyrie
+   051            05            065         187         -1            //Great Bahamut
+   051            05            064         159         -1            //Great Bahamut
+   051            05            186         099         -1            //Great Bahamut
+   051            05            185         090         -1            //Great Bahamut
+   051            05            147         114         -1            //Great Bahamut
+   051            05            084         170         -1            //Great Bahamut
+   048            05            015         234         -1            //Lizard King
+   048            05            020         237         -1            //Lizard King
+   048            05            034         237         -1            //Lizard King
+   048            05            047         231         -1            //Lizard King
+   048            05            054         232         -1            //Lizard King
+   048            05            020         218         -1            //Lizard King
+   048            05            034         176         -1            //Lizard King
+end

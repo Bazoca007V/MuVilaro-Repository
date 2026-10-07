@@ -1,0 +1,384 @@
+00:00:00 Skeleton King will invade us in 5 minutes
+00:00:12 [CDailyBonus::UpdateDoW] Day Changed!
+00:01:00 Skeleton King will invade us in 4 minutes
+00:02:00 Skeleton King will invade us in 3 minutes
+00:02:13 [EventTimeSync] Sync Timers
+00:03:00 Skeleton King will invade us in 2 minutes
+00:04:00 Skeleton King will invade us in 1 minutes
+00:05:00 [Invasion][Skeleton King](0) State changed to RUNNING
+00:05:00 Skeleton King invade us!
+00:10:00 Mensaje de Lorencia
+00:12:13 [EventTimeSync] Sync Timers
+00:15:00 Skeleton King withdraw his forces
+00:15:00 [Invasion][Skeleton King](0) Sync Start. Min Remain [230]
+00:15:00 [Invasion][Skeleton King](0) State changed to WAITING
+00:15:00 Mensaje de Lorencia
+00:15:00 Mensaje de Devias
+00:20:00 Mensaje de Lorencia
+00:20:00 www.muserverpro.com
+00:22:13 [EventTimeSync] Sync Timers
+00:25:00 Mensaje de Lorencia
+00:30:00 Mensaje de Lorencia
+00:32:13 [EventTimeSync] Sync Timers
+00:35:00 Mensaje de Lorencia
+00:40:00 Mensaje de Lorencia
+00:42:13 [EventTimeSync] Sync Timers
+00:45:00 Mensaje de Lorencia
+00:50:00 Mensaje de Lorencia
+00:50:00 [Invasion][White Wizard](3) State changed to RUNNING
+00:50:00 White Wizard invade us!
+00:52:13 [EventTimeSync] Sync Timers
+00:55:00 Mensaje de Lorencia
+01:00:00 White Wizard withdraw his forces
+01:00:00 [Invasion][White Wizard](3) Sync Start. Min Remain [230]
+01:00:00 [Invasion][White Wizard](3) State changed to WAITING
+01:00:00 [Invasion][Medusa](8) State changed to RUNNING
+01:00:00 Medusa Invasion!
+01:00:00 Mensaje de Lorencia
+01:00:00 Mensaje de Devias
+01:00:00 www.muserverpro.com
+01:02:14 [EventTimeSync] Sync Timers
+01:05:00 Mensaje de Noria
+01:05:00 Mensaje de Elbeland
+01:05:00 www.muserverpro.com
+01:10:00 Mensaje de Lorencia
+01:10:00 Medusa retired
+01:10:00 [Invasion][Medusa](8) Sync Start. Min Remain [230]
+01:10:00 [Invasion][Medusa](8) State changed to WAITING
+01:12:14 [EventTimeSync] Sync Timers
+01:15:01 Mensaje de Lorencia
+01:15:01 Mensaje de Devias
+01:20:00 Mensaje de Lorencia
+01:20:00 www.muserverpro.com
+01:22:14 [EventTimeSync] Sync Timers
+01:25:00 Mensaje de Lorencia
+01:30:00 Mensaje de Lorencia
+01:32:14 [EventTimeSync] Sync Timers
+01:35:01 Mensaje de Lorencia
+01:40:00 Mensaje de Lorencia
+01:42:14 [EventTimeSync] Sync Timers
+01:45:00 Mensaje de Lorencia
+01:50:00 Mensaje de Lorencia
+01:52:14 [EventTimeSync] Sync Timers
+01:55:00 Mensaje de Lorencia
+02:02:14 [EventTimeSync] Sync Timers
+02:05:00 [Invasion][Pouch - NewYear](4) State changed to RUNNING
+02:05:00 New Year Pounch Invasion!
+02:10:00 Mensaje de Lorencia
+02:10:00 Mensaje de Lorencia
+02:10:00 Mensaje de Devias
+02:10:00 www.muserverpro.com
+02:12:14 [EventTimeSync] Sync Timers
+02:15:00 Mensaje de Lorencia
+02:15:00 Mensaje de Devias
+02:15:00 Mensaje de Noria
+02:15:00 Mensaje de Elbeland
+02:15:00 www.muserverpro.com
+02:15:00 [Invasion][Pouch - NewYear](4) Sync Start. Min Remain [230]
+02:15:00 [Invasion][Pouch - NewYear](4) State changed to WAITING
+02:15:00 [Invasion][White Rabbits](5) State changed to RUNNING
+02:15:00 White Rabbit Invasion!
+02:15:00 [Invasion][Summer](6) State changed to RUNNING
+02:15:00 Summer Event Started!
+02:15:00 [Invasion][Navidad-Christmas](7) State changed to RUNNING
+02:15:00 Cursed Santa Event Started!
+02:20:01 Mensaje de Lorencia
+02:20:01 www.muserverpro.com
+02:22:14 [EventTimeSync] Sync Timers
+02:25:00 Mensaje de Lorencia
+02:25:00 [Invasion][White Rabbits](5) Sync Start. Min Remain [230]
+02:25:00 [Invasion][White Rabbits](5) State changed to WAITING
+02:25:00 [Invasion][Summer](6) Sync Start. Min Remain [230]
+02:25:00 [Invasion][Summer](6) State changed to WAITING
+02:25:00 Cursed Santa has retired
+02:25:00 [Invasion][Navidad-Christmas](7) Sync Start. Min Remain [230]
+02:25:00 [Invasion][Navidad-Christmas](7) State changed to WAITING
+02:30:00 Mensaje de Lorencia
+02:32:14 [EventTimeSync] Sync Timers
+02:35:00 Mensaje de Lorencia
+02:40:00 Mensaje de Lorencia
+02:42:14 [EventTimeSync] Sync Timers
+02:45:00 Mensaje de Lorencia
+02:50:00 Mensaje de Lorencia
+02:52:14 [EventTimeSync] Sync Timers
+02:55:00 Mensaje de Lorencia
+03:02:14 [EventTimeSync] Sync Timers
+03:10:00 Mensaje de Lorencia
+03:12:14 [EventTimeSync] Sync Timers
+03:15:00 Mensaje de Lorencia
+03:15:00 Mensaje de Devias
+03:20:00 Mensaje de Lorencia
+03:20:00 www.muserverpro.com
+03:20:00 Mensaje de Lorencia
+03:20:00 Mensaje de Devias
+03:20:00 www.muserverpro.com
+03:22:13 [EventTimeSync] Sync Timers
+03:25:01 Mensaje de Lorencia
+03:25:01 Mensaje de Noria
+03:25:01 Mensaje de Elbeland
+03:25:01 www.muserverpro.com
+03:30:01 Mensaje de Lorencia
+03:32:13 [EventTimeSync] Sync Timers
+03:35:00 Mensaje de Lorencia
+03:40:00 Mensaje de Lorencia
+03:42:13 [EventTimeSync] Sync Timers
+03:45:00 Mensaje de Lorencia
+03:50:00 Mensaje de Lorencia
+03:52:13 [EventTimeSync] Sync Timers
+03:55:01 Castle Deep Event will start in 5 minute(s)
+03:55:01 Mensaje de Lorencia
+04:00:00 Skeleton King will invade us in 5 minutes
+04:00:00 Castle Deep Event has started!
+04:01:00 Skeleton King will invade us in 4 minutes
+04:02:00 Skeleton King will invade us in 3 minutes
+04:02:16 [EventTimeSync] Sync Timers
+04:03:00 Skeleton King will invade us in 2 minutes
+04:04:00 Skeleton King will invade us in 1 minutes
+04:05:00 [Invasion][Skeleton King](0) State changed to RUNNING
+04:05:00 Skeleton King invade us!
+04:10:00 Mensaje de Lorencia
+04:12:16 [EventTimeSync] Sync Timers
+04:15:00 Skeleton King withdraw his forces
+04:15:00 [Invasion][Skeleton King](0) Sync Start. Min Remain [230]
+04:15:00 [Invasion][Skeleton King](0) State changed to WAITING
+04:15:00 [Invasion][Red Dragon](1) State changed to RUNNING
+04:15:00 Red Dragon invade us!
+04:15:00 Mensaje de Lorencia
+04:15:00 Mensaje de Devias
+04:20:00 Golden Dragon will invade us in 5 minutes
+04:20:00 Mensaje de Lorencia
+04:20:00 www.muserverpro.com
+04:21:00 Golden Dragon will invade us in 4 minutes
+04:22:00 Golden Dragon will invade us in 3 minutes
+04:22:16 [EventTimeSync] Sync Timers
+04:23:00 Golden Dragon will invade us in 2 minutes
+04:24:00 Golden Dragon will invade us in 1 minutes
+04:25:00 Red Dragon withdraw his forces
+04:25:00 [Invasion][Red Dragon](1) Sync Start. Min Remain [230]
+04:25:00 [Invasion][Red Dragon](1) State changed to WAITING
+04:25:00 [Invasion][Golden Invasion](2) State changed to RUNNING
+04:25:00 Golden Dragon withdraw his forces
+04:25:00 Mensaje de Lorencia
+04:30:00 Castle Deep Event is over!
+04:30:00 Mensaje de Lorencia
+04:30:00 Mensaje de Lorencia
+04:30:00 Mensaje de Devias
+04:30:00 www.muserverpro.com
+04:32:16 [EventTimeSync] Sync Timers
+04:35:00 Golden Dragon has retired
+04:35:00 [Invasion][Golden Invasion](2) Sync Start. Min Remain [230]
+04:35:00 [Invasion][Golden Invasion](2) State changed to WAITING
+04:35:00 Mensaje de Lorencia
+04:35:00 Mensaje de Noria
+04:35:00 Mensaje de Elbeland
+04:35:00 www.muserverpro.com
+04:40:01 Mensaje de Lorencia
+04:42:16 [EventTimeSync] Sync Timers
+04:45:00 Mensaje de Lorencia
+04:50:00 [Invasion][White Wizard](3) State changed to RUNNING
+04:50:00 White Wizard invade us!
+04:50:01 Mensaje de Lorencia
+04:52:16 [EventTimeSync] Sync Timers
+04:55:00 Mensaje de Lorencia
+05:00:00 White Wizard withdraw his forces
+05:00:00 [Invasion][White Wizard](3) Sync Start. Min Remain [230]
+05:00:00 [Invasion][White Wizard](3) State changed to WAITING
+05:00:00 [Invasion][Medusa](8) State changed to RUNNING
+05:00:00 Medusa Invasion!
+05:02:16 [EventTimeSync] Sync Timers
+05:10:00 Medusa retired
+05:10:00 [Invasion][Medusa](8) Sync Start. Min Remain [230]
+05:10:00 [Invasion][Medusa](8) State changed to WAITING
+05:10:01 Mensaje de Lorencia
+05:12:16 [EventTimeSync] Sync Timers
+05:15:01 Mensaje de Lorencia
+05:15:01 Mensaje de Devias
+05:20:00 Mensaje de Lorencia
+05:20:00 www.muserverpro.com
+05:22:16 [EventTimeSync] Sync Timers
+05:25:00 Mensaje de Lorencia
+05:30:00 Mensaje de Lorencia
+05:32:17 [EventTimeSync] Sync Timers
+05:35:00 Mensaje de Lorencia
+05:40:01 Mensaje de Lorencia
+05:40:01 Mensaje de Lorencia
+05:40:01 Mensaje de Devias
+05:40:01 www.muserverpro.com
+05:42:17 [EventTimeSync] Sync Timers
+05:45:00 Mensaje de Lorencia
+05:45:00 Mensaje de Noria
+05:45:00 Mensaje de Elbeland
+05:45:00 www.muserverpro.com
+05:50:01 Mensaje de Lorencia
+05:52:17 [EventTimeSync] Sync Timers
+05:55:00 Mensaje de Lorencia
+06:02:17 [EventTimeSync] Sync Timers
+06:05:00 [Invasion][Pouch - NewYear](4) State changed to RUNNING
+06:05:00 New Year Pounch Invasion!
+06:10:00 Mensaje de Lorencia
+06:12:17 [EventTimeSync] Sync Timers
+06:15:00 [Invasion][Pouch - NewYear](4) Sync Start. Min Remain [230]
+06:15:00 [Invasion][Pouch - NewYear](4) State changed to WAITING
+06:15:00 [Invasion][White Rabbits](5) State changed to RUNNING
+06:15:00 White Rabbit Invasion!
+06:15:00 [Invasion][Summer](6) State changed to RUNNING
+06:15:00 Summer Event Started!
+06:15:00 [Invasion][Navidad-Christmas](7) State changed to RUNNING
+06:15:00 Cursed Santa Event Started!
+06:15:00 Mensaje de Lorencia
+06:15:00 Mensaje de Devias
+06:20:01 Mensaje de Lorencia
+06:20:01 www.muserverpro.com
+06:22:17 [EventTimeSync] Sync Timers
+06:25:00 [Invasion][White Rabbits](5) Sync Start. Min Remain [230]
+06:25:00 [Invasion][White Rabbits](5) State changed to WAITING
+06:25:00 [Invasion][Summer](6) Sync Start. Min Remain [230]
+06:25:00 [Invasion][Summer](6) State changed to WAITING
+06:25:00 Cursed Santa has retired
+06:25:00 [Invasion][Navidad-Christmas](7) Sync Start. Min Remain [230]
+06:25:00 [Invasion][Navidad-Christmas](7) State changed to WAITING
+06:25:01 Mensaje de Lorencia
+06:30:00 Mensaje de Lorencia
+06:32:17 [EventTimeSync] Sync Timers
+06:35:00 Mensaje de Lorencia
+06:40:01 Mensaje de Lorencia
+06:42:17 [EventTimeSync] Sync Timers
+06:45:01 Mensaje de Lorencia
+06:50:00 Mensaje de Lorencia
+06:50:00 Mensaje de Lorencia
+06:50:00 Mensaje de Devias
+06:50:00 www.muserverpro.com
+06:52:17 [EventTimeSync] Sync Timers
+06:55:00 Mensaje de Lorencia
+06:55:00 Mensaje de Noria
+06:55:00 Mensaje de Elbeland
+06:55:00 www.muserverpro.com
+07:02:17 [EventTimeSync] Sync Timers
+07:10:00 Mensaje de Lorencia
+07:12:17 [EventTimeSync] Sync Timers
+07:15:01 Mensaje de Lorencia
+07:15:01 Mensaje de Devias
+07:20:00 Mensaje de Lorencia
+07:20:00 www.muserverpro.com
+07:22:17 [EventTimeSync] Sync Timers
+07:25:01 Mensaje de Lorencia
+07:30:00 Mensaje de Lorencia
+07:32:18 [EventTimeSync] Sync Timers
+07:35:00 Mensaje de Lorencia
+07:40:00 Mensaje de Lorencia
+07:42:18 [EventTimeSync] Sync Timers
+07:45:00 Mensaje de Lorencia
+07:50:00 Mensaje de Lorencia
+07:52:18 [EventTimeSync] Sync Timers
+07:55:00 Mensaje de Lorencia
+08:00:00 Skeleton King will invade us in 5 minutes
+08:01:00 Skeleton King will invade us in 4 minutes
+08:02:00 Skeleton King will invade us in 3 minutes
+08:02:18 [EventTimeSync] Sync Timers
+08:03:00 Skeleton King will invade us in 2 minutes
+08:04:00 Skeleton King will invade us in 1 minutes
+08:05:00 [Invasion][Skeleton King](0) State changed to RUNNING
+08:05:00 Skeleton King invade us!
+08:10:00 Mensaje de Lorencia
+08:12:18 [EventTimeSync] Sync Timers
+08:15:00 Skeleton King withdraw his forces
+08:15:00 [Invasion][Skeleton King](0) Sync Start. Min Remain [230]
+08:15:00 [Invasion][Skeleton King](0) State changed to WAITING
+08:15:00 [Invasion][Red Dragon](1) State changed to RUNNING
+08:15:00 Red Dragon invade us!
+08:15:00 Mensaje de Lorencia
+08:15:00 Mensaje de Devias
+08:20:00 Golden Dragon will invade us in 5 minutes
+08:20:00 Mensaje de Lorencia
+08:20:00 www.muserverpro.com
+08:21:00 Golden Dragon will invade us in 4 minutes
+08:22:00 Golden Dragon will invade us in 3 minutes
+08:22:18 [EventTimeSync] Sync Timers
+08:23:00 Golden Dragon will invade us in 2 minutes
+08:24:00 Golden Dragon will invade us in 1 minutes
+08:25:00 Red Dragon withdraw his forces
+08:25:00 [Invasion][Red Dragon](1) Sync Start. Min Remain [230]
+08:25:00 [Invasion][Red Dragon](1) State changed to WAITING
+08:25:00 [Invasion][Golden Invasion](2) State changed to RUNNING
+08:25:00 Golden Dragon withdraw his forces
+08:25:00 Mensaje de Lorencia
+08:30:00 Mensaje de Lorencia
+08:32:18 [EventTimeSync] Sync Timers
+08:35:00 Golden Dragon has retired
+08:35:00 [Invasion][Golden Invasion](2) Sync Start. Min Remain [230]
+08:35:00 [Invasion][Golden Invasion](2) State changed to WAITING
+08:35:01 Mensaje de Lorencia
+08:40:00 Mensaje de Lorencia
+08:42:18 [EventTimeSync] Sync Timers
+08:45:00 Mensaje de Lorencia
+08:50:00 Mensaje de Lorencia
+08:50:01 [Invasion][White Wizard](3) State changed to RUNNING
+08:50:01 White Wizard invade us!
+08:52:18 [EventTimeSync] Sync Timers
+08:55:00 Mensaje de Lorencia
+09:00:00 [Invasion][Medusa](8) State changed to RUNNING
+09:00:00 Medusa Invasion!
+09:00:01 White Wizard withdraw his forces
+09:00:01 [Invasion][White Wizard](3) Sync Start. Min Remain [229]
+09:00:01 [Invasion][White Wizard](3) State changed to WAITING
+09:02:18 [EventTimeSync] Sync Timers
+09:10:00 Medusa retired
+09:10:00 [Invasion][Medusa](8) Sync Start. Min Remain [230]
+09:10:00 [Invasion][Medusa](8) State changed to WAITING
+09:10:00 Mensaje de Lorencia
+09:12:18 [EventTimeSync] Sync Timers
+09:15:00 Mensaje de Lorencia
+09:15:00 Mensaje de Devias
+09:20:00 Mensaje de Lorencia
+09:20:00 www.muserverpro.com
+09:22:19 [EventTimeSync] Sync Timers
+09:25:00 Mensaje de Lorencia
+09:30:00 Mensaje de Lorencia
+09:32:19 [EventTimeSync] Sync Timers
+09:35:00 Mensaje de Lorencia
+09:40:00 Mensaje de Lorencia
+09:42:19 [EventTimeSync] Sync Timers
+09:45:00 Mensaje de Lorencia
+09:50:00 Mensaje de Lorencia
+09:52:19 [EventTimeSync] Sync Timers
+09:55:01 Mensaje de Lorencia
+10:02:19 [EventTimeSync] Sync Timers
+10:05:00 [Invasion][Pouch - NewYear](4) State changed to RUNNING
+10:05:00 New Year Pounch Invasion!
+10:10:00 Mensaje de Lorencia
+10:12:19 [EventTimeSync] Sync Timers
+10:15:00 [Invasion][Pouch - NewYear](4) Sync Start. Min Remain [230]
+10:15:00 [Invasion][Pouch - NewYear](4) State changed to WAITING
+10:15:00 [Invasion][White Rabbits](5) State changed to RUNNING
+10:15:00 White Rabbit Invasion!
+10:15:00 [Invasion][Summer](6) State changed to RUNNING
+10:15:00 Summer Event Started!
+10:15:00 [Invasion][Navidad-Christmas](7) State changed to RUNNING
+10:15:00 Cursed Santa Event Started!
+10:15:00 Mensaje de Lorencia
+10:15:00 Mensaje de Devias
+10:20:00 Mensaje de Lorencia
+10:20:00 www.muserverpro.com
+10:22:19 [EventTimeSync] Sync Timers
+10:25:00 [Invasion][White Rabbits](5) Sync Start. Min Remain [230]
+10:25:00 [Invasion][White Rabbits](5) State changed to WAITING
+10:25:00 [Invasion][Summer](6) Sync Start. Min Remain [230]
+10:25:00 [Invasion][Summer](6) State changed to WAITING
+10:25:00 Cursed Santa has retired
+10:25:00 [Invasion][Navidad-Christmas](7) Sync Start. Min Remain [230]
+10:25:00 [Invasion][Navidad-Christmas](7) State changed to WAITING
+10:25:00 Mensaje de Lorencia
+10:30:00 Mensaje de Lorencia
+10:32:19 [EventTimeSync] Sync Timers
+10:35:01 Mensaje de Lorencia
+10:40:01 Mensaje de Lorencia
+10:42:19 [EventTimeSync] Sync Timers
+10:45:00 Mensaje de Lorencia
+10:50:00 Mensaje de Lorencia
+10:52:19 [EventTimeSync] Sync Timers
+10:55:00 Mensaje de Lorencia
+11:02:19 [EventTimeSync] Sync Timers
+11:10:00 Mensaje de Lorencia
+11:12:19 [EventTimeSync] Sync Timers
+11:15:00 Mensaje de Lorencia
+11:15:00 Mensaje de Devias

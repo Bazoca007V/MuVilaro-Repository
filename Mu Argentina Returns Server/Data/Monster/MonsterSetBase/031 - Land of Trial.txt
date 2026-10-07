@@ -1,0 +1,241 @@
+//----------------------------------------------------------------------------------------------------------------
+//->>  MSPro - MuServerPro Team - Desarrollos de MUOnline
+//->>  Web: wwww.muserverpro.com
+//->>  FB: mspromu
+//->>  © 2020 - 2022 MuServerPro Team
+//----------------------------------------------------------------------------------------------------------------
+
+//==============
+// [INFO]
+//==============
+//     TYPE INDEX : 0 - NPC // 1 - SPOTS  // 2 - MONSTER INDIVIDUAL //  4 - EVENTS
+
+0
+//------
+// NPCS
+//---------------------------------------------------------------
+//                [0~30]        [1~255]     [1~255]     [-1/0~8]
+// MonsterIndex   SpawnRadius   LocationX   LocationY   Direction
+//---------------------------------------------------------------
+end
+
+1
+//-------
+// SPOTS
+//-----------------------------------------------------------------------------------------------------------
+//                [0~30]        [1~255]       [1~255]       [1~255]     [1~255]     [-1/0~8]    [1~1000]
+// MonsterIndex   SpawnRadius   RangeStartX   RangeStartY   RangeEndX   RangeEndY   Direction   MaxSpawnCount
+//-----------------------------------------------------------------------------------------------------------
+end
+
+2
+//---------------------
+// INDIVIDUAL MONSTERS
+//---------------------------------------------------------------
+//                [0~30]        [1~255]     [1~255]     [-1/0~8]
+// MonsterIndex   SpawnRadius   LocationX   LocationY   Direction
+//---------------------------------------------------------------
+   294            30            228         42          -1        //Ax Warrior
+   294            30            182         31          -1        //Ax Warrior
+   291            30            105         190         -1        //Fire Golem
+   294            30            185         15          -1        //Ax Warrior
+   294            30            193         12          -1        //Ax Warrior
+   292            30            98          175         -1        //Queen Bee
+   294            30            196         26          -1        //Ax Warrior
+   294            30            202         12          -1        //Ax Warrior
+   291            30            88          183         -1        //Fire Golem
+   294            30            214         14          -1        //Ax Warrior
+   294            30            202         20          -1        //Ax Warrior
+   294            30            206         28          -1        //Ax Warrior
+   290            30            212         22          -1        //Lizard Warrior
+   294            30            221         17          -1        //Ax Warrior
+   294            30            224         25          -1        //Ax Warrior
+   294            30            228         31          -1        //Ax Warrior
+   294            30            218         31          -1        //Ax Warrior
+   294            30            211         39          -1        //Ax Warrior
+   290            30            233         36          -1        //Lizard Warrior
+   294            30            235         45          -1        //Ax Warrior
+   292            30            224         147         -1        //Queen Bee
+   291            30            225         141         -1        //Fire Golem
+   293            30            225         132         -1        //Poison Golem
+   293            30            224         124         -1        //Poison Golem
+   293            30            218         110         -1        //Poison Golem
+   293            30            219         119         -1        //Poison Golem
+   293            30            227         116         -1        //Poison Golem
+   290            30            228         109         -1        //Lizard Warrior
+   293            30            230         102         -1        //Poison Golem
+   293            30            222         98          -1        //Poison Golem
+   294            30            223         54          -1        //Ax Warrior
+   290            30            204         61          -1        //Lizard Warrior
+   291            30            64          213         -1        //Fire Golem
+   291            30            48          207         -1        //Fire Golem
+   290            30            209         67          -1        //Lizard Warrior
+   290            30            218         65          -1        //Lizard Warrior
+   290            30            234         75          -1        //Lizard Warrior
+   290            30            234         66          -1        //Lizard Warrior
+   290            30            234         55          -1        //Lizard Warrior
+   291            30            18          173         -1        //Fire Golem
+   291            30            38          172         -1        //Fire Golem
+   291            30            28          185         -1        //Fire Golem
+   291            30            31          209         -1        //Fire Golem
+   291            30            40          231         -1        //Fire Golem
+   291            30            56          227         -1        //Fire Golem
+   291            30            81          221         -1        //Fire Golem
+   291            30            80          234         -1        //Fire Golem
+   290            30            231         95          -1        //Lizard Warrior
+   293            30            230         86          -1        //Poison Golem
+   290            30            222         87          -1        //Lizard Warrior
+   293            30            220         74          -1        //Poison Golem
+   290            30            226         63          -1        //Lizard Warrior
+   290            30            214         53          -1        //Lizard Warrior
+   290            30            223         39          -1        //Lizard Warrior
+   290            30            191         21          -1        //Lizard Warrior
+   292            30            37          222         -1        //Queen Bee
+   292            30            48          221         -1        //Queen Bee
+   292            30            72          232         -1        //Queen Bee
+   292            30            75          204         -1        //Queen Bee
+   292            30            27          174         -1        //Queen Bee
+   292            30            41          185         -1        //Queen Bee
+   291            30            52          188         -1        //Fire Golem
+   292            30            71          194         -1        //Queen Bee
+   292            30            92          225         -1        //Queen Bee
+   293            30            227         77          -1        //Poison Golem
+   292            30            97          200         -1        //Queen Bee
+   294            30            57          12          -1        //Ax Warrior
+   294            30            62          11          -1        //Ax Warrior
+   294            30            58          19          -1        //Ax Warrior
+   294            30            67          17          -1        //Ax Warrior
+   294            30            38          35          -1        //Ax Warrior
+   294            30            59          40          -1        //Ax Warrior
+   294            30            41          41          -1        //Ax Warrior
+   294            30            50          37          -1        //Ax Warrior
+   294            30            52          43          -1        //Ax Warrior
+   294            30            72          39          -1        //Ax Warrior
+   294            30            78          45          -1        //Ax Warrior
+   294            30            72          50          -1        //Ax Warrior
+   294            30            64          53          -1        //Ax Warrior
+   294            30            93          35          -1        //Ax Warrior
+   294            30            97          39          -1        //Ax Warrior
+   294            30            103         36          -1        //Ax Warrior
+   294            30            102         28          -1        //Ax Warrior
+   294            30            53          52          -1        //Ax Warrior
+   294            30            43          62          -1        //Ax Warrior
+   294            30            127         36          -1        //Ax Warrior
+   294            30            130         29          -1        //Ax Warrior
+   294            30            137         29          -1        //Ax Warrior
+   294            30            133         37          -1        //Ax Warrior
+   294            30            132         46          -1        //Ax Warrior
+   294            30            14          43          -1        //Ax Warrior
+   294            30            143         37          -1        //Ax Warrior
+   294            30            150         33          -1        //Ax Warrior
+   294            30            163         37          -1        //Ax Warrior
+   294            30            170         45          -1        //Ax Warrior
+   294            30            143         56          -1        //Ax Warrior
+   294            30            59          71          -1        //Ax Warrior
+   294            30            73          69          -1        //Ax Warrior
+   290            30            50          60          -1        //Lizard Warrior
+   290            30            54          65          -1        //Lizard Warrior
+   290            30            59          59          -1        //Lizard Warrior
+   290            30            82          74          -1        //Lizard Warrior
+   290            30            92          83          -1        //Lizard Warrior
+   290            30            94          92          -1        //Lizard Warrior
+   290            30            139         50          -1        //Lizard Warrior
+   290            30            157         34          -1        //Lizard Warrior
+   290            30            170         55          -1        //Lizard Warrior
+   290            30            172         62          -1        //Lizard Warrior
+   290            30            142         66          -1        //Lizard Warrior
+   290            30            153         59          -1        //Lizard Warrior
+   290            30            155         70          -1        //Lizard Warrior
+   290            30            162         61          -1        //Lizard Warrior
+   290            30            165         70          -1        //Lizard Warrior
+   290            30            170         74          -1        //Lizard Warrior
+   290            30            167         82          -1        //Lizard Warrior
+   290            30            156         89          -1        //Lizard Warrior
+   290            30            144         77          -1        //Lizard Warrior
+   290            30            87          77          -1        //Lizard Warrior
+   290            30            122         81          -1        //Lizard Warrior
+   293            30            63          134         -1        //Poison Golem
+   293            30            76          140         -1        //Poison Golem
+   293            30            70          149         -1        //Poison Golem
+   293            30            81          150         -1        //Poison Golem
+   293            30            58          124         -1        //Poison Golem
+   293            30            66          120         -1        //Poison Golem
+   293            30            71          113         -1        //Poison Golem
+   293            30            80          111         -1        //Poison Golem
+   293            30            114         88          -1        //Poison Golem
+   293            30            124         88          -1        //Poison Golem
+   293            30            131         79          -1        //Poison Golem
+   293            30            137         83          -1        //Poison Golem
+   293            30            155         79          -1        //Poison Golem
+   293            30            163         89          -1        //Poison Golem
+   293            30            180         86          -1        //Poison Golem
+   293            30            188         105         -1        //Poison Golem
+   293            30            188         99          -1        //Poison Golem
+   293            30            186         92          -1        //Poison Golem
+   292            30            187         159         -1        //Queen Bee
+   295            30            220         211         -1        //Erohim
+   291            30            222         221         -1        //Fire Golem
+   291            30            231         211         -1        //Fire Golem
+   291            30            208         217         -1        //Fire Golem
+   292            30            229         227         -1        //Queen Bee
+   292            30            182         177         -1        //Queen Bee
+   292            30            191         182         -1        //Queen Bee
+   292            30            196         173         -1        //Queen Bee
+   292            30            198         151         -1        //Queen Bee
+   292            30            183         140         -1        //Queen Bee
+   293            30            182         129         -1        //Poison Golem
+   292            30            175         127         -1        //Queen Bee
+   292            30            191         120         -1        //Queen Bee
+   293            30            189         138         -1        //Poison Golem
+   293            30            192         127         -1        //Poison Golem
+   293            30            180         117         -1        //Poison Golem
+   293            30            191         112         -1        //Poison Golem
+   293            30            166         122         -1        //Poison Golem
+   292            30            152         112         -1        //Queen Bee
+   292            30            146         126         -1        //Queen Bee
+   292            30            159         121         -1        //Queen Bee
+   293            30            151         121         -1        //Poison Golem
+   293            30            67          95          -1        //Poison Golem
+   290            30            69          103         -1        //Lizard Warrior
+   290            30            77          102         -1        //Lizard Warrior
+   290            30            67          85          -1        //Lizard Warrior
+   290            30            69          75          -1        //Lizard Warrior
+   290            30            70          65          -1        //Lizard Warrior
+   292            30            123         146         -1        //Queen Bee
+   292            30            133         145         -1        //Queen Bee
+   292            30            128         136         -1        //Queen Bee
+   292            30            138         133         -1        //Queen Bee
+   293            30            87          140         -1        //Poison Golem
+   292            30            95          138         -1        //Queen Bee
+   293            30            103         133         -1        //Poison Golem
+   293            30            111         138         -1        //Poison Golem
+   293            30            117         143         -1        //Poison Golem
+   292            30            120         132         -1        //Queen Bee
+   292            30            133         168         -1        //Queen Bee
+   292            30            141         182         -1        //Queen Bee
+   291            30            138         173         -1        //Fire Golem
+   292            30            144         169         -1        //Queen Bee
+   291            30            134         229         -1        //Fire Golem
+   291            30            155         227         -1        //Fire Golem
+   291            30            145         209         -1        //Fire Golem
+   291            30            144         198         -1        //Fire Golem
+   291            30            131         215         -1        //Fire Golem
+   291            30            120         225         -1        //Fire Golem
+   292            30            128         224         -1        //Queen Bee
+   292            30            141         221         -1        //Queen Bee
+   292            30            163         225         -1        //Queen Bee
+   292            30            155         218         -1        //Queen Bee
+   293            30            152         98          -1        //Poison Golem
+   293            30            150         106         -1        //Poison Golem
+   291            30            233         199         -1        //Fire Golem
+   292            30            223         204         -1        //Queen Bee
+   292            30            208         208         -1        //Queen Bee
+   291            30            197         204         -1        //Fire Golem
+   291            30            198         192         -1        //Fire Golem
+   291            30            187         175         -1        //Fire Golem
+   291            30            216         183         -1        //Fire Golem
+   292            30            227         180         -1        //Queen Bee
+   292            30            224         191         -1        //Queen Bee
+   291            30            193         167         -1        //Fire Golem
+   290            30            103         91          -1        //Lizard Warrior
+end

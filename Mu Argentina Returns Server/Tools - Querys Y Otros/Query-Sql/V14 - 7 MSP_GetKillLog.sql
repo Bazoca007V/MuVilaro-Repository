@@ -1,0 +1,23 @@
+USE [MuOnline]
+GO
+
+IF OBJECT_ID('MSP_GetKillLog', 'P') IS NOT NULL  
+   DROP PROCEDURE [dbo].[MSP_GetKillLog]
+GO  
+
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+CREATE PROCEDURE [dbo].[MSP_GetKillLog]
+	@Name varchar(10)
+AS
+BEGIN
+	SET NOCOUNT ON;
+	SELECT TOP 20 * FROM KillLog WHERE Name1 = @Name OR Name2 = @Name ORDER BY DateTime DESC
+END
+GO
+

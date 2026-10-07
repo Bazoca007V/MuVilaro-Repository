@@ -1,0 +1,1044 @@
+//-------------------------------------------------------------------------------------------------
+// MSPro Command Manager - www.muserverpro.com 27-03-2023 08:42:38
+//-------------------------------------------------------------------------------------------------
+// Funcionamiento: Agrega la opcion que esta en la (Lista de Valores) segun el Formato
+//---------------------
+// Si encuentra la opcion aplicara el valor que este colocado.
+//---------------------
+// (Lista de Valores)
+// Syntax 				-> Siempre debe ir el comando entre "" y con el / - Ej: "/post"
+// OnlyGameMaster		-> 0 Off - 1 On
+// OnlyGuildMaster		-> 0 Off - 1 On
+// Enable				-> 0 Off - 1 On					-> Normal, VIP1, VIP2, VIP3
+// Delay              	-> -1 Omite / Tiempo (Segundos)	-> Normal, VIP1, VIP2, VIP3
+// MinLevel				-> -1 Omite / Cantidad 			-> Normal, VIP1, VIP2, VIP3
+// MaxLevel            	-> -1 Omite / Cantidad 			-> Normal, VIP1, VIP2, VIP3
+// MinReset			 	-> -1 Omite / Cantidad 			-> Normal, VIP1, VIP2, VIP3
+// MaxReset            	-> -1 Omite / Cantidad 			-> Normal, VIP1, VIP2, VIP3
+// MinMasterReset		-> -1 Omite / Cantidad 			-> Normal, VIP1, VIP2, VIP3
+// MaxMasterReset      	-> -1 Omite / Cantidad 			-> Normal, VIP1, VIP2, VIP3
+// AllowPK             	-> -1 Omite / Cantidad 			-> Normal, VIP1, VIP2, VIP3
+// Money               	-> -1 Omite / Cantidad 			-> Normal, VIP1, VIP2, VIP3
+// WC					-> -1 Omite / 0 Off / 1 On 		-> Normal, VIP1, VIP2, VIP3
+// WP                  	-> -1 Omite / 0 Off / 1 On 		-> Normal, VIP1, VIP2, VIP3
+// GP                  	-> -1 Omite / 0 Off / 1 On 		-> Normal, VIP1, VIP2, VIP3
+// Ruud				 	-> -1 Omite / 0 Off / 1 On 		-> Normal, VIP1, VIP2, VIP3
+// ValueLimit			-> -1 Omite / 0 Off / 1 On 		-> Normal, VIP1, VIP2, VIP3 (Solo EVO)
+// AllowClass          	-> -1 Omite / 0 Off / 1 On 		-> DW, DK, FE, MG, DL, SU, RF
+// BG_RGB				-> Rojo, Verde, Azul, Transparencia (Solo Post)
+// Font_RGB            	-> Rojo, Verde, Azul, Transparencia (Solo Post)
+//-------------------------------------------------------------------------------------------------
+// Commands
+//-------------------------------------------------------------------------------------------------
+
+[MOVE]
+Syntax = "/move"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[POST]
+Syntax = "/post"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+BG_RGBA = 255,200,50,150
+Font_RGBA = 0,0,0,255
+SendAllServers = 1
+ShowServerName = 1
+
+[ADDSTR]
+Syntax = "/addstr"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[ADDAGI]
+Syntax = "/addagi"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[ADDVIT]
+Syntax = "/addvit"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[ADDENE]
+Syntax = "/addene"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[ADDCMD]
+Syntax = "/addcmd"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+AllowClass = 0,0,0,0,1,0,0
+
+[MONEY]
+//-----
+//Info - /money			<Value>						- Add Zen
+//-----
+Syntax = "/zen"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[PKCLEAR]
+Syntax = "/pkclear"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[READD]
+//-----
+//Info - /readd										- ReAdd Stats
+//-----
+Syntax = "/readd"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[READD_SKILLTREE]
+//-----
+//Info - /remaster									- ReAdd Master Skill Tree
+//-----
+Syntax = "/remaster"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[WARE]
+Syntax = "/ware"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+ValueLimit = 5,10,15,20
+
+[HELPER]
+//-----
+//Info - /help										- Summon Help Monster
+//-----
+Syntax = "/ayuda"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+MonsterID = 7
+MonsterCount = 4
+
+[GUILD_WAR]
+//-----
+//Info - /war				<Guild>					- Challenge another Guild
+//-----
+Syntax = "/guildwar"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[BATTLE_SOCCER]
+//-----
+//Info - /battlesoccer		<Guild>					- Challenge another Guild to Battle Soccer
+//-----
+Syntax = "/battlesoccer"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[HIDE]
+Syntax = "/hide"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[FIREWORKS]
+Syntax = "/fireworks"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[RESET]
+Syntax = "/reset"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+ResetAutoEnable = 0
+
+[MASTERRESET]
+Syntax = "/masterreset"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[CLEARINVENTORY]
+//-----
+//Info - /limpiarinv								- Clear Inventory
+//-----
+Syntax = "/limpiarinv"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[TRACKGUILD]
+Syntax = "/trackguild"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[SERVERINFO]
+Syntax = "/serverinfo"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[DISABLE_PVP]
+//-----
+//Info - /offpvp									- Disable PvP
+//-----
+Syntax = "/offpvp"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[JEWEL_PACK]
+//-----
+//Info - /pack				<Type> <Value>			- Command for Pack Jewels
+//-----
+Syntax = "/pack"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[JEWEL_UNPACK]
+//-----
+//Info - /unpack			<Type> <Value>			- Command for Unpack Jewels
+//-----
+Syntax = "/unpack"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[PICK]
+Syntax = "/pick"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[ATTACK]
+//-----
+//Info - /attack			<Skill> <Buff>			- Start Custom Attack
+//-----
+Syntax = "/attack"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[OFFATTACK]
+//-----
+//Info - /offattack								- Start Custom Attack Offline
+//-----
+Syntax = "/offattack"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[REQUEST]
+//-----
+//Info - /re				<On / Off / Auto>		- Resquest System
+//-----
+Syntax = "/re"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[QUEST]
+//-----
+//Info - /quest										- Quest Command
+//-----
+Syntax = "/quest"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[STORE]
+//-----
+//Info - /store			<Type>						- Open Custom Store
+//-----
+Syntax = "/store"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[OFFSTORE]
+//-----
+//Info - /offstore									- Open Custom Store Offline
+//-----
+Syntax = "/offstore"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[OFFHELPER]
+//-----
+//Info - /offhelper										- Start Custom Off Helper
+//-----
+Syntax = "/offhelper"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[OPENWARE]
+Syntax = "/openware"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[LOCK]
+//-----
+//Info - /lock				<Password>				- Block Itens Move
+//-----
+Syntax = "/lock"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[UNLOCK]
+//-----
+//Info - /unlock			<Password>				- Desbloc Itens Move
+//-----
+Syntax = "/unlock"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[EVO]
+Syntax = "/evo"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[EVENT_JOIN]
+// This is for RUN AND CATCH, EVENT RUSSIAN ROULETTE, EVENT KILL ALL
+//-----
+//Info - /join  									- Go to Run and Catch event
+//-----
+Syntax = "/eventjoin"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[RELOAD]
+//-----
+//Info - /reload			<Type>					- Reload Config
+//-----
+Syntax = "/reload"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[INFO]
+//-----
+//Info - /info				<Name>					- Character Status
+//-----
+Syntax = "/info"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[MAKE]
+//-----
+//Info - /make				<Group> <Item> <Level> <Skill> <Luck> <Option> <Exe> <Set> <Socket 1 to 5>
+//-----
+Syntax = "/make"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[MAKE_SET]
+//-----
+//Info - /makeset			<Item> <Level> <Skill> <Luck> <Option> <Exe> <Set> <Socket>
+//-----
+Syntax = "/makeset"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[DROP]
+//-----
+//Info - /drop				<Group> <Item> <Level> <Skill> <Luck> <Option> <Exe> <Set> <Socket>
+//-----
+Syntax = "/drop"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[SKIN]
+//-----
+//Info - /skin				<Name> <MonsterNumber>	- Change player Skin
+//-----
+Syntax = "/skin"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[TRACK]
+//-----
+//Info - /track			<Name>						- Go to Player
+//-----
+Syntax = "/track"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[TRACE]
+//-----
+//Info - /trace			<Name>						- Bring a Player to us
+//-----
+Syntax = "/trace"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[DISCONNECT]
+//-----
+//Info - /disconnect		<Name>					- Disconnect Player
+//-----
+Syntax = "/disconnect"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[GMMOVE]
+//-----
+//Info - /gmmove			<Name> <Map> <X> <Y>	- Move a Player
+//-----
+Syntax = "/gmmove"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[GMPOST]
+Syntax = "/gmpost"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[NOTICE]
+Syntax = "/notice"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[BAN_CHARACTER]
+//-----
+//Info - /banacc			<Account>				- Ban Account
+//-----
+Syntax = "/bancharacter"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[BAN_ACCOUNT]
+//-----
+//Info - /banchar			<Name>					- Ban Character
+//-----
+Syntax = "/banaccount"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[GIFT]
+//-----
+//Info - /gift										- Gift Command
+//-----
+Syntax = "/gift"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+MaxPerAccount = 1
+
+[MOVEALL]
+//-----
+//Info - /moveall			<Map> <X> <Y>			- Move all Players
+//-----
+Syntax = "/moveall"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[MOVEGUILD]
+//-----
+//Info - /moveguild		<Guild> <Map> <X> <Y>		- Move all Guild
+//-----
+Syntax = "/moveguild"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[SPOT]
+//-----
+//Info - /spot				<Monster> <Value>		- Summon monsters
+//-----
+Syntax = "/spot"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[CHANGECLASS]
+//-----
+//Info - /class			<Type>						- Change Character Class
+//-----
+Syntax = "/change"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[SET_MONEY]
+//-----
+//Info - /setmoney			<Name> <Value>			- Change player Zen
+//-----
+Syntax = "/setmoney"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[SET_VIP]
+//-----
+//Info - /setvip			<Account> <Type> <Days>	- Add VIP to Account
+//-----
+Syntax = "/setvip"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[SET_COIN]
+//-----
+//Info - /setcoin			<Char> <Coin> <Value>	- Command for Add or Remove Coins
+//-----
+Syntax = "/setcoin"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[SET_RUUD]
+Syntax = "/setruud"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[SET_LEVEL]
+Syntax = "/setlevel"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[MOVEGATE]
+Syntax = "/movegate"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[DROP_BAG]
+//-----
+//Info - /dropbag			<EventItemBag ID>		- Drop ItemBag
+//-----
+Syntax = "/dropbag"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[RENAME_CHARACTER]
+Syntax = "/rename"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+ValueLimit = 3600,3600,3600,3600
+NeedTicket = 0
+
+[REWARD_COINS]
+Syntax = "/rewardcoins"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[DROP_ZEN]
+Syntax = "/dropzen"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[MOD_ITEM]
+//-----
+//Info - /moditem <Pos 0 ~ 236> <Level> <Skill> <Luck> <Option> <Exe> <Set> <Socket>
+//-----
+Syntax = "/moditem"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[SET_STATS]
+//-----
+//Command to modify Stats - Example /setstats <Name> <Type 0~5> <+ - Amount>
+//-----
+Syntax = "/setstats"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[MOVEALL_WITHPARAMS]
+//-----
+//Command to Move Characters with Parameters (Do not move Command Executor)
+//Example /moveallp 2 25 30 * 0 * * * 100 <-move all DW bellow 100 Resets to Devias 25 30
+//Parameters <Map> <X> <Y> <Count> <Class> <LvlMin> <LvlMax> <RMin> <RMax> <MRMin> <MRMax> <PKLevel>
+//-----
+Syntax = "/moveallp"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[REWARD_COINSALL]
+Syntax = "/rewardcoinsall"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_BOTSTORE]
+Syntax = "/startbotstore"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_BC]
+//-----
+//Info - /startbc									- Start Blood Castle Event
+//-----
+Syntax = "/startbc"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_DS]
+//-----
+//Info - /startds									- Start Devil Square Event
+//-----
+Syntax = "/startds"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_CC]
+//-----
+//Info - /startcc									- Start Chaos Castle Event
+//-----
+Syntax = "/startcc"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_IT]
+//-----
+//Info - /startit									- Start Illusion Temple Event
+//-----
+Syntax = "/startit"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_QUIZ]
+//-----
+//Info - /startquiz									- Start Quiz Event
+//-----
+Syntax = "/startquiz"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_EVENT_DROP]
+//-----
+//Info - /startdrop									- Start Drop Event
+//-----
+Syntax = "/starteventdrop"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_KING_OF_MU]
+//-----
+//Info - /startking									- Start King of MU Event
+//-----
+Syntax = "/startking"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_TVT]
+//-----
+//Info - /starttvt									- Start Team vs Team Event
+//-----
+Syntax = "/starttvt"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_INVASION]
+//-----
+//Info - /startinvasion	<Index>						- Start Invasion
+//-----
+Syntax = "/startinvasion"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_CUSTOM_ARENA]
+//-----
+//Info - /startarena		<Index>					- Start Custom Arena
+//-----
+Syntax = "/startcustomarena"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_CASTLESIEGE]
+Syntax = "/startcastlesiege"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_RAKLION]
+Syntax = "/startraklion"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_NPCINVASION]
+Syntax = "/startnpcinvasion"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_FEREA]
+Syntax = "/startferea"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_NIXIE]
+Syntax = "/startnixie"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_CORE]
+Syntax = "/startcore"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_PVP]
+//-----
+//Info - /startpvp										- Start PvP Event
+//-----
+Syntax = "/startpvp"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_KILLALL]
+//-----
+//Info - /startkillall									- Start Kill All Event
+//-----
+Syntax = "/startkillall"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_HIDEANDSEEK]
+//-----
+//Info - /starthideandseek								- Start Hide and Seek Event
+//-----
+Syntax = "/starthideandseek"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_SKY_EVENT]
+//-----
+//Info - /startsky										- Start SkyEvent
+//-----
+Syntax = "/startsky"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_ROULETTE]
+//-----
+//Info - /ruletarusa									- Start Russian Roullete Event
+//-----
+Syntax = "/startroulette"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_SEARCH_EVENT]
+Syntax = "/startsearchevent"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_GMEVENT]
+// This is for GM Event Announcement
+Syntax = "/startgmevent"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_GMEVENT_JOIN]
+// This is for GM Event Announcement
+Syntax = "/startgmeventjoin"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_RUN_AND_CATCH]
+//-----
+//Info - /startrunandcatch                   	     - Start Run and Catch Event
+//-----
+Syntax = "/startrunandcatch"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[QUIZ_RESP]
+//-----
+//Info - /resp				<Msg>					- Quiz Event
+//-----
+Syntax = "/resp"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_HIDE_AND_SEEK_ESCAPE]
+Syntax = "/starthideescape"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_DOMINATION]
+Syntax = "/startdomination"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_ARKAWAR]
+Syntax = "/startarka"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[START_ACHERON]
+Syntax = "/startarche"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[KING_OF_MU]
+Syntax = "/king"
+OnlyGameMaster = 1
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[MARRY_PROPOSE]
+//-----
+//Info - /marry			<Name>						- Marry Character
+//-----
+Syntax = "/marry"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[MARRY_ACCEPT]
+//-----
+//Info - /accept										- Accept Marry
+//-----
+Syntax = "/marryaccept"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[MARRY_DIVORCE]
+//-----
+//Info - /divorce										- Try to Divorce
+//-----
+Syntax = "/marrydivorce"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[MARRY_FORCEDIVORCE]
+//-----
+//Info - /forcedivorce									- Force Divorce
+//-----
+Syntax = "/marryforce"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[TRACE_MARRY]
+//-----
+//Info - /tracemarry									- Go to Married Character
+//-----
+Syntax = "/tracemarry"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[SET_PARTY]
+//-----
+//Info - /setparty			<Password>					- Create Password for Party
+//-----
+Syntax = "/setparty"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[JOIN_PARTY]
+//-----
+//Info - /joinparty		<Password>					- Join to Party using password created with /setparty
+//-----
+Syntax = "/joinparty"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[PKTIME]
+Syntax = "/pktime"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[CLEAR_BUFFS]
+Syntax = "/clearbuffs"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1
+
+[ONLINE]
+Syntax = "/online"
+OnlyGameMaster = 0
+OnlyGuildMaster = 0
+OnlyUseSafeZone = 0
+Enable = 1,1,1,1

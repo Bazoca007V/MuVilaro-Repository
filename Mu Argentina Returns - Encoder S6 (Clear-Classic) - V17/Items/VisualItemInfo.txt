@@ -1,0 +1,11 @@
+//-------------------------------------------------------
+// Visual Item Info.
+// This file fix visual bug when you overflow 255 on BMD.
+// MagicDMG - Poner el doble del valor para que se vea visual ya que divide /2.
+// Si queremos que se vea en 500 (el item +0) debemos poner 1000
+//-------------------------------------------------------
+// 	Type	ID	DmgMin		DmgMax	Def	MagicDef MagicDMG
+//-------------------------------------------------------
+//Swords
+//	0		54	265         275		0		0 		0	//BlessedDivine Sword	
+end
